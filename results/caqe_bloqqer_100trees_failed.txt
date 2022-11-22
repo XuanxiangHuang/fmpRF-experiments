@@ -1,0 +1,2570 @@
+############ agaricus_lepiota ############
+c nof features: 22
+c nof classes: 2
+c nof samples: 8124
+Loading rf_models/RF2001/agaricus_lepiota/agaricus_lepiota_nbestim_100_maxdepth_4.mod.pkl
+Using solver: caqe
+
+agaricus_lepiota, 0-th inst file out of 200
+2QBF: query on feature 2 out of 22 features:
+Using preprocessor bloqqer:
+***** AXps containing 2 *****
+Solving FMP (CPU) time: 1200.07 secs
+agaricus_lepiota, 1-th inst file out of 200
+2QBF: query on feature 9 out of 22 features:
+Using preprocessor bloqqer:
+***** AXps containing 9 *****
+Solving FMP (CPU) time: 1200.09 secs
+agaricus_lepiota, 2-th inst file out of 200
+2QBF: query on feature 8 out of 22 features:
+Using preprocessor bloqqer:
+***** AXps containing 8 *****
+Solving FMP (CPU) time: 4.64 secs
+agaricus_lepiota, 3-th inst file out of 200
+2QBF: query on feature 20 out of 22 features:
+Using preprocessor bloqqer:
+***** AXps containing 20 *****
+Solving FMP (CPU) time: 3.93 secs
+agaricus_lepiota, 4-th inst file out of 200
+2QBF: query on feature 14 out of 22 features:
+Using preprocessor bloqqer:
+***** AXps containing 14 *****
+Solving FMP (CPU) time: 413.06 secs
+agaricus_lepiota, 5-th inst file out of 200
+2QBF: query on feature 4 out of 22 features:
+Using preprocessor bloqqer:
+***** AXps containing 4 *****
+Solving FMP (CPU) time: 47.49 secs
+agaricus_lepiota, 6-th inst file out of 200
+2QBF: query on feature 11 out of 22 features:
+Using preprocessor bloqqer:
+***** AXps containing 11 *****
+Solving FMP (CPU) time: 106.75 secs
+agaricus_lepiota, 7-th inst file out of 200
+2QBF: query on feature 19 out of 22 features:
+Using preprocessor bloqqer:
+***** AXps containing 19 *****
+Solving FMP (CPU) time: 3.89 secs
+agaricus_lepiota, 8-th inst file out of 200
+2QBF: query on feature 19 out of 22 features:
+Using preprocessor bloqqer:
+***** AXps containing 19 *****
+Solving FMP (CPU) time: 4.02 secs
+agaricus_lepiota, 9-th inst file out of 200
+2QBF: query on feature 8 out of 22 features:
+Using preprocessor bloqqer:
+***** AXps containing 8 *****
+Solving FMP (CPU) time: 3.68 secs
+agaricus_lepiota, 10-th inst file out of 200
+2QBF: query on feature 4 out of 22 features:
+Using preprocessor bloqqer:
+***** AXps containing 4 *****
+Solving FMP (CPU) time: 4.09 secs
+agaricus_lepiota, 11-th inst file out of 200
+2QBF: query on feature 20 out of 22 features:
+Using preprocessor bloqqer:
+***** AXps containing 20 *****
+Solving FMP (CPU) time: 35.88 secs
+agaricus_lepiota, 12-th inst file out of 200
+2QBF: query on feature 14 out of 22 features:
+Using preprocessor bloqqer:
+***** AXps containing 14 *****
+Solving FMP (CPU) time: 64.03 secs
+agaricus_lepiota, 13-th inst file out of 200
+2QBF: query on feature 15 out of 22 features:
+interested feature not in RF, so there is no AXp
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 0.00 secs
+agaricus_lepiota, 14-th inst file out of 200
+2QBF: query on feature 19 out of 22 features:
+Using preprocessor bloqqer:
+***** AXps containing 19 *****
+Solving FMP (CPU) time: 4.35 secs
+agaricus_lepiota, 15-th inst file out of 200
+2QBF: query on feature 18 out of 22 features:
+Using preprocessor bloqqer:
+***** AXps containing 18 *****
+Solving FMP (CPU) time: 4.13 secs
+agaricus_lepiota, 16-th inst file out of 200
+2QBF: query on feature 11 out of 22 features:
+Using preprocessor bloqqer:
+***** AXps containing 11 *****
+Solving FMP (CPU) time: 45.67 secs
+agaricus_lepiota, 17-th inst file out of 200
+2QBF: query on feature 1 out of 22 features:
+Using preprocessor bloqqer:
+***** AXps containing 1 *****
+Solving FMP (CPU) time: 1200.07 secs
+agaricus_lepiota, 18-th inst file out of 200
+2QBF: query on feature 2 out of 22 features:
+Using preprocessor bloqqer:
+***** AXps containing 2 *****
+Solving FMP (CPU) time: 84.29 secs
+agaricus_lepiota, 19-th inst file out of 200
+2QBF: query on feature 5 out of 22 features:
+Using preprocessor bloqqer:
+***** AXps containing 5 *****
+Solving FMP (CPU) time: 4.42 secs
+agaricus_lepiota, 20-th inst file out of 200
+2QBF: query on feature 0 out of 22 features:
+Using preprocessor bloqqer:
+***** AXps containing 0 *****
+Solving FMP (CPU) time: 1200.15 secs
+agaricus_lepiota, 21-th inst file out of 200
+2QBF: query on feature 10 out of 22 features:
+Using preprocessor bloqqer:
+***** AXps containing 10 *****
+Solving FMP (CPU) time: 12.03 secs
+agaricus_lepiota, 22-th inst file out of 200
+2QBF: query on feature 0 out of 22 features:
+Using preprocessor bloqqer:
+***** AXps containing 0 *****
+Solving FMP (CPU) time: 26.08 secs
+agaricus_lepiota, 23-th inst file out of 200
+2QBF: query on feature 19 out of 22 features:
+Using preprocessor bloqqer:
+***** AXps containing 19 *****
+Solving FMP (CPU) time: 4.63 secs
+agaricus_lepiota, 24-th inst file out of 200
+2QBF: query on feature 7 out of 22 features:
+Using preprocessor bloqqer:
+***** AXps containing 7 *****
+Solving FMP (CPU) time: 4.28 secs
+agaricus_lepiota, 25-th inst file out of 200
+2QBF: query on feature 9 out of 22 features:
+Using preprocessor bloqqer:
+***** AXps containing 9 *****
+Solving FMP (CPU) time: 8.79 secs
+agaricus_lepiota, 26-th inst file out of 200
+2QBF: query on feature 4 out of 22 features:
+Using preprocessor bloqqer:
+***** AXps containing 4 *****
+Solving FMP (CPU) time: 1200.08 secs
+agaricus_lepiota, 27-th inst file out of 200
+2QBF: query on feature 13 out of 22 features:
+Using preprocessor bloqqer:
+***** AXps containing 13 *****
+Solving FMP (CPU) time: 4.89 secs
+agaricus_lepiota, 28-th inst file out of 200
+2QBF: query on feature 8 out of 22 features:
+Using preprocessor bloqqer:
+***** AXps containing 8 *****
+Solving FMP (CPU) time: 4.89 secs
+agaricus_lepiota, 29-th inst file out of 200
+2QBF: query on feature 10 out of 22 features:
+Using preprocessor bloqqer:
+***** AXps containing 10 *****
+Solving FMP (CPU) time: 164.56 secs
+agaricus_lepiota, 30-th inst file out of 200
+2QBF: query on feature 12 out of 22 features:
+Using preprocessor bloqqer:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 36.41 secs
+agaricus_lepiota, 31-th inst file out of 200
+2QBF: query on feature 9 out of 22 features:
+Using preprocessor bloqqer:
+***** AXps containing 9 *****
+Solving FMP (CPU) time: 1200.08 secs
+agaricus_lepiota, 32-th inst file out of 200
+2QBF: query on feature 8 out of 22 features:
+Using preprocessor bloqqer:
+***** AXps containing 8 *****
+Solving FMP (CPU) time: 4.09 secs
+agaricus_lepiota, 33-th inst file out of 200
+2QBF: query on feature 2 out of 22 features:
+Using preprocessor bloqqer:
+***** AXps containing 2 *****
+Solving FMP (CPU) time: 6.50 secs
+agaricus_lepiota, 34-th inst file out of 200
+2QBF: query on feature 14 out of 22 features:
+Using preprocessor bloqqer:
+***** AXps containing 14 *****
+Solving FMP (CPU) time: 315.30 secs
+agaricus_lepiota, 35-th inst file out of 200
+2QBF: query on feature 15 out of 22 features:
+interested feature not in RF, so there is no AXp
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 0.00 secs
+agaricus_lepiota, 36-th inst file out of 200
+2QBF: query on feature 19 out of 22 features:
+Using preprocessor bloqqer:
+***** AXps containing 19 *****
+Solving FMP (CPU) time: 28.84 secs
+agaricus_lepiota, 37-th inst file out of 200
+2QBF: query on feature 8 out of 22 features:
+Using preprocessor bloqqer:
+***** AXps containing 8 *****
+Solving FMP (CPU) time: 6.29 secs
+agaricus_lepiota, 38-th inst file out of 200
+2QBF: query on feature 0 out of 22 features:
+Using preprocessor bloqqer:
+***** AXps containing 0 *****
+Solving FMP (CPU) time: 132.26 secs
+agaricus_lepiota, 39-th inst file out of 200
+2QBF: query on feature 6 out of 22 features:
+Using preprocessor bloqqer:
+***** AXps containing 6 *****
+Solving FMP (CPU) time: 1200.07 secs
+agaricus_lepiota, 40-th inst file out of 200
+2QBF: query on feature 4 out of 22 features:
+Using preprocessor bloqqer:
+***** AXps containing 4 *****
+Solving FMP (CPU) time: 35.90 secs
+agaricus_lepiota, 41-th inst file out of 200
+2QBF: query on feature 20 out of 22 features:
+Using preprocessor bloqqer:
+***** AXps containing 20 *****
+Solving FMP (CPU) time: 36.99 secs
+agaricus_lepiota, 42-th inst file out of 200
+2QBF: query on feature 21 out of 22 features:
+Using preprocessor bloqqer:
+***** AXps containing 21 *****
+Solving FMP (CPU) time: 4.37 secs
+agaricus_lepiota, 43-th inst file out of 200
+2QBF: query on feature 8 out of 22 features:
+Using preprocessor bloqqer:
+***** AXps containing 8 *****
+Solving FMP (CPU) time: 175.22 secs
+agaricus_lepiota, 44-th inst file out of 200
+2QBF: query on feature 15 out of 22 features:
+interested feature not in RF, so there is no AXp
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 0.00 secs
+agaricus_lepiota, 45-th inst file out of 200
+2QBF: query on feature 12 out of 22 features:
+Using preprocessor bloqqer:
+***** AXps containing 12 *****
+Solving FMP (CPU) time: 3.88 secs
+agaricus_lepiota, 46-th inst file out of 200
+2QBF: query on feature 7 out of 22 features:
+Using preprocessor bloqqer:
+***** AXps containing 7 *****
+Solving FMP (CPU) time: 26.55 secs
+agaricus_lepiota, 47-th inst file out of 200
+2QBF: query on feature 20 out of 22 features:
+Using preprocessor bloqqer:
+***** AXps containing 20 *****
+Solving FMP (CPU) time: 72.44 secs
+agaricus_lepiota, 48-th inst file out of 200
+2QBF: query on feature 0 out of 22 features:
+Using preprocessor bloqqer:
+***** AXps containing 0 *****
+Solving FMP (CPU) time: 1200.07 secs
+agaricus_lepiota, 49-th inst file out of 200
+2QBF: query on feature 2 out of 22 features:
+Using preprocessor bloqqer:
+***** AXps containing 2 *****
+Solving FMP (CPU) time: 1200.10 secs
+agaricus_lepiota, 50-th inst file out of 200
+2QBF: query on feature 1 out of 22 features:
+Using preprocessor bloqqer:
+***** AXps containing 1 *****
+Solving FMP (CPU) time: 39.84 secs
+agaricus_lepiota, 51-th inst file out of 200
+2QBF: query on feature 6 out of 22 features:
+Using preprocessor bloqqer:
+***** AXps containing 6 *****
+Solving FMP (CPU) time: 1200.08 secs
+agaricus_lepiota, 52-th inst file out of 200
+2QBF: query on feature 3 out of 22 features:
+Using preprocessor bloqqer:
+***** AXps containing 3 *****
+Solving FMP (CPU) time: 5.33 secs
+agaricus_lepiota, 53-th inst file out of 200
+2QBF: query on feature 18 out of 22 features:
+Using preprocessor bloqqer:
+***** AXps containing 18 *****
+Solving FMP (CPU) time: 13.03 secs
+agaricus_lepiota, 54-th inst file out of 200
+2QBF: query on feature 4 out of 22 features:
+Using preprocessor bloqqer:
+***** AXps containing 4 *****
+Solving FMP (CPU) time: 33.91 secs
+agaricus_lepiota, 55-th inst file out of 200
+2QBF: query on feature 12 out of 22 features:
+Using preprocessor bloqqer:
+***** AXps containing 12 *****
+Solving FMP (CPU) time: 8.03 secs
+agaricus_lepiota, 56-th inst file out of 200
+2QBF: query on feature 16 out of 22 features:
+Using preprocessor bloqqer:
+***** AXps containing 16 *****
+Solving FMP (CPU) time: 48.80 secs
+agaricus_lepiota, 57-th inst file out of 200
+2QBF: query on feature 9 out of 22 features:
+Using preprocessor bloqqer:
+***** AXps containing 9 *****
+Solving FMP (CPU) time: 12.10 secs
+agaricus_lepiota, 58-th inst file out of 200
+2QBF: query on feature 7 out of 22 features:
+Using preprocessor bloqqer:
+***** AXps containing 7 *****
+Solving FMP (CPU) time: 9.86 secs
+agaricus_lepiota, 59-th inst file out of 200
+2QBF: query on feature 6 out of 22 features:
+Using preprocessor bloqqer:
+***** AXps containing 6 *****
+Solving FMP (CPU) time: 6.31 secs
+agaricus_lepiota, 60-th inst file out of 200
+2QBF: query on feature 13 out of 22 features:
+Using preprocessor bloqqer:
+***** AXps containing 13 *****
+Solving FMP (CPU) time: 30.76 secs
+agaricus_lepiota, 61-th inst file out of 200
+2QBF: query on feature 3 out of 22 features:
+Using preprocessor bloqqer:
+***** AXps containing 3 *****
+Solving FMP (CPU) time: 5.07 secs
+agaricus_lepiota, 62-th inst file out of 200
+2QBF: query on feature 13 out of 22 features:
+Using preprocessor bloqqer:
+***** AXps containing 13 *****
+Solving FMP (CPU) time: 1200.07 secs
+agaricus_lepiota, 63-th inst file out of 200
+2QBF: query on feature 18 out of 22 features:
+Using preprocessor bloqqer:
+***** AXps containing 18 *****
+Solving FMP (CPU) time: 4.26 secs
+agaricus_lepiota, 64-th inst file out of 200
+2QBF: query on feature 1 out of 22 features:
+Using preprocessor bloqqer:
+***** AXps containing 1 *****
+Solving FMP (CPU) time: 1200.07 secs
+agaricus_lepiota, 65-th inst file out of 200
+2QBF: query on feature 6 out of 22 features:
+Using preprocessor bloqqer:
+***** AXps containing 6 *****
+Solving FMP (CPU) time: 8.31 secs
+agaricus_lepiota, 66-th inst file out of 200
+2QBF: query on feature 5 out of 22 features:
+Using preprocessor bloqqer:
+***** AXps containing 5 *****
+Solving FMP (CPU) time: 1200.06 secs
+agaricus_lepiota, 67-th inst file out of 200
+2QBF: query on feature 11 out of 22 features:
+Using preprocessor bloqqer:
+Timeout after 18000 seconds
+
+############ allbp ############
+c nof features: 29
+c nof classes: 3
+c nof samples: 3711
+Loading rf_models/RF2001/allbp/allbp_nbestim_100_maxdepth_4.mod.pkl
+Using solver: caqe
+
+allbp, 0-th inst file out of 200
+2QBF: query on feature 13 out of 29 features:
+Using preprocessor bloqqer:
+***** AXps containing 13 *****
+Solving FMP (CPU) time: 1200.28 secs
+allbp, 1-th inst file out of 200
+2QBF: query on feature 8 out of 29 features:
+Using preprocessor bloqqer:
+***** AXps containing 8 *****
+Solving FMP (CPU) time: 1200.15 secs
+allbp, 2-th inst file out of 200
+2QBF: query on feature 3 out of 29 features:
+Using preprocessor bloqqer:
+***** AXps containing 3 *****
+Solving FMP (CPU) time: 1200.24 secs
+allbp, 3-th inst file out of 200
+2QBF: query on feature 23 out of 29 features:
+Using preprocessor bloqqer:
+***** AXps containing 23 *****
+Solving FMP (CPU) time: 1200.15 secs
+allbp, 4-th inst file out of 200
+2QBF: query on feature 17 out of 29 features:
+Using preprocessor bloqqer:
+***** AXps containing 17 *****
+Solving FMP (CPU) time: 1200.20 secs
+allbp, 5-th inst file out of 200
+2QBF: query on feature 17 out of 29 features:
+Using preprocessor bloqqer:
+***** AXps containing 17 *****
+Solving FMP (CPU) time: 1200.16 secs
+allbp, 6-th inst file out of 200
+2QBF: query on feature 7 out of 29 features:
+Using preprocessor bloqqer:
+***** AXps containing 7 *****
+Solving FMP (CPU) time: 1200.18 secs
+allbp, 7-th inst file out of 200
+2QBF: query on feature 10 out of 29 features:
+Using preprocessor bloqqer:
+***** AXps containing 10 *****
+Solving FMP (CPU) time: 1201.31 secs
+allbp, 8-th inst file out of 200
+2QBF: query on feature 18 out of 29 features:
+Using preprocessor bloqqer:
+***** AXps containing 18 *****
+Solving FMP (CPU) time: 1200.26 secs
+allbp, 9-th inst file out of 200
+2QBF: query on feature 24 out of 29 features:
+Using preprocessor bloqqer:
+***** AXps containing 24 *****
+Solving FMP (CPU) time: 1200.13 secs
+allbp, 10-th inst file out of 200
+2QBF: query on feature 10 out of 29 features:
+Using preprocessor bloqqer:
+***** AXps containing 10 *****
+Solving FMP (CPU) time: 1200.16 secs
+allbp, 11-th inst file out of 200
+2QBF: query on feature 8 out of 29 features:
+Using preprocessor bloqqer:
+***** AXps containing 8 *****
+Solving FMP (CPU) time: 1200.14 secs
+allbp, 12-th inst file out of 200
+2QBF: query on feature 23 out of 29 features:
+Using preprocessor bloqqer:
+***** AXps containing 23 *****
+Solving FMP (CPU) time: 1200.17 secs
+allbp, 13-th inst file out of 200
+2QBF: query on feature 0 out of 29 features:
+Using preprocessor bloqqer:
+***** AXps containing 0 *****
+Solving FMP (CPU) time: 1200.14 secs
+allbp, 14-th inst file out of 200
+2QBF: query on feature 14 out of 29 features:
+interested feature not in RF, so there is no AXp
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 0.00 secs
+allbp, 15-th inst file out of 200
+2QBF: query on feature 26 out of 29 features:
+interested feature not in RF, so there is no AXp
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 0.00 secs
+allbp, 16-th inst file out of 200
+2QBF: query on feature 7 out of 29 features:
+Using preprocessor bloqqer:
+Timeout after 18000 seconds
+
+############ ann_thyroid ############
+c nof features: 21
+c nof classes: 3
+c nof samples: 7129
+Loading rf_models/RF2001/ann_thyroid/ann_thyroid_nbestim_100_maxdepth_4.mod.pkl
+Using solver: caqe
+
+ann_thyroid, 0-th inst file out of 200
+2QBF: query on feature 2 out of 21 features:
+Using preprocessor bloqqer:
+***** AXps containing 2 *****
+Solving FMP (CPU) time: 44.69 secs
+ann_thyroid, 1-th inst file out of 200
+2QBF: query on feature 18 out of 21 features:
+Using preprocessor bloqqer:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 31.95 secs
+ann_thyroid, 2-th inst file out of 200
+2QBF: query on feature 16 out of 21 features:
+Using preprocessor bloqqer:
+***** AXps containing 16 *****
+Solving FMP (CPU) time: 1200.15 secs
+ann_thyroid, 3-th inst file out of 200
+2QBF: query on feature 2 out of 21 features:
+Using preprocessor bloqqer:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 32.88 secs
+ann_thyroid, 4-th inst file out of 200
+2QBF: query on feature 14 out of 21 features:
+interested feature not in RF, so there is no AXp
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 0.00 secs
+ann_thyroid, 5-th inst file out of 200
+2QBF: query on feature 12 out of 21 features:
+Using preprocessor bloqqer:
+***** AXps containing 12 *****
+Solving FMP (CPU) time: 1200.13 secs
+ann_thyroid, 6-th inst file out of 200
+2QBF: query on feature 11 out of 21 features:
+Using preprocessor bloqqer:
+***** AXps containing 11 *****
+Solving FMP (CPU) time: 1200.15 secs
+ann_thyroid, 7-th inst file out of 200
+2QBF: query on feature 2 out of 21 features:
+Using preprocessor bloqqer:
+***** AXps containing 2 *****
+Solving FMP (CPU) time: 1200.18 secs
+ann_thyroid, 8-th inst file out of 200
+2QBF: query on feature 15 out of 21 features:
+Using preprocessor bloqqer:
+***** AXps containing 15 *****
+Solving FMP (CPU) time: 1200.15 secs
+ann_thyroid, 9-th inst file out of 200
+2QBF: query on feature 11 out of 21 features:
+Using preprocessor bloqqer:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 36.51 secs
+ann_thyroid, 10-th inst file out of 200
+2QBF: query on feature 12 out of 21 features:
+Using preprocessor bloqqer:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 32.84 secs
+ann_thyroid, 11-th inst file out of 200
+2QBF: query on feature 9 out of 21 features:
+Using preprocessor bloqqer:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 106.23 secs
+ann_thyroid, 12-th inst file out of 200
+2QBF: query on feature 9 out of 21 features:
+Using preprocessor bloqqer:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 50.47 secs
+ann_thyroid, 13-th inst file out of 200
+2QBF: query on feature 13 out of 21 features:
+Using preprocessor bloqqer:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 32.78 secs
+ann_thyroid, 14-th inst file out of 200
+2QBF: query on feature 19 out of 21 features:
+Using preprocessor bloqqer:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 31.90 secs
+ann_thyroid, 15-th inst file out of 200
+2QBF: query on feature 14 out of 21 features:
+interested feature not in RF, so there is no AXp
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 0.00 secs
+ann_thyroid, 16-th inst file out of 200
+2QBF: query on feature 20 out of 21 features:
+Using preprocessor bloqqer:
+***** AXps containing 20 *****
+Solving FMP (CPU) time: 1200.13 secs
+ann_thyroid, 17-th inst file out of 200
+2QBF: query on feature 2 out of 21 features:
+Using preprocessor bloqqer:
+***** AXps containing 2 *****
+Solving FMP (CPU) time: 82.11 secs
+ann_thyroid, 18-th inst file out of 200
+2QBF: query on feature 17 out of 21 features:
+Using preprocessor bloqqer:
+***** AXps containing 17 *****
+Solving FMP (CPU) time: 31.33 secs
+ann_thyroid, 19-th inst file out of 200
+2QBF: query on feature 7 out of 21 features:
+Using preprocessor bloqqer:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 32.45 secs
+ann_thyroid, 20-th inst file out of 200
+2QBF: query on feature 12 out of 21 features:
+Using preprocessor bloqqer:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 32.86 secs
+ann_thyroid, 21-th inst file out of 200
+2QBF: query on feature 0 out of 21 features:
+Using preprocessor bloqqer:
+***** AXps containing 0 *****
+Solving FMP (CPU) time: 1200.18 secs
+ann_thyroid, 22-th inst file out of 200
+2QBF: query on feature 15 out of 21 features:
+Using preprocessor bloqqer:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 32.19 secs
+ann_thyroid, 23-th inst file out of 200
+2QBF: query on feature 3 out of 21 features:
+Using preprocessor bloqqer:
+***** AXps containing 3 *****
+Solving FMP (CPU) time: 1200.14 secs
+ann_thyroid, 24-th inst file out of 200
+2QBF: query on feature 9 out of 21 features:
+Using preprocessor bloqqer:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 32.64 secs
+ann_thyroid, 25-th inst file out of 200
+2QBF: query on feature 11 out of 21 features:
+Using preprocessor bloqqer:
+***** AXps containing 11 *****
+Solving FMP (CPU) time: 33.10 secs
+ann_thyroid, 26-th inst file out of 200
+2QBF: query on feature 3 out of 21 features:
+Using preprocessor bloqqer:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 34.73 secs
+ann_thyroid, 27-th inst file out of 200
+2QBF: query on feature 2 out of 21 features:
+Using preprocessor bloqqer:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 33.28 secs
+ann_thyroid, 28-th inst file out of 200
+2QBF: query on feature 10 out of 21 features:
+Using preprocessor bloqqer:
+***** AXps containing 10 *****
+Solving FMP (CPU) time: 1200.14 secs
+ann_thyroid, 29-th inst file out of 200
+2QBF: query on feature 16 out of 21 features:
+Using preprocessor bloqqer:
+***** AXps containing 16 *****
+Solving FMP (CPU) time: 1200.15 secs
+ann_thyroid, 30-th inst file out of 200
+2QBF: query on feature 14 out of 21 features:
+interested feature not in RF, so there is no AXp
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 0.00 secs
+ann_thyroid, 31-th inst file out of 200
+2QBF: query on feature 18 out of 21 features:
+Using preprocessor bloqqer:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 30.50 secs
+ann_thyroid, 32-th inst file out of 200
+2QBF: query on feature 5 out of 21 features:
+Using preprocessor bloqqer:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 33.19 secs
+ann_thyroid, 33-th inst file out of 200
+2QBF: query on feature 4 out of 21 features:
+Using preprocessor bloqqer:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 34.17 secs
+ann_thyroid, 34-th inst file out of 200
+2QBF: query on feature 6 out of 21 features:
+Using preprocessor bloqqer:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 33.84 secs
+ann_thyroid, 35-th inst file out of 200
+2QBF: query on feature 4 out of 21 features:
+Using preprocessor bloqqer:
+***** AXps containing 4 *****
+Solving FMP (CPU) time: 1200.15 secs
+ann_thyroid, 36-th inst file out of 200
+2QBF: query on feature 14 out of 21 features:
+interested feature not in RF, so there is no AXp
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 0.00 secs
+ann_thyroid, 37-th inst file out of 200
+2QBF: query on feature 0 out of 21 features:
+Using preprocessor bloqqer:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 31.15 secs
+ann_thyroid, 38-th inst file out of 200
+2QBF: query on feature 5 out of 21 features:
+Using preprocessor bloqqer:
+***** AXps containing 5 *****
+Solving FMP (CPU) time: 858.84 secs
+ann_thyroid, 39-th inst file out of 200
+2QBF: query on feature 0 out of 21 features:
+Using preprocessor bloqqer:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 30.96 secs
+ann_thyroid, 40-th inst file out of 200
+2QBF: query on feature 16 out of 21 features:
+Using preprocessor bloqqer:
+***** AXps containing 16 *****
+Solving FMP (CPU) time: 1200.13 secs
+ann_thyroid, 41-th inst file out of 200
+2QBF: query on feature 3 out of 21 features:
+Using preprocessor bloqqer:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 33.46 secs
+ann_thyroid, 42-th inst file out of 200
+2QBF: query on feature 9 out of 21 features:
+Using preprocessor bloqqer:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 31.61 secs
+ann_thyroid, 43-th inst file out of 200
+2QBF: query on feature 16 out of 21 features:
+Using preprocessor bloqqer:
+***** AXps containing 16 *****
+Solving FMP (CPU) time: 1200.18 secs
+ann_thyroid, 44-th inst file out of 200
+2QBF: query on feature 2 out of 21 features:
+Using preprocessor bloqqer:
+***** AXps containing 2 *****
+Solving FMP (CPU) time: 33.49 secs
+ann_thyroid, 45-th inst file out of 200
+2QBF: query on feature 11 out of 21 features:
+Using preprocessor bloqqer:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 32.24 secs
+ann_thyroid, 46-th inst file out of 200
+2QBF: query on feature 18 out of 21 features:
+Using preprocessor bloqqer:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 30.96 secs
+ann_thyroid, 47-th inst file out of 200
+2QBF: query on feature 9 out of 21 features:
+Using preprocessor bloqqer:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 33.28 secs
+ann_thyroid, 48-th inst file out of 200
+2QBF: query on feature 2 out of 21 features:
+Using preprocessor bloqqer:
+Timeout after 18000 seconds
+
+############ appendicitis ############
+c nof features: 7
+c nof classes: 2
+c nof samples: 106
+Loading rf_models/RF2001/appendicitis/appendicitis_nbestim_100_maxdepth_4.mod.pkl
+Using solver: caqe
+
+appendicitis, 0-th inst file out of 106
+2QBF: query on feature 6 out of 7 features:
+Using preprocessor bloqqer:
+***** AXps containing 6 *****
+Solving FMP (CPU) time: 5.97 secs
+appendicitis, 1-th inst file out of 106
+2QBF: query on feature 1 out of 7 features:
+Using preprocessor bloqqer:
+***** AXps containing 1 *****
+Solving FMP (CPU) time: 6.45 secs
+appendicitis, 2-th inst file out of 106
+2QBF: query on feature 4 out of 7 features:
+Using preprocessor bloqqer:
+***** AXps containing 4 *****
+Solving FMP (CPU) time: 1200.08 secs
+appendicitis, 3-th inst file out of 106
+2QBF: query on feature 5 out of 7 features:
+Using preprocessor bloqqer:
+***** AXps containing 5 *****
+Solving FMP (CPU) time: 6.72 secs
+appendicitis, 4-th inst file out of 106
+2QBF: query on feature 5 out of 7 features:
+Using preprocessor bloqqer:
+***** AXps containing 5 *****
+Solving FMP (CPU) time: 1200.07 secs
+appendicitis, 5-th inst file out of 106
+2QBF: query on feature 1 out of 7 features:
+Using preprocessor bloqqer:
+***** AXps containing 1 *****
+Solving FMP (CPU) time: 1200.07 secs
+appendicitis, 6-th inst file out of 106
+2QBF: query on feature 5 out of 7 features:
+Using preprocessor bloqqer:
+***** AXps containing 5 *****
+Solving FMP (CPU) time: 263.81 secs
+appendicitis, 7-th inst file out of 106
+2QBF: query on feature 2 out of 7 features:
+Using preprocessor bloqqer:
+***** AXps containing 2 *****
+Solving FMP (CPU) time: 1200.07 secs
+appendicitis, 8-th inst file out of 106
+2QBF: query on feature 1 out of 7 features:
+Using preprocessor bloqqer:
+***** AXps containing 1 *****
+Solving FMP (CPU) time: 1200.07 secs
+appendicitis, 9-th inst file out of 106
+2QBF: query on feature 5 out of 7 features:
+Using preprocessor bloqqer:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 643.45 secs
+appendicitis, 10-th inst file out of 106
+2QBF: query on feature 2 out of 7 features:
+Using preprocessor bloqqer:
+***** AXps containing 2 *****
+Solving FMP (CPU) time: 1200.09 secs
+appendicitis, 11-th inst file out of 106
+2QBF: query on feature 4 out of 7 features:
+Using preprocessor bloqqer:
+***** AXps containing 4 *****
+Solving FMP (CPU) time: 1200.08 secs
+appendicitis, 12-th inst file out of 106
+2QBF: query on feature 3 out of 7 features:
+Using preprocessor bloqqer:
+***** AXps containing 3 *****
+Solving FMP (CPU) time: 6.09 secs
+appendicitis, 13-th inst file out of 106
+2QBF: query on feature 1 out of 7 features:
+Using preprocessor bloqqer:
+***** AXps containing 1 *****
+Solving FMP (CPU) time: 68.81 secs
+appendicitis, 14-th inst file out of 106
+2QBF: query on feature 0 out of 7 features:
+Using preprocessor bloqqer:
+***** AXps containing 0 *****
+Solving FMP (CPU) time: 260.85 secs
+appendicitis, 15-th inst file out of 106
+2QBF: query on feature 1 out of 7 features:
+Using preprocessor bloqqer:
+***** AXps containing 1 *****
+Solving FMP (CPU) time: 1200.07 secs
+appendicitis, 16-th inst file out of 106
+2QBF: query on feature 0 out of 7 features:
+Using preprocessor bloqqer:
+***** AXps containing 0 *****
+Solving FMP (CPU) time: 586.59 secs
+appendicitis, 17-th inst file out of 106
+2QBF: query on feature 6 out of 7 features:
+Using preprocessor bloqqer:
+***** AXps containing 6 *****
+Solving FMP (CPU) time: 1200.07 secs
+appendicitis, 18-th inst file out of 106
+2QBF: query on feature 5 out of 7 features:
+Using preprocessor bloqqer:
+***** AXps containing 5 *****
+Solving FMP (CPU) time: 99.61 secs
+appendicitis, 19-th inst file out of 106
+2QBF: query on feature 0 out of 7 features:
+Using preprocessor bloqqer:
+***** AXps containing 0 *****
+Solving FMP (CPU) time: 1200.09 secs
+appendicitis, 20-th inst file out of 106
+2QBF: query on feature 1 out of 7 features:
+Using preprocessor bloqqer:
+***** AXps containing 1 *****
+Solving FMP (CPU) time: 1200.08 secs
+appendicitis, 21-th inst file out of 106
+2QBF: query on feature 1 out of 7 features:
+Using preprocessor bloqqer:
+***** AXps containing 1 *****
+Solving FMP (CPU) time: 1200.08 secs
+appendicitis, 22-th inst file out of 106
+2QBF: query on feature 1 out of 7 features:
+Using preprocessor bloqqer:
+***** AXps containing 1 *****
+Solving FMP (CPU) time: 147.39 secs
+appendicitis, 23-th inst file out of 106
+2QBF: query on feature 2 out of 7 features:
+Using preprocessor bloqqer:
+***** AXps containing 2 *****
+Solving FMP (CPU) time: 1200.13 secs
+appendicitis, 24-th inst file out of 106
+2QBF: query on feature 0 out of 7 features:
+Using preprocessor bloqqer:
+***** AXps containing 0 *****
+Solving FMP (CPU) time: 57.19 secs
+appendicitis, 25-th inst file out of 106
+2QBF: query on feature 1 out of 7 features:
+Using preprocessor bloqqer:
+***** AXps containing 1 *****
+Solving FMP (CPU) time: 6.78 secs
+appendicitis, 26-th inst file out of 106
+2QBF: query on feature 5 out of 7 features:
+Using preprocessor bloqqer:
+Timeout after 18000 seconds
+
+############ collins ############
+c nof features: 23
+c nof classes: 13
+c nof samples: 485
+Loading rf_models/RF2001/collins/collins_nbestim_100_maxdepth_4.mod.pkl
+Using solver: caqe
+
+collins, 0-th inst file out of 200
+2QBF: query on feature 22 out of 23 features:
+interested feature not in RF, so there is no AXp
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 0.00 secs
+collins, 1-th inst file out of 200
+2QBF: query on feature 12 out of 23 features:
+Using preprocessor bloqqer:
+***** AXps containing 12 *****
+Solving FMP (CPU) time: 1200.34 secs
+collins, 2-th inst file out of 200
+2QBF: query on feature 0 out of 23 features:
+Using preprocessor bloqqer:
+***** AXps containing 0 *****
+Solving FMP (CPU) time: 1200.37 secs
+collins, 3-th inst file out of 200
+2QBF: query on feature 4 out of 23 features:
+Using preprocessor bloqqer:
+***** AXps containing 4 *****
+Solving FMP (CPU) time: 1200.36 secs
+collins, 4-th inst file out of 200
+2QBF: query on feature 7 out of 23 features:
+Using preprocessor bloqqer:
+***** AXps containing 7 *****
+Solving FMP (CPU) time: 1200.40 secs
+collins, 5-th inst file out of 200
+2QBF: query on feature 1 out of 23 features:
+Using preprocessor bloqqer:
+***** AXps containing 1 *****
+Solving FMP (CPU) time: 1200.37 secs
+collins, 6-th inst file out of 200
+2QBF: query on feature 1 out of 23 features:
+Using preprocessor bloqqer:
+***** AXps containing 1 *****
+Solving FMP (CPU) time: 1200.36 secs
+collins, 7-th inst file out of 200
+2QBF: query on feature 2 out of 23 features:
+Using preprocessor bloqqer:
+***** AXps containing 2 *****
+Solving FMP (CPU) time: 1200.36 secs
+collins, 8-th inst file out of 200
+2QBF: query on feature 11 out of 23 features:
+Using preprocessor bloqqer:
+***** AXps containing 11 *****
+Solving FMP (CPU) time: 1200.37 secs
+collins, 9-th inst file out of 200
+2QBF: query on feature 12 out of 23 features:
+Using preprocessor bloqqer:
+***** AXps containing 12 *****
+Solving FMP (CPU) time: 1200.36 secs
+collins, 10-th inst file out of 200
+2QBF: query on feature 2 out of 23 features:
+Using preprocessor bloqqer:
+***** AXps containing 2 *****
+Solving FMP (CPU) time: 1200.37 secs
+collins, 11-th inst file out of 200
+2QBF: query on feature 11 out of 23 features:
+Using preprocessor bloqqer:
+***** AXps containing 11 *****
+Solving FMP (CPU) time: 1200.35 secs
+collins, 12-th inst file out of 200
+2QBF: query on feature 15 out of 23 features:
+Using preprocessor bloqqer:
+***** AXps containing 15 *****
+Solving FMP (CPU) time: 1200.35 secs
+collins, 13-th inst file out of 200
+2QBF: query on feature 17 out of 23 features:
+Using preprocessor bloqqer:
+***** AXps containing 17 *****
+Solving FMP (CPU) time: 1199.38 secs
+collins, 14-th inst file out of 200
+2QBF: query on feature 1 out of 23 features:
+Using preprocessor bloqqer:
+***** AXps containing 1 *****
+Solving FMP (CPU) time: 1200.35 secs
+collins, 15-th inst file out of 200
+2QBF: query on feature 13 out of 23 features:
+Using preprocessor bloqqer:
+Timeout after 18000 seconds
+
+############ hypothyroid ############
+c nof features: 25
+c nof classes: 2
+c nof samples: 3086
+Loading rf_models/RF2001/hypothyroid/hypothyroid_nbestim_100_maxdepth_4.mod.pkl
+Using solver: caqe
+
+hypothyroid, 0-th inst file out of 200
+2QBF: query on feature 19 out of 25 features:
+Using preprocessor bloqqer:
+***** AXps containing 19 *****
+Solving FMP (CPU) time: 1200.09 secs
+hypothyroid, 1-th inst file out of 200
+2QBF: query on feature 5 out of 25 features:
+Using preprocessor bloqqer:
+***** AXps containing 5 *****
+Solving FMP (CPU) time: 1200.10 secs
+hypothyroid, 2-th inst file out of 200
+2QBF: query on feature 6 out of 25 features:
+Using preprocessor bloqqer:
+***** AXps containing 6 *****
+Solving FMP (CPU) time: 1200.08 secs
+hypothyroid, 3-th inst file out of 200
+2QBF: query on feature 24 out of 25 features:
+Using preprocessor bloqqer:
+***** AXps containing 24 *****
+Solving FMP (CPU) time: 1200.09 secs
+hypothyroid, 4-th inst file out of 200
+2QBF: query on feature 23 out of 25 features:
+Using preprocessor bloqqer:
+***** AXps containing 23 *****
+Solving FMP (CPU) time: 1200.08 secs
+hypothyroid, 5-th inst file out of 200
+2QBF: query on feature 16 out of 25 features:
+Using preprocessor bloqqer:
+***** AXps containing 16 *****
+Solving FMP (CPU) time: 4.25 secs
+hypothyroid, 6-th inst file out of 200
+2QBF: query on feature 8 out of 25 features:
+Using preprocessor bloqqer:
+***** AXps containing 8 *****
+Solving FMP (CPU) time: 1200.11 secs
+hypothyroid, 7-th inst file out of 200
+2QBF: query on feature 2 out of 25 features:
+Using preprocessor bloqqer:
+***** AXps containing 2 *****
+Solving FMP (CPU) time: 1200.10 secs
+hypothyroid, 8-th inst file out of 200
+2QBF: query on feature 0 out of 25 features:
+Using preprocessor bloqqer:
+***** AXps containing 0 *****
+Solving FMP (CPU) time: 1200.15 secs
+hypothyroid, 9-th inst file out of 200
+2QBF: query on feature 9 out of 25 features:
+Using preprocessor bloqqer:
+***** AXps containing 9 *****
+Solving FMP (CPU) time: 1200.14 secs
+hypothyroid, 10-th inst file out of 200
+2QBF: query on feature 4 out of 25 features:
+Using preprocessor bloqqer:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 692.02 secs
+hypothyroid, 11-th inst file out of 200
+2QBF: query on feature 5 out of 25 features:
+Using preprocessor bloqqer:
+***** AXps containing 5 *****
+Solving FMP (CPU) time: 1200.09 secs
+hypothyroid, 12-th inst file out of 200
+2QBF: query on feature 19 out of 25 features:
+Using preprocessor bloqqer:
+***** AXps containing 19 *****
+Solving FMP (CPU) time: 1200.11 secs
+hypothyroid, 13-th inst file out of 200
+2QBF: query on feature 7 out of 25 features:
+Using preprocessor bloqqer:
+***** AXps containing 7 *****
+Solving FMP (CPU) time: 1200.09 secs
+hypothyroid, 14-th inst file out of 200
+2QBF: query on feature 24 out of 25 features:
+Using preprocessor bloqqer:
+***** AXps containing 24 *****
+Solving FMP (CPU) time: 1200.08 secs
+hypothyroid, 15-th inst file out of 200
+2QBF: query on feature 6 out of 25 features:
+Using preprocessor bloqqer:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 6.33 secs
+hypothyroid, 16-th inst file out of 200
+2QBF: query on feature 17 out of 25 features:
+Using preprocessor bloqqer:
+***** AXps containing 17 *****
+Solving FMP (CPU) time: 968.89 secs
+hypothyroid, 17-th inst file out of 200
+2QBF: query on feature 4 out of 25 features:
+Using preprocessor bloqqer:
+Timeout after 18000 seconds
+
+############ ionosphere ############
+c nof features: 34
+c nof classes: 2
+c nof samples: 350
+Loading rf_models/RF2001/ionosphere/ionosphere_nbestim_100_maxdepth_4.mod.pkl
+Using solver: caqe
+
+ionosphere, 0-th inst file out of 200
+2QBF: query on feature 5 out of 34 features:
+Using preprocessor bloqqer:
+***** AXps containing 5 *****
+Solving FMP (CPU) time: 1200.15 secs
+ionosphere, 1-th inst file out of 200
+2QBF: query on feature 16 out of 34 features:
+Using preprocessor bloqqer:
+***** AXps containing 16 *****
+Solving FMP (CPU) time: 1200.11 secs
+ionosphere, 2-th inst file out of 200
+2QBF: query on feature 26 out of 34 features:
+Using preprocessor bloqqer:
+***** AXps containing 26 *****
+Solving FMP (CPU) time: 1200.12 secs
+ionosphere, 3-th inst file out of 200
+2QBF: query on feature 22 out of 34 features:
+Using preprocessor bloqqer:
+***** AXps containing 22 *****
+Solving FMP (CPU) time: 1200.09 secs
+ionosphere, 4-th inst file out of 200
+2QBF: query on feature 22 out of 34 features:
+Using preprocessor bloqqer:
+***** AXps containing 22 *****
+Solving FMP (CPU) time: 1200.10 secs
+ionosphere, 5-th inst file out of 200
+2QBF: query on feature 15 out of 34 features:
+Using preprocessor bloqqer:
+***** AXps containing 15 *****
+Solving FMP (CPU) time: 1200.09 secs
+ionosphere, 6-th inst file out of 200
+2QBF: query on feature 4 out of 34 features:
+Using preprocessor bloqqer:
+***** AXps containing 4 *****
+Solving FMP (CPU) time: 1200.08 secs
+ionosphere, 7-th inst file out of 200
+2QBF: query on feature 16 out of 34 features:
+Using preprocessor bloqqer:
+***** AXps containing 16 *****
+Solving FMP (CPU) time: 1200.10 secs
+ionosphere, 8-th inst file out of 200
+2QBF: query on feature 25 out of 34 features:
+Using preprocessor bloqqer:
+***** AXps containing 25 *****
+Solving FMP (CPU) time: 1200.14 secs
+ionosphere, 9-th inst file out of 200
+2QBF: query on feature 22 out of 34 features:
+Using preprocessor bloqqer:
+***** AXps containing 22 *****
+Solving FMP (CPU) time: 1200.10 secs
+ionosphere, 10-th inst file out of 200
+2QBF: query on feature 21 out of 34 features:
+Using preprocessor bloqqer:
+***** AXps containing 21 *****
+Solving FMP (CPU) time: 1200.11 secs
+ionosphere, 11-th inst file out of 200
+2QBF: query on feature 12 out of 34 features:
+Using preprocessor bloqqer:
+***** AXps containing 12 *****
+Solving FMP (CPU) time: 1200.10 secs
+ionosphere, 12-th inst file out of 200
+2QBF: query on feature 24 out of 34 features:
+Using preprocessor bloqqer:
+***** AXps containing 24 *****
+Solving FMP (CPU) time: 1200.11 secs
+ionosphere, 13-th inst file out of 200
+2QBF: query on feature 12 out of 34 features:
+Using preprocessor bloqqer:
+***** AXps containing 12 *****
+Solving FMP (CPU) time: 1200.10 secs
+ionosphere, 14-th inst file out of 200
+2QBF: query on feature 13 out of 34 features:
+Using preprocessor bloqqer:
+Timeout after 18000 seconds
+
+############ kr_vs_kp ############
+c nof features: 36
+c nof classes: 2
+c nof samples: 3196
+Loading rf_models/RF2001/kr_vs_kp/kr_vs_kp_nbestim_100_maxdepth_4.mod.pkl
+Using solver: caqe
+
+kr_vs_kp, 0-th inst file out of 200
+2QBF: query on feature 7 out of 36 features:
+Using preprocessor bloqqer:
+***** AXps containing 7 *****
+Solving FMP (CPU) time: 1200.08 secs
+kr_vs_kp, 1-th inst file out of 200
+2QBF: query on feature 29 out of 36 features:
+Using preprocessor bloqqer:
+***** AXps containing 29 *****
+Solving FMP (CPU) time: 1200.09 secs
+kr_vs_kp, 2-th inst file out of 200
+2QBF: query on feature 7 out of 36 features:
+Using preprocessor bloqqer:
+***** AXps containing 7 *****
+Solving FMP (CPU) time: 4.80 secs
+kr_vs_kp, 3-th inst file out of 200
+2QBF: query on feature 26 out of 36 features:
+Using preprocessor bloqqer:
+***** AXps containing 26 *****
+Solving FMP (CPU) time: 1200.10 secs
+kr_vs_kp, 4-th inst file out of 200
+2QBF: query on feature 24 out of 36 features:
+Using preprocessor bloqqer:
+***** AXps containing 24 *****
+Solving FMP (CPU) time: 10.30 secs
+kr_vs_kp, 5-th inst file out of 200
+2QBF: query on feature 33 out of 36 features:
+Using preprocessor bloqqer:
+***** AXps containing 33 *****
+Solving FMP (CPU) time: 1200.06 secs
+kr_vs_kp, 6-th inst file out of 200
+2QBF: query on feature 28 out of 36 features:
+Using preprocessor bloqqer:
+***** AXps containing 28 *****
+Solving FMP (CPU) time: 3.74 secs
+kr_vs_kp, 7-th inst file out of 200
+2QBF: query on feature 10 out of 36 features:
+Using preprocessor bloqqer:
+***** AXps containing 10 *****
+Solving FMP (CPU) time: 1199.06 secs
+kr_vs_kp, 8-th inst file out of 200
+2QBF: query on feature 2 out of 36 features:
+Using preprocessor bloqqer:
+***** AXps containing 2 *****
+Solving FMP (CPU) time: 34.39 secs
+kr_vs_kp, 9-th inst file out of 200
+2QBF: query on feature 32 out of 36 features:
+Using preprocessor bloqqer:
+***** AXps containing 32 *****
+Solving FMP (CPU) time: 3.10 secs
+kr_vs_kp, 10-th inst file out of 200
+2QBF: query on feature 19 out of 36 features:
+Using preprocessor bloqqer:
+***** AXps containing 19 *****
+Solving FMP (CPU) time: 1200.07 secs
+kr_vs_kp, 11-th inst file out of 200
+2QBF: query on feature 7 out of 36 features:
+Using preprocessor bloqqer:
+***** AXps containing 7 *****
+Solving FMP (CPU) time: 4.01 secs
+kr_vs_kp, 12-th inst file out of 200
+2QBF: query on feature 31 out of 36 features:
+Using preprocessor bloqqer:
+***** AXps containing 31 *****
+Solving FMP (CPU) time: 3.23 secs
+kr_vs_kp, 13-th inst file out of 200
+2QBF: query on feature 7 out of 36 features:
+Using preprocessor bloqqer:
+***** AXps containing 7 *****
+Solving FMP (CPU) time: 1200.07 secs
+kr_vs_kp, 14-th inst file out of 200
+2QBF: query on feature 27 out of 36 features:
+interested feature not in RF, so there is no AXp
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 0.00 secs
+kr_vs_kp, 15-th inst file out of 200
+2QBF: query on feature 24 out of 36 features:
+Using preprocessor bloqqer:
+***** AXps containing 24 *****
+Solving FMP (CPU) time: 21.45 secs
+kr_vs_kp, 16-th inst file out of 200
+2QBF: query on feature 31 out of 36 features:
+Using preprocessor bloqqer:
+***** AXps containing 31 *****
+Solving FMP (CPU) time: 3.11 secs
+kr_vs_kp, 17-th inst file out of 200
+2QBF: query on feature 33 out of 36 features:
+Using preprocessor bloqqer:
+***** AXps containing 33 *****
+Solving FMP (CPU) time: 4.70 secs
+kr_vs_kp, 18-th inst file out of 200
+2QBF: query on feature 35 out of 36 features:
+Using preprocessor bloqqer:
+***** AXps containing 35 *****
+Solving FMP (CPU) time: 1200.07 secs
+kr_vs_kp, 19-th inst file out of 200
+2QBF: query on feature 19 out of 36 features:
+Using preprocessor bloqqer:
+***** AXps containing 19 *****
+Solving FMP (CPU) time: 122.47 secs
+kr_vs_kp, 20-th inst file out of 200
+2QBF: query on feature 3 out of 36 features:
+Using preprocessor bloqqer:
+***** AXps containing 3 *****
+Solving FMP (CPU) time: 1200.07 secs
+kr_vs_kp, 21-th inst file out of 200
+2QBF: query on feature 17 out of 36 features:
+Using preprocessor bloqqer:
+***** AXps containing 17 *****
+Solving FMP (CPU) time: 9.38 secs
+kr_vs_kp, 22-th inst file out of 200
+2QBF: query on feature 4 out of 36 features:
+Using preprocessor bloqqer:
+***** AXps containing 4 *****
+Solving FMP (CPU) time: 1200.08 secs
+kr_vs_kp, 23-th inst file out of 200
+2QBF: query on feature 23 out of 36 features:
+Using preprocessor bloqqer:
+***** AXps containing 23 *****
+Solving FMP (CPU) time: 1200.11 secs
+kr_vs_kp, 24-th inst file out of 200
+2QBF: query on feature 13 out of 36 features:
+Using preprocessor bloqqer:
+***** AXps containing 13 *****
+Solving FMP (CPU) time: 6.85 secs
+kr_vs_kp, 25-th inst file out of 200
+2QBF: query on feature 0 out of 36 features:
+Using preprocessor bloqqer:
+***** AXps containing 0 *****
+Solving FMP (CPU) time: 1200.07 secs
+kr_vs_kp, 26-th inst file out of 200
+2QBF: query on feature 32 out of 36 features:
+Using preprocessor bloqqer:
+***** AXps containing 32 *****
+Solving FMP (CPU) time: 1200.07 secs
+kr_vs_kp, 27-th inst file out of 200
+2QBF: query on feature 16 out of 36 features:
+Using preprocessor bloqqer:
+***** AXps containing 16 *****
+Solving FMP (CPU) time: 1200.09 secs
+kr_vs_kp, 28-th inst file out of 200
+2QBF: query on feature 18 out of 36 features:
+Using preprocessor bloqqer:
+Timeout after 18000 seconds
+
+############ magic ############
+c nof features: 10
+c nof classes: 2
+c nof samples: 18905
+Loading rf_models/RF2001/magic/magic_nbestim_100_maxdepth_4.mod.pkl
+Using solver: caqe
+
+magic, 0-th inst file out of 200
+2QBF: query on feature 1 out of 10 features:
+Using preprocessor bloqqer:
+***** AXps containing 1 *****
+Solving FMP (CPU) time: 1200.13 secs
+magic, 1-th inst file out of 200
+2QBF: query on feature 3 out of 10 features:
+Using preprocessor bloqqer:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 25.42 secs
+magic, 2-th inst file out of 200
+2QBF: query on feature 4 out of 10 features:
+Using preprocessor bloqqer:
+***** AXps containing 4 *****
+Solving FMP (CPU) time: 1063.42 secs
+magic, 3-th inst file out of 200
+2QBF: query on feature 6 out of 10 features:
+Using preprocessor bloqqer:
+***** AXps containing 6 *****
+Solving FMP (CPU) time: 1200.22 secs
+magic, 4-th inst file out of 200
+2QBF: query on feature 5 out of 10 features:
+Using preprocessor bloqqer:
+***** AXps containing 5 *****
+Solving FMP (CPU) time: 1200.13 secs
+magic, 5-th inst file out of 200
+2QBF: query on feature 0 out of 10 features:
+Using preprocessor bloqqer:
+***** AXps containing 0 *****
+Solving FMP (CPU) time: 1200.16 secs
+magic, 6-th inst file out of 200
+2QBF: query on feature 3 out of 10 features:
+Using preprocessor bloqqer:
+***** AXps containing 3 *****
+Solving FMP (CPU) time: 1200.18 secs
+magic, 7-th inst file out of 200
+2QBF: query on feature 6 out of 10 features:
+Using preprocessor bloqqer:
+***** AXps containing 6 *****
+Solving FMP (CPU) time: 1200.12 secs
+magic, 8-th inst file out of 200
+2QBF: query on feature 0 out of 10 features:
+Using preprocessor bloqqer:
+***** AXps containing 0 *****
+Solving FMP (CPU) time: 22.16 secs
+magic, 9-th inst file out of 200
+2QBF: query on feature 9 out of 10 features:
+Using preprocessor bloqqer:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 26.73 secs
+magic, 10-th inst file out of 200
+2QBF: query on feature 8 out of 10 features:
+Using preprocessor bloqqer:
+***** AXps containing 8 *****
+Solving FMP (CPU) time: 1200.12 secs
+magic, 11-th inst file out of 200
+2QBF: query on feature 4 out of 10 features:
+Using preprocessor bloqqer:
+***** AXps containing 4 *****
+Solving FMP (CPU) time: 1200.14 secs
+magic, 12-th inst file out of 200
+2QBF: query on feature 7 out of 10 features:
+Using preprocessor bloqqer:
+***** AXps containing 7 *****
+Solving FMP (CPU) time: 24.08 secs
+magic, 13-th inst file out of 200
+2QBF: query on feature 5 out of 10 features:
+Using preprocessor bloqqer:
+***** AXps containing 5 *****
+Solving FMP (CPU) time: 1200.13 secs
+magic, 14-th inst file out of 200
+2QBF: query on feature 6 out of 10 features:
+Using preprocessor bloqqer:
+***** AXps containing 6 *****
+Solving FMP (CPU) time: 1200.14 secs
+magic, 15-th inst file out of 200
+2QBF: query on feature 0 out of 10 features:
+Using preprocessor bloqqer:
+***** AXps containing 0 *****
+Solving FMP (CPU) time: 1200.14 secs
+magic, 16-th inst file out of 200
+2QBF: query on feature 8 out of 10 features:
+Using preprocessor bloqqer:
+***** AXps containing 8 *****
+Solving FMP (CPU) time: 583.01 secs
+magic, 17-th inst file out of 200
+2QBF: query on feature 8 out of 10 features:
+Using preprocessor bloqqer:
+***** AXps containing 8 *****
+Solving FMP (CPU) time: 1200.13 secs
+magic, 18-th inst file out of 200
+2QBF: query on feature 6 out of 10 features:
+Using preprocessor bloqqer:
+***** AXps containing 6 *****
+Solving FMP (CPU) time: 1200.13 secs
+magic, 19-th inst file out of 200
+2QBF: query on feature 2 out of 10 features:
+Using preprocessor bloqqer:
+Timeout after 18000 seconds
+
+############ mushroom ############
+c nof features: 22
+c nof classes: 2
+c nof samples: 8124
+Loading rf_models/RF2001/mushroom/mushroom_nbestim_100_maxdepth_4.mod.pkl
+Using solver: caqe
+
+mushroom, 0-th inst file out of 200
+2QBF: query on feature 15 out of 22 features:
+interested feature not in RF, so there is no AXp
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 0.00 secs
+mushroom, 1-th inst file out of 200
+2QBF: query on feature 6 out of 22 features:
+Using preprocessor bloqqer:
+***** AXps containing 6 *****
+Solving FMP (CPU) time: 15.61 secs
+mushroom, 2-th inst file out of 200
+2QBF: query on feature 1 out of 22 features:
+Using preprocessor bloqqer:
+***** AXps containing 1 *****
+Solving FMP (CPU) time: 1200.22 secs
+mushroom, 3-th inst file out of 200
+2QBF: query on feature 16 out of 22 features:
+Using preprocessor bloqqer:
+***** AXps containing 16 *****
+Solving FMP (CPU) time: 6.14 secs
+mushroom, 4-th inst file out of 200
+2QBF: query on feature 7 out of 22 features:
+Using preprocessor bloqqer:
+***** AXps containing 7 *****
+Solving FMP (CPU) time: 1200.07 secs
+mushroom, 5-th inst file out of 200
+2QBF: query on feature 4 out of 22 features:
+Using preprocessor bloqqer:
+***** AXps containing 4 *****
+Solving FMP (CPU) time: 1200.12 secs
+mushroom, 6-th inst file out of 200
+2QBF: query on feature 10 out of 22 features:
+Using preprocessor bloqqer:
+***** AXps containing 10 *****
+Solving FMP (CPU) time: 1200.08 secs
+mushroom, 7-th inst file out of 200
+2QBF: query on feature 3 out of 22 features:
+Using preprocessor bloqqer:
+***** AXps containing 3 *****
+Solving FMP (CPU) time: 1200.07 secs
+mushroom, 8-th inst file out of 200
+2QBF: query on feature 18 out of 22 features:
+Using preprocessor bloqqer:
+***** AXps containing 18 *****
+Solving FMP (CPU) time: 7.70 secs
+mushroom, 9-th inst file out of 200
+2QBF: query on feature 18 out of 22 features:
+Using preprocessor bloqqer:
+***** AXps containing 18 *****
+Solving FMP (CPU) time: 1200.13 secs
+mushroom, 10-th inst file out of 200
+2QBF: query on feature 13 out of 22 features:
+Using preprocessor bloqqer:
+***** AXps containing 13 *****
+Solving FMP (CPU) time: 1200.10 secs
+mushroom, 11-th inst file out of 200
+2QBF: query on feature 12 out of 22 features:
+Using preprocessor bloqqer:
+***** AXps containing 12 *****
+Solving FMP (CPU) time: 166.73 secs
+mushroom, 12-th inst file out of 200
+2QBF: query on feature 14 out of 22 features:
+Using preprocessor bloqqer:
+***** AXps containing 14 *****
+Solving FMP (CPU) time: 1200.11 secs
+mushroom, 13-th inst file out of 200
+2QBF: query on feature 3 out of 22 features:
+Using preprocessor bloqqer:
+***** AXps containing 3 *****
+Solving FMP (CPU) time: 908.22 secs
+mushroom, 14-th inst file out of 200
+2QBF: query on feature 15 out of 22 features:
+interested feature not in RF, so there is no AXp
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 0.00 secs
+mushroom, 15-th inst file out of 200
+2QBF: query on feature 17 out of 22 features:
+Using preprocessor bloqqer:
+***** AXps containing 17 *****
+Solving FMP (CPU) time: 9.41 secs
+mushroom, 16-th inst file out of 200
+2QBF: query on feature 6 out of 22 features:
+Using preprocessor bloqqer:
+***** AXps containing 6 *****
+Solving FMP (CPU) time: 72.20 secs
+mushroom, 17-th inst file out of 200
+2QBF: query on feature 14 out of 22 features:
+Using preprocessor bloqqer:
+***** AXps containing 14 *****
+Solving FMP (CPU) time: 688.40 secs
+mushroom, 18-th inst file out of 200
+2QBF: query on feature 11 out of 22 features:
+Using preprocessor bloqqer:
+***** AXps containing 11 *****
+Solving FMP (CPU) time: 1200.09 secs
+mushroom, 19-th inst file out of 200
+2QBF: query on feature 1 out of 22 features:
+Using preprocessor bloqqer:
+***** AXps containing 1 *****
+Solving FMP (CPU) time: 1200.08 secs
+mushroom, 20-th inst file out of 200
+2QBF: query on feature 17 out of 22 features:
+Using preprocessor bloqqer:
+***** AXps containing 17 *****
+Solving FMP (CPU) time: 8.11 secs
+mushroom, 21-th inst file out of 200
+2QBF: query on feature 16 out of 22 features:
+Using preprocessor bloqqer:
+***** AXps containing 16 *****
+Solving FMP (CPU) time: 1200.10 secs
+mushroom, 22-th inst file out of 200
+2QBF: query on feature 18 out of 22 features:
+Using preprocessor bloqqer:
+***** AXps containing 18 *****
+Solving FMP (CPU) time: 21.47 secs
+mushroom, 23-th inst file out of 200
+2QBF: query on feature 17 out of 22 features:
+Using preprocessor bloqqer:
+***** AXps containing 17 *****
+Solving FMP (CPU) time: 655.20 secs
+mushroom, 24-th inst file out of 200
+2QBF: query on feature 11 out of 22 features:
+Using preprocessor bloqqer:
+***** AXps containing 11 *****
+Solving FMP (CPU) time: 131.83 secs
+mushroom, 25-th inst file out of 200
+2QBF: query on feature 2 out of 22 features:
+Using preprocessor bloqqer:
+***** AXps containing 2 *****
+Solving FMP (CPU) time: 23.62 secs
+mushroom, 26-th inst file out of 200
+2QBF: query on feature 2 out of 22 features:
+Using preprocessor bloqqer:
+***** AXps containing 2 *****
+Solving FMP (CPU) time: 11.00 secs
+mushroom, 27-th inst file out of 200
+2QBF: query on feature 15 out of 22 features:
+interested feature not in RF, so there is no AXp
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 0.00 secs
+mushroom, 28-th inst file out of 200
+2QBF: query on feature 21 out of 22 features:
+Using preprocessor bloqqer:
+***** AXps containing 21 *****
+Solving FMP (CPU) time: 31.01 secs
+mushroom, 29-th inst file out of 200
+2QBF: query on feature 18 out of 22 features:
+Using preprocessor bloqqer:
+***** AXps containing 18 *****
+Solving FMP (CPU) time: 6.63 secs
+mushroom, 30-th inst file out of 200
+2QBF: query on feature 1 out of 22 features:
+Using preprocessor bloqqer:
+***** AXps containing 1 *****
+Solving FMP (CPU) time: 45.14 secs
+mushroom, 31-th inst file out of 200
+2QBF: query on feature 18 out of 22 features:
+Using preprocessor bloqqer:
+***** AXps containing 18 *****
+Solving FMP (CPU) time: 14.67 secs
+mushroom, 32-th inst file out of 200
+2QBF: query on feature 15 out of 22 features:
+interested feature not in RF, so there is no AXp
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 0.00 secs
+mushroom, 33-th inst file out of 200
+2QBF: query on feature 17 out of 22 features:
+Using preprocessor bloqqer:
+***** AXps containing 17 *****
+Solving FMP (CPU) time: 1200.07 secs
+mushroom, 34-th inst file out of 200
+2QBF: query on feature 3 out of 22 features:
+Using preprocessor bloqqer:
+***** AXps containing 3 *****
+Solving FMP (CPU) time: 204.76 secs
+mushroom, 35-th inst file out of 200
+2QBF: query on feature 0 out of 22 features:
+Using preprocessor bloqqer:
+***** AXps containing 0 *****
+Solving FMP (CPU) time: 210.86 secs
+mushroom, 36-th inst file out of 200
+2QBF: query on feature 10 out of 22 features:
+Using preprocessor bloqqer:
+Timeout after 18000 seconds
+
+############ pendigits ############
+c nof features: 16
+c nof classes: 10
+c nof samples: 10992
+Loading rf_models/RF2001/pendigits/pendigits_nbestim_100_maxdepth_4.mod.pkl
+Using solver: caqe
+
+pendigits, 0-th inst file out of 200
+2QBF: query on feature 3 out of 16 features:
+Using preprocessor bloqqer:
+***** AXps containing 3 *****
+Solving FMP (CPU) time: 348.32 secs
+pendigits, 1-th inst file out of 200
+2QBF: query on feature 3 out of 16 features:
+Using preprocessor bloqqer:
+***** AXps containing 3 *****
+Solving FMP (CPU) time: 1200.28 secs
+pendigits, 2-th inst file out of 200
+2QBF: query on feature 8 out of 16 features:
+Using preprocessor bloqqer:
+***** AXps containing 8 *****
+Solving FMP (CPU) time: 1200.29 secs
+pendigits, 3-th inst file out of 200
+2QBF: query on feature 14 out of 16 features:
+Using preprocessor bloqqer:
+***** AXps containing 14 *****
+Solving FMP (CPU) time: 1200.29 secs
+pendigits, 4-th inst file out of 200
+2QBF: query on feature 14 out of 16 features:
+Using preprocessor bloqqer:
+***** AXps containing 14 *****
+Solving FMP (CPU) time: 1200.29 secs
+pendigits, 5-th inst file out of 200
+2QBF: query on feature 8 out of 16 features:
+Using preprocessor bloqqer:
+***** AXps containing 8 *****
+Solving FMP (CPU) time: 299.57 secs
+pendigits, 6-th inst file out of 200
+2QBF: query on feature 5 out of 16 features:
+Using preprocessor bloqqer:
+***** AXps containing 5 *****
+Solving FMP (CPU) time: 1200.30 secs
+pendigits, 7-th inst file out of 200
+2QBF: query on feature 12 out of 16 features:
+Using preprocessor bloqqer:
+***** AXps containing 12 *****
+Solving FMP (CPU) time: 1200.28 secs
+pendigits, 8-th inst file out of 200
+2QBF: query on feature 5 out of 16 features:
+Using preprocessor bloqqer:
+***** AXps containing 5 *****
+Solving FMP (CPU) time: 1200.29 secs
+pendigits, 9-th inst file out of 200
+2QBF: query on feature 13 out of 16 features:
+Using preprocessor bloqqer:
+***** AXps containing 13 *****
+Solving FMP (CPU) time: 1200.27 secs
+pendigits, 10-th inst file out of 200
+2QBF: query on feature 8 out of 16 features:
+Using preprocessor bloqqer:
+***** AXps containing 8 *****
+Solving FMP (CPU) time: 1200.28 secs
+pendigits, 11-th inst file out of 200
+2QBF: query on feature 2 out of 16 features:
+Using preprocessor bloqqer:
+***** AXps containing 2 *****
+Solving FMP (CPU) time: 1200.28 secs
+pendigits, 12-th inst file out of 200
+2QBF: query on feature 8 out of 16 features:
+Using preprocessor bloqqer:
+***** AXps containing 8 *****
+Solving FMP (CPU) time: 1200.28 secs
+pendigits, 13-th inst file out of 200
+2QBF: query on feature 7 out of 16 features:
+Using preprocessor bloqqer:
+***** AXps containing 7 *****
+Solving FMP (CPU) time: 1200.28 secs
+pendigits, 14-th inst file out of 200
+2QBF: query on feature 3 out of 16 features:
+Using preprocessor bloqqer:
+***** AXps containing 3 *****
+Solving FMP (CPU) time: 1200.28 secs
+pendigits, 15-th inst file out of 200
+2QBF: query on feature 15 out of 16 features:
+Using preprocessor bloqqer:
+***** AXps containing 15 *****
+Solving FMP (CPU) time: 1200.31 secs
+pendigits, 16-th inst file out of 200
+2QBF: query on feature 10 out of 16 features:
+Using preprocessor bloqqer:
+Timeout after 18000 seconds
+
+############ ring ############
+c nof features: 20
+c nof classes: 2
+c nof samples: 7400
+Loading rf_models/RF2001/ring/ring_nbestim_100_maxdepth_4.mod.pkl
+Using solver: caqe
+
+ring, 0-th inst file out of 200
+2QBF: query on feature 2 out of 20 features:
+Using preprocessor bloqqer:
+***** AXps containing 2 *****
+Solving FMP (CPU) time: 11.71 secs
+ring, 1-th inst file out of 200
+2QBF: query on feature 17 out of 20 features:
+Using preprocessor bloqqer:
+***** AXps containing 17 *****
+Solving FMP (CPU) time: 11.30 secs
+ring, 2-th inst file out of 200
+2QBF: query on feature 3 out of 20 features:
+Using preprocessor bloqqer:
+***** AXps containing 3 *****
+Solving FMP (CPU) time: 1200.10 secs
+ring, 3-th inst file out of 200
+2QBF: query on feature 17 out of 20 features:
+Using preprocessor bloqqer:
+***** AXps containing 17 *****
+Solving FMP (CPU) time: 12.16 secs
+ring, 4-th inst file out of 200
+2QBF: query on feature 15 out of 20 features:
+Using preprocessor bloqqer:
+***** AXps containing 15 *****
+Solving FMP (CPU) time: 15.95 secs
+ring, 5-th inst file out of 200
+2QBF: query on feature 1 out of 20 features:
+Using preprocessor bloqqer:
+***** AXps containing 1 *****
+Solving FMP (CPU) time: 14.73 secs
+ring, 6-th inst file out of 200
+2QBF: query on feature 12 out of 20 features:
+Using preprocessor bloqqer:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 14.13 secs
+ring, 7-th inst file out of 200
+2QBF: query on feature 11 out of 20 features:
+Using preprocessor bloqqer:
+***** AXps containing 11 *****
+Solving FMP (CPU) time: 1200.10 secs
+ring, 8-th inst file out of 200
+2QBF: query on feature 1 out of 20 features:
+Using preprocessor bloqqer:
+***** AXps containing 1 *****
+Solving FMP (CPU) time: 16.50 secs
+ring, 9-th inst file out of 200
+2QBF: query on feature 11 out of 20 features:
+Using preprocessor bloqqer:
+***** AXps containing 11 *****
+Solving FMP (CPU) time: 15.59 secs
+ring, 10-th inst file out of 200
+2QBF: query on feature 0 out of 20 features:
+Using preprocessor bloqqer:
+***** AXps containing 0 *****
+Solving FMP (CPU) time: 16.65 secs
+ring, 11-th inst file out of 200
+2QBF: query on feature 5 out of 20 features:
+Using preprocessor bloqqer:
+***** AXps containing 5 *****
+Solving FMP (CPU) time: 16.10 secs
+ring, 12-th inst file out of 200
+2QBF: query on feature 7 out of 20 features:
+Using preprocessor bloqqer:
+***** AXps containing 7 *****
+Solving FMP (CPU) time: 1200.11 secs
+ring, 13-th inst file out of 200
+2QBF: query on feature 11 out of 20 features:
+Using preprocessor bloqqer:
+***** AXps containing 11 *****
+Solving FMP (CPU) time: 15.89 secs
+ring, 14-th inst file out of 200
+2QBF: query on feature 14 out of 20 features:
+Using preprocessor bloqqer:
+***** AXps containing 14 *****
+Solving FMP (CPU) time: 1200.11 secs
+ring, 15-th inst file out of 200
+2QBF: query on feature 14 out of 20 features:
+Using preprocessor bloqqer:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 15.62 secs
+ring, 16-th inst file out of 200
+2QBF: query on feature 12 out of 20 features:
+Using preprocessor bloqqer:
+***** AXps containing 12 *****
+Solving FMP (CPU) time: 14.78 secs
+ring, 17-th inst file out of 200
+2QBF: query on feature 15 out of 20 features:
+Using preprocessor bloqqer:
+***** AXps containing 15 *****
+Solving FMP (CPU) time: 16.53 secs
+ring, 18-th inst file out of 200
+2QBF: query on feature 4 out of 20 features:
+Using preprocessor bloqqer:
+***** AXps containing 4 *****
+Solving FMP (CPU) time: 1200.11 secs
+ring, 19-th inst file out of 200
+2QBF: query on feature 16 out of 20 features:
+Using preprocessor bloqqer:
+***** AXps containing 16 *****
+Solving FMP (CPU) time: 15.22 secs
+ring, 20-th inst file out of 200
+2QBF: query on feature 4 out of 20 features:
+Using preprocessor bloqqer:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 14.33 secs
+ring, 21-th inst file out of 200
+2QBF: query on feature 13 out of 20 features:
+Using preprocessor bloqqer:
+***** AXps containing 13 *****
+Solving FMP (CPU) time: 15.19 secs
+ring, 22-th inst file out of 200
+2QBF: query on feature 11 out of 20 features:
+Using preprocessor bloqqer:
+***** AXps containing 11 *****
+Solving FMP (CPU) time: 1200.11 secs
+ring, 23-th inst file out of 200
+2QBF: query on feature 3 out of 20 features:
+Using preprocessor bloqqer:
+***** AXps containing 3 *****
+Solving FMP (CPU) time: 14.61 secs
+ring, 24-th inst file out of 200
+2QBF: query on feature 2 out of 20 features:
+Using preprocessor bloqqer:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 204.76 secs
+ring, 25-th inst file out of 200
+2QBF: query on feature 7 out of 20 features:
+Using preprocessor bloqqer:
+***** AXps containing 7 *****
+Solving FMP (CPU) time: 14.66 secs
+ring, 26-th inst file out of 200
+2QBF: query on feature 10 out of 20 features:
+Using preprocessor bloqqer:
+***** AXps containing 10 *****
+Solving FMP (CPU) time: 15.92 secs
+ring, 27-th inst file out of 200
+2QBF: query on feature 10 out of 20 features:
+Using preprocessor bloqqer:
+***** AXps containing 10 *****
+Solving FMP (CPU) time: 16.65 secs
+ring, 28-th inst file out of 200
+2QBF: query on feature 13 out of 20 features:
+Using preprocessor bloqqer:
+***** AXps containing 13 *****
+Solving FMP (CPU) time: 14.43 secs
+ring, 29-th inst file out of 200
+2QBF: query on feature 16 out of 20 features:
+Using preprocessor bloqqer:
+***** AXps containing 16 *****
+Solving FMP (CPU) time: 1200.11 secs
+ring, 30-th inst file out of 200
+2QBF: query on feature 12 out of 20 features:
+Using preprocessor bloqqer:
+***** AXps containing 12 *****
+Solving FMP (CPU) time: 17.00 secs
+ring, 31-th inst file out of 200
+2QBF: query on feature 19 out of 20 features:
+Using preprocessor bloqqer:
+***** AXps containing 19 *****
+Solving FMP (CPU) time: 14.66 secs
+ring, 32-th inst file out of 200
+2QBF: query on feature 10 out of 20 features:
+Using preprocessor bloqqer:
+***** AXps containing 10 *****
+Solving FMP (CPU) time: 16.71 secs
+ring, 33-th inst file out of 200
+2QBF: query on feature 13 out of 20 features:
+Using preprocessor bloqqer:
+***** AXps containing 13 *****
+Solving FMP (CPU) time: 1200.11 secs
+ring, 34-th inst file out of 200
+2QBF: query on feature 1 out of 20 features:
+Using preprocessor bloqqer:
+***** AXps containing 1 *****
+Solving FMP (CPU) time: 11.65 secs
+ring, 35-th inst file out of 200
+2QBF: query on feature 8 out of 20 features:
+Using preprocessor bloqqer:
+***** AXps containing 8 *****
+Solving FMP (CPU) time: 14.74 secs
+ring, 36-th inst file out of 200
+2QBF: query on feature 17 out of 20 features:
+Using preprocessor bloqqer:
+***** AXps containing 17 *****
+Solving FMP (CPU) time: 11.56 secs
+ring, 37-th inst file out of 200
+2QBF: query on feature 10 out of 20 features:
+Using preprocessor bloqqer:
+***** AXps containing 10 *****
+Solving FMP (CPU) time: 12.75 secs
+ring, 38-th inst file out of 200
+2QBF: query on feature 11 out of 20 features:
+Using preprocessor bloqqer:
+***** AXps containing 11 *****
+Solving FMP (CPU) time: 1200.11 secs
+ring, 39-th inst file out of 200
+2QBF: query on feature 4 out of 20 features:
+Using preprocessor bloqqer:
+***** AXps containing 4 *****
+Solving FMP (CPU) time: 1200.10 secs
+ring, 40-th inst file out of 200
+2QBF: query on feature 17 out of 20 features:
+Using preprocessor bloqqer:
+***** AXps containing 17 *****
+Solving FMP (CPU) time: 11.47 secs
+ring, 41-th inst file out of 200
+2QBF: query on feature 19 out of 20 features:
+Using preprocessor bloqqer:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 14.93 secs
+ring, 42-th inst file out of 200
+2QBF: query on feature 14 out of 20 features:
+Using preprocessor bloqqer:
+***** AXps containing 14 *****
+Solving FMP (CPU) time: 15.87 secs
+ring, 43-th inst file out of 200
+2QBF: query on feature 1 out of 20 features:
+Using preprocessor bloqqer:
+***** AXps containing 1 *****
+Solving FMP (CPU) time: 15.18 secs
+ring, 44-th inst file out of 200
+2QBF: query on feature 13 out of 20 features:
+Using preprocessor bloqqer:
+***** AXps containing 13 *****
+Solving FMP (CPU) time: 14.12 secs
+ring, 45-th inst file out of 200
+2QBF: query on feature 13 out of 20 features:
+Using preprocessor bloqqer:
+***** AXps containing 13 *****
+Solving FMP (CPU) time: 14.55 secs
+ring, 46-th inst file out of 200
+2QBF: query on feature 16 out of 20 features:
+Using preprocessor bloqqer:
+***** AXps containing 16 *****
+Solving FMP (CPU) time: 17.92 secs
+ring, 47-th inst file out of 200
+2QBF: query on feature 13 out of 20 features:
+Using preprocessor bloqqer:
+***** AXps containing 13 *****
+Solving FMP (CPU) time: 15.79 secs
+ring, 48-th inst file out of 200
+2QBF: query on feature 15 out of 20 features:
+Using preprocessor bloqqer:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 50.87 secs
+ring, 49-th inst file out of 200
+2QBF: query on feature 19 out of 20 features:
+Using preprocessor bloqqer:
+***** AXps containing 19 *****
+Solving FMP (CPU) time: 14.20 secs
+ring, 50-th inst file out of 200
+2QBF: query on feature 19 out of 20 features:
+Using preprocessor bloqqer:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 13.92 secs
+ring, 51-th inst file out of 200
+2QBF: query on feature 11 out of 20 features:
+Using preprocessor bloqqer:
+***** AXps containing 11 *****
+Solving FMP (CPU) time: 1200.14 secs
+ring, 52-th inst file out of 200
+2QBF: query on feature 11 out of 20 features:
+Using preprocessor bloqqer:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 154.76 secs
+ring, 53-th inst file out of 200
+2QBF: query on feature 5 out of 20 features:
+Using preprocessor bloqqer:
+***** AXps containing 5 *****
+Solving FMP (CPU) time: 15.04 secs
+ring, 54-th inst file out of 200
+2QBF: query on feature 18 out of 20 features:
+Using preprocessor bloqqer:
+***** AXps containing 18 *****
+Solving FMP (CPU) time: 14.06 secs
+ring, 55-th inst file out of 200
+2QBF: query on feature 6 out of 20 features:
+Using preprocessor bloqqer:
+***** AXps containing 6 *****
+Solving FMP (CPU) time: 14.50 secs
+ring, 56-th inst file out of 200
+2QBF: query on feature 8 out of 20 features:
+Using preprocessor bloqqer:
+***** AXps containing 8 *****
+Solving FMP (CPU) time: 14.93 secs
+ring, 57-th inst file out of 200
+2QBF: query on feature 3 out of 20 features:
+Using preprocessor bloqqer:
+***** AXps containing 3 *****
+Solving FMP (CPU) time: 14.71 secs
+ring, 58-th inst file out of 200
+2QBF: query on feature 1 out of 20 features:
+Using preprocessor bloqqer:
+***** AXps containing 1 *****
+Solving FMP (CPU) time: 14.64 secs
+ring, 59-th inst file out of 200
+2QBF: query on feature 1 out of 20 features:
+Using preprocessor bloqqer:
+***** AXps containing 1 *****
+Solving FMP (CPU) time: 15.53 secs
+ring, 60-th inst file out of 200
+2QBF: query on feature 10 out of 20 features:
+Using preprocessor bloqqer:
+***** AXps containing 10 *****
+Solving FMP (CPU) time: 14.43 secs
+ring, 61-th inst file out of 200
+2QBF: query on feature 15 out of 20 features:
+Using preprocessor bloqqer:
+***** AXps containing 15 *****
+Solving FMP (CPU) time: 1200.11 secs
+ring, 62-th inst file out of 200
+2QBF: query on feature 14 out of 20 features:
+Using preprocessor bloqqer:
+***** AXps containing 14 *****
+Solving FMP (CPU) time: 13.95 secs
+ring, 63-th inst file out of 200
+2QBF: query on feature 13 out of 20 features:
+Using preprocessor bloqqer:
+***** AXps containing 13 *****
+Solving FMP (CPU) time: 15.77 secs
+ring, 64-th inst file out of 200
+2QBF: query on feature 11 out of 20 features:
+Using preprocessor bloqqer:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 76.36 secs
+ring, 65-th inst file out of 200
+2QBF: query on feature 9 out of 20 features:
+Using preprocessor bloqqer:
+***** AXps containing 9 *****
+Solving FMP (CPU) time: 1200.11 secs
+ring, 66-th inst file out of 200
+2QBF: query on feature 8 out of 20 features:
+Using preprocessor bloqqer:
+***** AXps containing 8 *****
+Solving FMP (CPU) time: 14.72 secs
+ring, 67-th inst file out of 200
+2QBF: query on feature 8 out of 20 features:
+Using preprocessor bloqqer:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 13.95 secs
+ring, 68-th inst file out of 200
+2QBF: query on feature 11 out of 20 features:
+Using preprocessor bloqqer:
+***** AXps containing 11 *****
+Solving FMP (CPU) time: 15.88 secs
+ring, 69-th inst file out of 200
+2QBF: query on feature 9 out of 20 features:
+Using preprocessor bloqqer:
+***** AXps containing 9 *****
+Solving FMP (CPU) time: 11.76 secs
+ring, 70-th inst file out of 200
+2QBF: query on feature 9 out of 20 features:
+Using preprocessor bloqqer:
+***** AXps containing 9 *****
+Solving FMP (CPU) time: 14.99 secs
+ring, 71-th inst file out of 200
+2QBF: query on feature 15 out of 20 features:
+Using preprocessor bloqqer:
+Timeout after 18000 seconds
+
+############ segmentation ############
+c nof features: 19
+c nof classes: 7
+c nof samples: 2086
+Loading rf_models/RF2001/segmentation/segmentation_nbestim_100_maxdepth_4.mod.pkl
+Using solver: caqe
+
+segmentation, 0-th inst file out of 200
+2QBF: query on feature 10 out of 19 features:
+Using preprocessor bloqqer:
+***** AXps containing 10 *****
+Solving FMP (CPU) time: 1200.23 secs
+segmentation, 1-th inst file out of 200
+2QBF: query on feature 1 out of 19 features:
+Using preprocessor bloqqer:
+***** AXps containing 1 *****
+Solving FMP (CPU) time: 132.28 secs
+segmentation, 2-th inst file out of 200
+2QBF: query on feature 4 out of 19 features:
+Using preprocessor bloqqer:
+***** AXps containing 4 *****
+Solving FMP (CPU) time: 1200.24 secs
+segmentation, 3-th inst file out of 200
+2QBF: query on feature 1 out of 19 features:
+Using preprocessor bloqqer:
+***** AXps containing 1 *****
+Solving FMP (CPU) time: 1200.23 secs
+segmentation, 4-th inst file out of 200
+2QBF: query on feature 11 out of 19 features:
+Using preprocessor bloqqer:
+***** AXps containing 11 *****
+Solving FMP (CPU) time: 1200.24 secs
+segmentation, 5-th inst file out of 200
+2QBF: query on feature 18 out of 19 features:
+Using preprocessor bloqqer:
+***** AXps containing 18 *****
+Solving FMP (CPU) time: 1200.24 secs
+segmentation, 6-th inst file out of 200
+2QBF: query on feature 10 out of 19 features:
+Using preprocessor bloqqer:
+***** AXps containing 10 *****
+Solving FMP (CPU) time: 1200.24 secs
+segmentation, 7-th inst file out of 200
+2QBF: query on feature 14 out of 19 features:
+Using preprocessor bloqqer:
+***** AXps containing 14 *****
+Solving FMP (CPU) time: 1200.23 secs
+segmentation, 8-th inst file out of 200
+2QBF: query on feature 3 out of 19 features:
+Using preprocessor bloqqer:
+***** AXps containing 3 *****
+Solving FMP (CPU) time: 1200.25 secs
+segmentation, 9-th inst file out of 200
+2QBF: query on feature 0 out of 19 features:
+Using preprocessor bloqqer:
+***** AXps containing 0 *****
+Solving FMP (CPU) time: 1200.24 secs
+segmentation, 10-th inst file out of 200
+2QBF: query on feature 5 out of 19 features:
+Using preprocessor bloqqer:
+***** AXps containing 5 *****
+Solving FMP (CPU) time: 1200.24 secs
+segmentation, 11-th inst file out of 200
+2QBF: query on feature 12 out of 19 features:
+Using preprocessor bloqqer:
+***** AXps containing 12 *****
+Solving FMP (CPU) time: 174.81 secs
+segmentation, 12-th inst file out of 200
+2QBF: query on feature 14 out of 19 features:
+Using preprocessor bloqqer:
+***** AXps containing 14 *****
+Solving FMP (CPU) time: 1200.24 secs
+segmentation, 13-th inst file out of 200
+2QBF: query on feature 12 out of 19 features:
+Using preprocessor bloqqer:
+***** AXps containing 12 *****
+Solving FMP (CPU) time: 1200.27 secs
+segmentation, 14-th inst file out of 200
+2QBF: query on feature 12 out of 19 features:
+Using preprocessor bloqqer:
+***** AXps containing 12 *****
+Solving FMP (CPU) time: 1200.32 secs
+segmentation, 15-th inst file out of 200
+2QBF: query on feature 9 out of 19 features:
+Using preprocessor bloqqer:
+***** AXps containing 9 *****
+Solving FMP (CPU) time: 1200.25 secs
+segmentation, 16-th inst file out of 200
+2QBF: query on feature 13 out of 19 features:
+Using preprocessor bloqqer:
+Timeout after 18000 seconds
+
+############ shuttle ############
+c nof features: 9
+c nof classes: 7
+c nof samples: 58000
+Loading rf_models/RF2001/shuttle/shuttle_nbestim_100_maxdepth_4.mod.pkl
+Using solver: caqe
+
+shuttle, 0-th inst file out of 200
+2QBF: query on feature 7 out of 9 features:
+Using preprocessor bloqqer:
+***** AXps containing 7 *****
+Solving FMP (CPU) time: 1200.24 secs
+shuttle, 1-th inst file out of 200
+2QBF: query on feature 6 out of 9 features:
+Using preprocessor bloqqer:
+***** AXps containing 6 *****
+Solving FMP (CPU) time: 1200.21 secs
+shuttle, 2-th inst file out of 200
+2QBF: query on feature 2 out of 9 features:
+Using preprocessor bloqqer:
+***** AXps containing 2 *****
+Solving FMP (CPU) time: 1200.21 secs
+shuttle, 3-th inst file out of 200
+2QBF: query on feature 1 out of 9 features:
+Using preprocessor bloqqer:
+***** AXps containing 1 *****
+Solving FMP (CPU) time: 96.43 secs
+shuttle, 4-th inst file out of 200
+2QBF: query on feature 8 out of 9 features:
+Using preprocessor bloqqer:
+***** AXps containing 8 *****
+Solving FMP (CPU) time: 1200.20 secs
+shuttle, 5-th inst file out of 200
+2QBF: query on feature 1 out of 9 features:
+Using preprocessor bloqqer:
+***** AXps containing 1 *****
+Solving FMP (CPU) time: 1200.21 secs
+shuttle, 6-th inst file out of 200
+2QBF: query on feature 2 out of 9 features:
+Using preprocessor bloqqer:
+***** AXps containing 2 *****
+Solving FMP (CPU) time: 1200.25 secs
+shuttle, 7-th inst file out of 200
+2QBF: query on feature 5 out of 9 features:
+Using preprocessor bloqqer:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 125.25 secs
+shuttle, 8-th inst file out of 200
+2QBF: query on feature 8 out of 9 features:
+Using preprocessor bloqqer:
+***** AXps containing 8 *****
+Solving FMP (CPU) time: 1200.30 secs
+shuttle, 9-th inst file out of 200
+2QBF: query on feature 3 out of 9 features:
+Using preprocessor bloqqer:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 206.13 secs
+shuttle, 10-th inst file out of 200
+2QBF: query on feature 4 out of 9 features:
+Using preprocessor bloqqer:
+***** AXps containing 4 *****
+Solving FMP (CPU) time: 216.24 secs
+shuttle, 11-th inst file out of 200
+2QBF: query on feature 1 out of 9 features:
+Using preprocessor bloqqer:
+***** AXps containing 1 *****
+Solving FMP (CPU) time: 202.94 secs
+shuttle, 12-th inst file out of 200
+2QBF: query on feature 2 out of 9 features:
+Using preprocessor bloqqer:
+***** AXps containing 2 *****
+Solving FMP (CPU) time: 1200.56 secs
+shuttle, 13-th inst file out of 200
+2QBF: query on feature 8 out of 9 features:
+Using preprocessor bloqqer:
+***** AXps containing 8 *****
+Solving FMP (CPU) time: 122.81 secs
+shuttle, 14-th inst file out of 200
+2QBF: query on feature 7 out of 9 features:
+Using preprocessor bloqqer:
+***** AXps containing 7 *****
+Solving FMP (CPU) time: 1200.38 secs
+shuttle, 15-th inst file out of 200
+2QBF: query on feature 2 out of 9 features:
+Using preprocessor bloqqer:
+***** AXps containing 2 *****
+Solving FMP (CPU) time: 1200.24 secs
+shuttle, 16-th inst file out of 200
+2QBF: query on feature 3 out of 9 features:
+Using preprocessor bloqqer:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 94.43 secs
+shuttle, 17-th inst file out of 200
+2QBF: query on feature 3 out of 9 features:
+Using preprocessor bloqqer:
+***** AXps containing 3 *****
+Solving FMP (CPU) time: 99.22 secs
+shuttle, 18-th inst file out of 200
+2QBF: query on feature 1 out of 9 features:
+Using preprocessor bloqqer:
+***** AXps containing 1 *****
+Solving FMP (CPU) time: 1200.22 secs
+shuttle, 19-th inst file out of 200
+2QBF: query on feature 7 out of 9 features:
+Using preprocessor bloqqer:
+***** AXps containing 7 *****
+Solving FMP (CPU) time: 134.97 secs
+shuttle, 20-th inst file out of 200
+2QBF: query on feature 6 out of 9 features:
+Using preprocessor bloqqer:
+***** AXps containing 6 *****
+Solving FMP (CPU) time: 288.91 secs
+shuttle, 21-th inst file out of 200
+2QBF: query on feature 3 out of 9 features:
+Using preprocessor bloqqer:
+***** AXps containing 3 *****
+Solving FMP (CPU) time: 1200.21 secs
+shuttle, 22-th inst file out of 200
+2QBF: query on feature 2 out of 9 features:
+Using preprocessor bloqqer:
+***** AXps containing 2 *****
+Solving FMP (CPU) time: 986.63 secs
+shuttle, 23-th inst file out of 200
+2QBF: query on feature 1 out of 9 features:
+Using preprocessor bloqqer:
+Timeout after 18000 seconds
+
+############ texture ############
+c nof features: 40
+c nof classes: 11
+c nof samples: 5473
+Loading rf_models/RF2001/texture/texture_nbestim_100_maxdepth_4.mod.pkl
+Using solver: caqe
+
+texture, 0-th inst file out of 200
+2QBF: query on feature 2 out of 40 features:
+Using preprocessor bloqqer:
+***** AXps containing 2 *****
+Solving FMP (CPU) time: 1200.37 secs
+texture, 1-th inst file out of 200
+2QBF: query on feature 34 out of 40 features:
+Using preprocessor bloqqer:
+***** AXps containing 34 *****
+Solving FMP (CPU) time: 1200.35 secs
+texture, 2-th inst file out of 200
+2QBF: query on feature 15 out of 40 features:
+Using preprocessor bloqqer:
+***** AXps containing 15 *****
+Solving FMP (CPU) time: 1200.35 secs
+texture, 3-th inst file out of 200
+2QBF: query on feature 28 out of 40 features:
+Using preprocessor bloqqer:
+***** AXps containing 28 *****
+Solving FMP (CPU) time: 1200.31 secs
+texture, 4-th inst file out of 200
+2QBF: query on feature 21 out of 40 features:
+Using preprocessor bloqqer:
+***** AXps containing 21 *****
+Solving FMP (CPU) time: 1200.32 secs
+texture, 5-th inst file out of 200
+2QBF: query on feature 14 out of 40 features:
+Using preprocessor bloqqer:
+***** AXps containing 14 *****
+Solving FMP (CPU) time: 1200.40 secs
+texture, 6-th inst file out of 200
+2QBF: query on feature 38 out of 40 features:
+Using preprocessor bloqqer:
+***** AXps containing 38 *****
+Solving FMP (CPU) time: 1200.32 secs
+texture, 7-th inst file out of 200
+2QBF: query on feature 12 out of 40 features:
+Using preprocessor bloqqer:
+***** AXps containing 12 *****
+Solving FMP (CPU) time: 1200.32 secs
+texture, 8-th inst file out of 200
+2QBF: query on feature 9 out of 40 features:
+Using preprocessor bloqqer:
+***** AXps containing 9 *****
+Solving FMP (CPU) time: 1200.36 secs
+texture, 9-th inst file out of 200
+2QBF: query on feature 24 out of 40 features:
+Using preprocessor bloqqer:
+***** AXps containing 24 *****
+Solving FMP (CPU) time: 1200.32 secs
+texture, 10-th inst file out of 200
+2QBF: query on feature 31 out of 40 features:
+Using preprocessor bloqqer:
+***** AXps containing 31 *****
+Solving FMP (CPU) time: 1200.33 secs
+texture, 11-th inst file out of 200
+2QBF: query on feature 21 out of 40 features:
+Using preprocessor bloqqer:
+***** AXps containing 21 *****
+Solving FMP (CPU) time: 1200.37 secs
+texture, 12-th inst file out of 200
+2QBF: query on feature 4 out of 40 features:
+Using preprocessor bloqqer:
+***** AXps containing 4 *****
+Solving FMP (CPU) time: 1200.35 secs
+texture, 13-th inst file out of 200
+2QBF: query on feature 4 out of 40 features:
+Using preprocessor bloqqer:
+***** AXps containing 4 *****
+Solving FMP (CPU) time: 1200.32 secs
+texture, 14-th inst file out of 200
+2QBF: query on feature 3 out of 40 features:
+Using preprocessor bloqqer:
+Timeout after 18000 seconds
+
+############ twonorm ############
+c nof features: 20
+c nof classes: 2
+c nof samples: 7400
+Loading rf_models/RF2001/twonorm/twonorm_nbestim_100_maxdepth_4.mod.pkl
+Using solver: caqe
+
+twonorm, 0-th inst file out of 200
+2QBF: query on feature 15 out of 20 features:
+Using preprocessor bloqqer:
+***** AXps containing 15 *****
+Solving FMP (CPU) time: 1200.13 secs
+twonorm, 1-th inst file out of 200
+2QBF: query on feature 17 out of 20 features:
+Using preprocessor bloqqer:
+***** AXps containing 17 *****
+Solving FMP (CPU) time: 1200.15 secs
+twonorm, 2-th inst file out of 200
+2QBF: query on feature 13 out of 20 features:
+Using preprocessor bloqqer:
+***** AXps containing 13 *****
+Solving FMP (CPU) time: 1200.16 secs
+twonorm, 3-th inst file out of 200
+2QBF: query on feature 8 out of 20 features:
+Using preprocessor bloqqer:
+***** AXps containing 8 *****
+Solving FMP (CPU) time: 1200.12 secs
+twonorm, 4-th inst file out of 200
+2QBF: query on feature 0 out of 20 features:
+Using preprocessor bloqqer:
+***** AXps containing 0 *****
+Solving FMP (CPU) time: 1200.13 secs
+twonorm, 5-th inst file out of 200
+2QBF: query on feature 2 out of 20 features:
+Using preprocessor bloqqer:
+***** AXps containing 2 *****
+Solving FMP (CPU) time: 1200.13 secs
+twonorm, 6-th inst file out of 200
+2QBF: query on feature 13 out of 20 features:
+Using preprocessor bloqqer:
+***** AXps containing 13 *****
+Solving FMP (CPU) time: 1200.13 secs
+twonorm, 7-th inst file out of 200
+2QBF: query on feature 13 out of 20 features:
+Using preprocessor bloqqer:
+***** AXps containing 13 *****
+Solving FMP (CPU) time: 1200.13 secs
+twonorm, 8-th inst file out of 200
+2QBF: query on feature 3 out of 20 features:
+Using preprocessor bloqqer:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 23.54 secs
+twonorm, 9-th inst file out of 200
+2QBF: query on feature 14 out of 20 features:
+Using preprocessor bloqqer:
+***** AXps containing 14 *****
+Solving FMP (CPU) time: 1200.12 secs
+twonorm, 10-th inst file out of 200
+2QBF: query on feature 5 out of 20 features:
+Using preprocessor bloqqer:
+***** AXps containing 5 *****
+Solving FMP (CPU) time: 1200.14 secs
+twonorm, 11-th inst file out of 200
+2QBF: query on feature 5 out of 20 features:
+Using preprocessor bloqqer:
+***** AXps containing 5 *****
+Solving FMP (CPU) time: 1200.17 secs
+twonorm, 12-th inst file out of 200
+2QBF: query on feature 5 out of 20 features:
+Using preprocessor bloqqer:
+***** AXps containing 5 *****
+Solving FMP (CPU) time: 1200.12 secs
+twonorm, 13-th inst file out of 200
+2QBF: query on feature 9 out of 20 features:
+Using preprocessor bloqqer:
+***** AXps containing 9 *****
+Solving FMP (CPU) time: 1200.13 secs
+twonorm, 14-th inst file out of 200
+2QBF: query on feature 14 out of 20 features:
+Using preprocessor bloqqer:
+***** AXps containing 14 *****
+Solving FMP (CPU) time: 1200.14 secs
+twonorm, 15-th inst file out of 200
+2QBF: query on feature 10 out of 20 features:
+Using preprocessor bloqqer:
+Timeout after 18000 seconds
+
+############ vowel ############
+c nof features: 13
+c nof classes: 11
+c nof samples: 990
+Loading rf_models/RF2001/vowel/vowel_nbestim_100_maxdepth_6.mod.pkl
+Using solver: caqe
+
+vowel, 0-th inst file out of 200
+2QBF: query on feature 11 out of 13 features:
+Using preprocessor bloqqer:
+***** AXps containing 11 *****
+Solving FMP (CPU) time: 1200.45 secs
+vowel, 1-th inst file out of 200
+2QBF: query on feature 12 out of 13 features:
+Using preprocessor bloqqer:
+***** AXps containing 12 *****
+Solving FMP (CPU) time: 1200.48 secs
+vowel, 2-th inst file out of 200
+2QBF: query on feature 12 out of 13 features:
+Using preprocessor bloqqer:
+***** AXps containing 12 *****
+Solving FMP (CPU) time: 1199.47 secs
+vowel, 3-th inst file out of 200
+2QBF: query on feature 6 out of 13 features:
+Using preprocessor bloqqer:
+***** AXps containing 6 *****
+Solving FMP (CPU) time: 1200.47 secs
+vowel, 4-th inst file out of 200
+2QBF: query on feature 11 out of 13 features:
+Using preprocessor bloqqer:
+***** AXps containing 11 *****
+Solving FMP (CPU) time: 1200.49 secs
+vowel, 5-th inst file out of 200
+2QBF: query on feature 6 out of 13 features:
+Using preprocessor bloqqer:
+***** AXps containing 6 *****
+Solving FMP (CPU) time: 1199.46 secs
+vowel, 6-th inst file out of 200
+2QBF: query on feature 7 out of 13 features:
+Using preprocessor bloqqer:
+***** AXps containing 7 *****
+Solving FMP (CPU) time: 1200.47 secs
+vowel, 7-th inst file out of 200
+2QBF: query on feature 4 out of 13 features:
+Using preprocessor bloqqer:
+***** AXps containing 4 *****
+Solving FMP (CPU) time: 1200.46 secs
+vowel, 8-th inst file out of 200
+2QBF: query on feature 0 out of 13 features:
+Using preprocessor bloqqer:
+***** AXps containing 0 *****
+Solving FMP (CPU) time: 1200.47 secs
+vowel, 9-th inst file out of 200
+2QBF: query on feature 9 out of 13 features:
+Using preprocessor bloqqer:
+***** AXps containing 9 *****
+Solving FMP (CPU) time: 1200.47 secs
+vowel, 10-th inst file out of 200
+2QBF: query on feature 11 out of 13 features:
+Using preprocessor bloqqer:
+***** AXps containing 11 *****
+Solving FMP (CPU) time: 1200.46 secs
+vowel, 11-th inst file out of 200
+2QBF: query on feature 10 out of 13 features:
+Using preprocessor bloqqer:
+***** AXps containing 10 *****
+Solving FMP (CPU) time: 1200.49 secs
+vowel, 12-th inst file out of 200
+2QBF: query on feature 3 out of 13 features:
+Using preprocessor bloqqer:
+***** AXps containing 3 *****
+Solving FMP (CPU) time: 556.47 secs
+vowel, 13-th inst file out of 200
+2QBF: query on feature 8 out of 13 features:
+Using preprocessor bloqqer:
+***** AXps containing 8 *****
+Solving FMP (CPU) time: 1200.46 secs
+vowel, 14-th inst file out of 200
+2QBF: query on feature 4 out of 13 features:
+Using preprocessor bloqqer:
+***** AXps containing 4 *****
+Solving FMP (CPU) time: 544.81 secs
+vowel, 15-th inst file out of 200
+2QBF: query on feature 9 out of 13 features:
+Using preprocessor bloqqer:
+***** AXps containing 9 *****
+Solving FMP (CPU) time: 1200.47 secs
+vowel, 16-th inst file out of 200
+2QBF: query on feature 10 out of 13 features:
+Using preprocessor bloqqer:
+Timeout after 18000 seconds
+
+############ waveform_21 ############
+c nof features: 21
+c nof classes: 3
+c nof samples: 5000
+Loading rf_models/RF2001/waveform_21/waveform_21_nbestim_100_maxdepth_4.mod.pkl
+Using solver: caqe
+
+waveform_21, 0-th inst file out of 200
+2QBF: query on feature 1 out of 21 features:
+Using preprocessor bloqqer:
+***** AXps containing 1 *****
+Solving FMP (CPU) time: 1200.19 secs
+waveform_21, 1-th inst file out of 200
+2QBF: query on feature 1 out of 21 features:
+Using preprocessor bloqqer:
+***** AXps containing 1 *****
+Solving FMP (CPU) time: 1200.18 secs
+waveform_21, 2-th inst file out of 200
+2QBF: query on feature 17 out of 21 features:
+Using preprocessor bloqqer:
+***** AXps containing 17 *****
+Solving FMP (CPU) time: 1200.19 secs
+waveform_21, 3-th inst file out of 200
+2QBF: query on feature 8 out of 21 features:
+Using preprocessor bloqqer:
+***** AXps containing 8 *****
+Solving FMP (CPU) time: 1200.18 secs
+waveform_21, 4-th inst file out of 200
+2QBF: query on feature 18 out of 21 features:
+Using preprocessor bloqqer:
+***** AXps containing 18 *****
+Solving FMP (CPU) time: 1200.19 secs
+waveform_21, 5-th inst file out of 200
+2QBF: query on feature 16 out of 21 features:
+Using preprocessor bloqqer:
+***** AXps containing 16 *****
+Solving FMP (CPU) time: 1200.20 secs
+waveform_21, 6-th inst file out of 200
+2QBF: query on feature 11 out of 21 features:
+Using preprocessor bloqqer:
+***** AXps containing 11 *****
+Solving FMP (CPU) time: 1200.17 secs
+waveform_21, 7-th inst file out of 200
+2QBF: query on feature 11 out of 21 features:
+Using preprocessor bloqqer:
+***** AXps containing 11 *****
+Solving FMP (CPU) time: 1200.20 secs
+waveform_21, 8-th inst file out of 200
+2QBF: query on feature 9 out of 21 features:
+Using preprocessor bloqqer:
+***** AXps containing 9 *****
+Solving FMP (CPU) time: 1200.19 secs
+waveform_21, 9-th inst file out of 200
+2QBF: query on feature 2 out of 21 features:
+Using preprocessor bloqqer:
+***** AXps containing 2 *****
+Solving FMP (CPU) time: 1200.18 secs
+waveform_21, 10-th inst file out of 200
+2QBF: query on feature 12 out of 21 features:
+Using preprocessor bloqqer:
+***** AXps containing 12 *****
+Solving FMP (CPU) time: 1200.19 secs
+waveform_21, 11-th inst file out of 200
+2QBF: query on feature 9 out of 21 features:
+Using preprocessor bloqqer:
+***** AXps containing 9 *****
+Solving FMP (CPU) time: 1200.20 secs
+waveform_21, 12-th inst file out of 200
+2QBF: query on feature 8 out of 21 features:
+Using preprocessor bloqqer:
+***** AXps containing 8 *****
+Solving FMP (CPU) time: 1200.18 secs
+waveform_21, 13-th inst file out of 200
+2QBF: query on feature 13 out of 21 features:
+Using preprocessor bloqqer:
+***** AXps containing 13 *****
+Solving FMP (CPU) time: 1200.19 secs
+waveform_21, 14-th inst file out of 200
+2QBF: query on feature 19 out of 21 features:
+Using preprocessor bloqqer:
+Timeout after 18000 seconds

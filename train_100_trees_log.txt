@@ -1,0 +1,319 @@
+c RFxp: Random Forest explainer.
+c
+loading data ...
+c nof features: 22
+c nof classes: 2
+c nof samples: 8124
+Build a random forest.
+----------------------
+Train accuracy: 98.97
+Test accuracy: 99.20
+----------------------
+c RF sz: 1866
+c max-depth: 4
+c nof DTs: 100
+saving  model to  rf_models/RF2001/agaricus_lepiota/agaricus_lepiota_nbestim_100_maxdepth_4.mod.pkl
+c RFxp: Random Forest explainer.
+c
+loading data ...
+c nof features: 29
+c nof classes: 3
+c nof samples: 3711
+Build a random forest.
+----------------------
+Train accuracy: 96.33
+Test accuracy: 96.50
+----------------------
+c RF sz: 2492
+c max-depth: 4
+c nof DTs: 100
+saving  model to  rf_models/RF2001/allbp/allbp_nbestim_100_maxdepth_4.mod.pkl
+c RFxp: Random Forest explainer.
+c
+loading data ...
+c nof features: 21
+c nof classes: 3
+c nof samples: 7129
+Build a random forest.
+----------------------
+Train accuracy: 99.53
+Test accuracy: 98.95
+----------------------
+c RF sz: 2192
+c max-depth: 4
+c nof DTs: 100
+saving  model to  rf_models/RF2001/ann_thyroid/ann_thyroid_nbestim_100_maxdepth_4.mod.pkl
+c RFxp: Random Forest explainer.
+c
+loading data ...
+c nof features: 7
+c nof classes: 2
+c nof samples: 106
+Build a random forest.
+----------------------
+Train accuracy: 94.05
+Test accuracy: 90.91
+----------------------
+c RF sz: 1426
+c max-depth: 4
+c nof DTs: 100
+saving  model to  rf_models/RF2001/appendicitis/appendicitis_nbestim_100_maxdepth_4.mod.pkl
+c RFxp: Random Forest explainer.
+c
+loading data ...
+c nof features: 9
+c nof classes: 2
+c nof samples: 162
+Build a random forest.
+----------------------
+Train accuracy: 92.25
+Test accuracy: 87.88
+----------------------
+c RF sz: 1780
+c max-depth: 4
+c nof DTs: 100
+saving  model to  rf_models/RF2001/glass2/glass2_nbestim_100_maxdepth_4.mod.pkl
+c RFxp: Random Forest explainer.
+c
+loading data ...
+c nof features: 25
+c nof classes: 2
+c nof samples: 3086
+Build a random forest.
+----------------------
+Train accuracy: 95.50
+Test accuracy: 95.95
+----------------------
+c RF sz: 2034
+c max-depth: 4
+c nof DTs: 100
+saving  model to  rf_models/RF2001/hypothyroid/hypothyroid_nbestim_100_maxdepth_4.mod.pkl
+c RFxp: Random Forest explainer.
+c
+loading data ...
+c nof features: 34
+c nof classes: 2
+c nof samples: 350
+Build a random forest.
+----------------------
+Train accuracy: 97.14
+Test accuracy: 87.14
+----------------------
+c RF sz: 1566
+c max-depth: 4
+c nof DTs: 100
+saving  model to  rf_models/RF2001/ionosphere/ionosphere_nbestim_100_maxdepth_4.mod.pkl
+c RFxp: Random Forest explainer.
+c
+loading data ...
+c nof features: 36
+c nof classes: 2
+c nof samples: 3196
+Build a random forest.
+----------------------
+Train accuracy: 94.48
+Test accuracy: 94.22
+----------------------
+c RF sz: 2268
+c max-depth: 4
+c nof DTs: 100
+saving  model to  rf_models/RF2001/kr_vs_kp/kr_vs_kp_nbestim_100_maxdepth_4.mod.pkl
+c RFxp: Random Forest explainer.
+c
+loading data ...
+c nof features: 10
+c nof classes: 2
+c nof samples: 18905
+Build a random forest.
+----------------------
+Train accuracy: 81.88
+Test accuracy: 81.96
+----------------------
+c RF sz: 2990
+c max-depth: 4
+c nof DTs: 100
+saving  model to  rf_models/RF2001/magic/magic_nbestim_100_maxdepth_4.mod.pkl
+c RFxp: Random Forest explainer.
+c
+loading data ...
+c nof features: 10
+c nof classes: 2
+c nof samples: 1024
+Build a random forest.
+----------------------
+Train accuracy: 86.08
+Test accuracy: 85.37
+----------------------
+c RF sz: 2904
+c max-depth: 4
+c nof DTs: 100
+saving  model to  rf_models/RF2001/mofn_3_7_10/mofn_3_7_10_nbestim_100_maxdepth_4.mod.pkl
+c RFxp: Random Forest explainer.
+c
+loading data ...
+c nof features: 22
+c nof classes: 2
+c nof samples: 8124
+Build a random forest.
+----------------------
+Train accuracy: 99.00
+Test accuracy: 99.08
+----------------------
+c RF sz: 2078
+c max-depth: 4
+c nof DTs: 100
+saving  model to  rf_models/RF2001/mushroom/mushroom_nbestim_100_maxdepth_4.mod.pkl
+c RFxp: Random Forest explainer.
+c
+loading data ...
+c nof features: 16
+c nof classes: 10
+c nof samples: 10992
+Build a random forest.
+----------------------
+Train accuracy: 85.49
+Test accuracy: 85.04
+----------------------
+c RF sz: 3098
+c max-depth: 4
+c nof DTs: 100
+saving  model to  rf_models/RF2001/pendigits/pendigits_nbestim_100_maxdepth_4.mod.pkl
+c RFxp: Random Forest explainer.
+c
+loading data ...
+c nof features: 20
+c nof classes: 2
+c nof samples: 7400
+Build a random forest.
+----------------------
+Train accuracy: 83.77
+Test accuracy: 84.19
+----------------------
+c RF sz: 2458
+c max-depth: 4
+c nof DTs: 100
+saving  model to  rf_models/RF2001/ring/ring_nbestim_100_maxdepth_4.mod.pkl
+c RFxp: Random Forest explainer.
+c
+loading data ...
+c nof features: 19
+c nof classes: 7
+c nof samples: 2086
+Build a random forest.
+----------------------
+Train accuracy: 93.59
+Test accuracy: 92.82
+----------------------
+c RF sz: 2288
+c max-depth: 4
+c nof DTs: 100
+saving  model to  rf_models/RF2001/segmentation/segmentation_nbestim_100_maxdepth_4.mod.pkl
+c RFxp: Random Forest explainer.
+c
+loading data ...
+c nof features: 9
+c nof classes: 7
+c nof samples: 58000
+Build a random forest.
+----------------------
+Train accuracy: 99.75
+Test accuracy: 99.81
+----------------------
+c RF sz: 2618
+c max-depth: 4
+c nof DTs: 100
+saving  model to  rf_models/RF2001/shuttle/shuttle_nbestim_100_maxdepth_4.mod.pkl
+c RFxp: Random Forest explainer.
+c
+loading data ...
+c nof features: 40
+c nof classes: 11
+c nof samples: 5473
+Build a random forest.
+----------------------
+Train accuracy: 83.07
+Test accuracy: 81.46
+----------------------
+c RF sz: 3040
+c max-depth: 4
+c nof DTs: 100
+saving  model to  rf_models/RF2001/texture/texture_nbestim_100_maxdepth_4.mod.pkl
+c RFxp: Random Forest explainer.
+c
+loading data ...
+c nof features: 20
+c nof classes: 2
+c nof samples: 7400
+Build a random forest.
+----------------------
+Train accuracy: 95.54
+Test accuracy: 93.51
+----------------------
+c RF sz: 3100
+c max-depth: 4
+c nof DTs: 100
+saving  model to  rf_models/RF2001/twonorm/twonorm_nbestim_100_maxdepth_4.mod.pkl
+c RFxp: Random Forest explainer.
+c
+loading data ...
+c nof features: 13
+c nof classes: 11
+c nof samples: 990
+Build a random forest.
+----------------------
+Train accuracy: 97.10
+Test accuracy: 90.40
+----------------------
+c RF sz: 10176
+c max-depth: 6
+c nof DTs: 100
+saving  model to  rf_models/RF2001/vowel/vowel_nbestim_100_maxdepth_6.mod.pkl
+c RFxp: Random Forest explainer.
+c
+loading data ...
+c nof features: 21
+c nof classes: 3
+c nof samples: 5000
+Build a random forest.
+----------------------
+Train accuracy: 83.80
+Test accuracy: 83.50
+----------------------
+c RF sz: 3100
+c max-depth: 4
+c nof DTs: 100
+saving  model to  rf_models/RF2001/waveform_21/waveform_21_nbestim_100_maxdepth_4.mod.pkl
+c RFxp: Random Forest explainer.
+c
+loading data ...
+c nof features: 30
+c nof classes: 2
+c nof samples: 569
+Build a random forest.
+----------------------
+Train accuracy: 98.68
+Test accuracy: 96.49
+----------------------
+c RF sz: 2030
+c max-depth: 4
+c nof DTs: 100
+saving  model to  rf_models/RF2001/wdbc/wdbc_nbestim_100_maxdepth_4.mod.pkl
+c RFxp: Random Forest explainer.
+c
+loading data ...
+c RFxp: Random Forest explainer.
+c
+loading data ...
+c nof features: 23
+c nof classes: 13
+c nof samples: 485
+Build a random forest.
+----------------------
+Train accuracy: 96.65
+Test accuracy: 86.60
+----------------------
+c RF sz: 2890
+c max-depth: 4
+c nof DTs: 100
+saving  model to  rf_models/RF2001/collins/collins_nbestim_100_maxdepth_4.mod.pkl
+

@@ -1,0 +1,9 @@
+crx
+ecoli
+glass2
+hayes_roth
+house_votes_84
+iris
+mofn_3_7_10
+monk3
+new_thyroid

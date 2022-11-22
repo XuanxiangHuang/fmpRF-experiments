@@ -1,0 +1,15 @@
+c RFxp: Random Forest explainer.
+c
+loading data ...
+c nof features: 4
+c nof classes: 3
+c nof samples: 93
+Build a random forest.
+----------------------
+Train accuracy: 86.49
+Test accuracy: 84.21
+----------------------
+c RF sz: 336
+c max-depth: 4
+c nof DTs: 30
+saving  model to  rf_models/RF2001/hayes_roth/hayes_roth_nbestim_30_maxdepth_4.mod.pkl

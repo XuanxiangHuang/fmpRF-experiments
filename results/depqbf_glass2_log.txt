@@ -1,0 +1,660 @@
+############ glass2 ############
+c nof features: 9
+c nof classes: 2
+c nof samples: 162
+Loading rf_models/RF2001/glass2/glass2_nbestim_20_maxdepth_4.mod.pkl
+Using solver: depqbf
+
+glass2, 0-th inst file out of 163
+2QBF: query on feature 6 out of 9 features:
+***** AXps containing 6 *****
+Solving FMP (CPU) time: 0.08 secs
+glass2, 1-th inst file out of 163
+2QBF: query on feature 8 out of 9 features:
+***** AXps containing 8 *****
+Solving FMP (CPU) time: 3.98 secs
+glass2, 2-th inst file out of 163
+2QBF: query on feature 0 out of 9 features:
+***** AXps containing 0 *****
+Solving FMP (CPU) time: 83.65 secs
+glass2, 3-th inst file out of 163
+2QBF: query on feature 6 out of 9 features:
+***** AXps containing 6 *****
+Solving FMP (CPU) time: 0.05 secs
+glass2, 4-th inst file out of 163
+2QBF: query on feature 6 out of 9 features:
+***** AXps containing 6 *****
+Solving FMP (CPU) time: 0.04 secs
+glass2, 5-th inst file out of 163
+2QBF: query on feature 2 out of 9 features:
+***** AXps containing 2 *****
+Solving FMP (CPU) time: 0.04 secs
+glass2, 6-th inst file out of 163
+2QBF: query on feature 5 out of 9 features:
+***** AXps containing 5 *****
+Solving FMP (CPU) time: 124.61 secs
+glass2, 7-th inst file out of 163
+2QBF: query on feature 1 out of 9 features:
+***** AXps containing 1 *****
+Solving FMP (CPU) time: 197.15 secs
+glass2, 8-th inst file out of 163
+2QBF: query on feature 0 out of 9 features:
+***** AXps containing 0 *****
+Solving FMP (CPU) time: 2.70 secs
+glass2, 9-th inst file out of 163
+2QBF: query on feature 0 out of 9 features:
+***** AXps containing 0 *****
+Solving FMP (CPU) time: 9.89 secs
+glass2, 10-th inst file out of 163
+2QBF: query on feature 8 out of 9 features:
+***** AXps containing 8 *****
+Solving FMP (CPU) time: 0.71 secs
+glass2, 11-th inst file out of 163
+2QBF: query on feature 3 out of 9 features:
+***** AXps containing 3 *****
+Solving FMP (CPU) time: 128.91 secs
+glass2, 12-th inst file out of 163
+2QBF: query on feature 8 out of 9 features:
+***** AXps containing 8 *****
+Solving FMP (CPU) time: 0.63 secs
+glass2, 13-th inst file out of 163
+2QBF: query on feature 7 out of 9 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 4.73 secs
+glass2, 14-th inst file out of 163
+2QBF: query on feature 5 out of 9 features:
+***** AXps containing 5 *****
+Solving FMP (CPU) time: 50.34 secs
+glass2, 15-th inst file out of 163
+2QBF: query on feature 3 out of 9 features:
+***** AXps containing 3 *****
+Solving FMP (CPU) time: 200.75 secs
+glass2, 16-th inst file out of 163
+2QBF: query on feature 5 out of 9 features:
+***** AXps containing 5 *****
+Solving FMP (CPU) time: 0.04 secs
+glass2, 17-th inst file out of 163
+2QBF: query on feature 7 out of 9 features:
+***** AXps containing 7 *****
+Solving FMP (CPU) time: 6.72 secs
+glass2, 18-th inst file out of 163
+2QBF: query on feature 6 out of 9 features:
+***** AXps containing 6 *****
+Solving FMP (CPU) time: 2.03 secs
+glass2, 19-th inst file out of 163
+2QBF: query on feature 4 out of 9 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 0.25 secs
+glass2, 20-th inst file out of 163
+2QBF: query on feature 3 out of 9 features:
+***** AXps containing 3 *****
+Solving FMP (CPU) time: 35.96 secs
+glass2, 21-th inst file out of 163
+2QBF: query on feature 7 out of 9 features:
+***** AXps containing 7 *****
+Solving FMP (CPU) time: 5.20 secs
+glass2, 22-th inst file out of 163
+2QBF: query on feature 8 out of 9 features:
+***** AXps containing 8 *****
+Solving FMP (CPU) time: 9.69 secs
+glass2, 23-th inst file out of 163
+2QBF: query on feature 6 out of 9 features:
+***** AXps containing 6 *****
+Solving FMP (CPU) time: 0.04 secs
+glass2, 24-th inst file out of 163
+2QBF: query on feature 7 out of 9 features:
+***** AXps containing 7 *****
+Solving FMP (CPU) time: 26.68 secs
+glass2, 25-th inst file out of 163
+2QBF: query on feature 8 out of 9 features:
+***** AXps containing 8 *****
+Solving FMP (CPU) time: 3.31 secs
+glass2, 26-th inst file out of 163
+2QBF: query on feature 7 out of 9 features:
+***** AXps containing 7 *****
+Solving FMP (CPU) time: 3.36 secs
+glass2, 27-th inst file out of 163
+2QBF: query on feature 8 out of 9 features:
+***** AXps containing 8 *****
+Solving FMP (CPU) time: 2.58 secs
+glass2, 28-th inst file out of 163
+2QBF: query on feature 5 out of 9 features:
+***** AXps containing 5 *****
+Solving FMP (CPU) time: 51.49 secs
+glass2, 29-th inst file out of 163
+2QBF: query on feature 2 out of 9 features:
+***** AXps containing 2 *****
+Solving FMP (CPU) time: 1.59 secs
+glass2, 30-th inst file out of 163
+2QBF: query on feature 2 out of 9 features:
+***** AXps containing 2 *****
+Solving FMP (CPU) time: 0.04 secs
+glass2, 31-th inst file out of 163
+2QBF: query on feature 7 out of 9 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 32.32 secs
+glass2, 32-th inst file out of 163
+2QBF: query on feature 8 out of 9 features:
+***** AXps containing 8 *****
+Solving FMP (CPU) time: 4.06 secs
+glass2, 33-th inst file out of 163
+2QBF: query on feature 5 out of 9 features:
+***** AXps containing 5 *****
+Solving FMP (CPU) time: 42.80 secs
+glass2, 34-th inst file out of 163
+2QBF: query on feature 8 out of 9 features:
+***** AXps containing 8 *****
+Solving FMP (CPU) time: 0.15 secs
+glass2, 35-th inst file out of 163
+2QBF: query on feature 0 out of 9 features:
+***** AXps containing 0 *****
+Solving FMP (CPU) time: 0.04 secs
+glass2, 36-th inst file out of 163
+2QBF: query on feature 8 out of 9 features:
+***** AXps containing 8 *****
+Solving FMP (CPU) time: 1.86 secs
+glass2, 37-th inst file out of 163
+2QBF: query on feature 0 out of 9 features:
+***** AXps containing 0 *****
+Solving FMP (CPU) time: 0.04 secs
+glass2, 38-th inst file out of 163
+2QBF: query on feature 3 out of 9 features:
+***** AXps containing 3 *****
+Solving FMP (CPU) time: 4.70 secs
+glass2, 39-th inst file out of 163
+2QBF: query on feature 0 out of 9 features:
+***** AXps containing 0 *****
+Solving FMP (CPU) time: 20.45 secs
+glass2, 40-th inst file out of 163
+2QBF: query on feature 5 out of 9 features:
+***** AXps containing 5 *****
+Solving FMP (CPU) time: 35.68 secs
+glass2, 41-th inst file out of 163
+2QBF: query on feature 0 out of 9 features:
+***** AXps containing 0 *****
+Solving FMP (CPU) time: 0.10 secs
+glass2, 42-th inst file out of 163
+2QBF: query on feature 4 out of 9 features:
+***** AXps containing 4 *****
+Solving FMP (CPU) time: 0.04 secs
+glass2, 43-th inst file out of 163
+2QBF: query on feature 4 out of 9 features:
+***** AXps containing 4 *****
+Solving FMP (CPU) time: 17.84 secs
+glass2, 44-th inst file out of 163
+2QBF: query on feature 2 out of 9 features:
+***** AXps containing 2 *****
+Solving FMP (CPU) time: 3.34 secs
+glass2, 45-th inst file out of 163
+2QBF: query on feature 2 out of 9 features:
+***** AXps containing 2 *****
+Solving FMP (CPU) time: 3.06 secs
+glass2, 46-th inst file out of 163
+2QBF: query on feature 8 out of 9 features:
+***** AXps containing 8 *****
+Solving FMP (CPU) time: 1.88 secs
+glass2, 47-th inst file out of 163
+2QBF: query on feature 6 out of 9 features:
+***** AXps containing 6 *****
+Solving FMP (CPU) time: 0.04 secs
+glass2, 48-th inst file out of 163
+2QBF: query on feature 3 out of 9 features:
+***** AXps containing 3 *****
+Solving FMP (CPU) time: 102.32 secs
+glass2, 49-th inst file out of 163
+2QBF: query on feature 5 out of 9 features:
+***** AXps containing 5 *****
+Solving FMP (CPU) time: 0.64 secs
+glass2, 50-th inst file out of 163
+2QBF: query on feature 7 out of 9 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 28.08 secs
+glass2, 51-th inst file out of 163
+2QBF: query on feature 8 out of 9 features:
+***** AXps containing 8 *****
+Solving FMP (CPU) time: 6.86 secs
+glass2, 52-th inst file out of 163
+2QBF: query on feature 4 out of 9 features:
+***** AXps containing 4 *****
+Solving FMP (CPU) time: 0.85 secs
+glass2, 53-th inst file out of 163
+2QBF: query on feature 8 out of 9 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1.44 secs
+glass2, 54-th inst file out of 163
+2QBF: query on feature 0 out of 9 features:
+***** AXps containing 0 *****
+Solving FMP (CPU) time: 0.10 secs
+glass2, 55-th inst file out of 163
+2QBF: query on feature 8 out of 9 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 0.29 secs
+glass2, 56-th inst file out of 163
+2QBF: query on feature 3 out of 9 features:
+***** AXps containing 3 *****
+Solving FMP (CPU) time: 102.19 secs
+glass2, 57-th inst file out of 163
+2QBF: query on feature 2 out of 9 features:
+***** AXps containing 2 *****
+Solving FMP (CPU) time: 19.20 secs
+glass2, 58-th inst file out of 163
+2QBF: query on feature 4 out of 9 features:
+***** AXps containing 4 *****
+Solving FMP (CPU) time: 6.31 secs
+glass2, 59-th inst file out of 163
+2QBF: query on feature 0 out of 9 features:
+***** AXps containing 0 *****
+Solving FMP (CPU) time: 0.39 secs
+glass2, 60-th inst file out of 163
+2QBF: query on feature 0 out of 9 features:
+***** AXps containing 0 *****
+Solving FMP (CPU) time: 0.62 secs
+glass2, 61-th inst file out of 163
+2QBF: query on feature 6 out of 9 features:
+***** AXps containing 6 *****
+Solving FMP (CPU) time: 0.04 secs
+glass2, 62-th inst file out of 163
+2QBF: query on feature 5 out of 9 features:
+***** AXps containing 5 *****
+Solving FMP (CPU) time: 16.57 secs
+glass2, 63-th inst file out of 163
+2QBF: query on feature 4 out of 9 features:
+***** AXps containing 4 *****
+Solving FMP (CPU) time: 50.09 secs
+glass2, 64-th inst file out of 163
+2QBF: query on feature 1 out of 9 features:
+***** AXps containing 1 *****
+Solving FMP (CPU) time: 1.58 secs
+glass2, 65-th inst file out of 163
+2QBF: query on feature 4 out of 9 features:
+***** AXps containing 4 *****
+Solving FMP (CPU) time: 19.85 secs
+glass2, 66-th inst file out of 163
+2QBF: query on feature 5 out of 9 features:
+***** AXps containing 5 *****
+Solving FMP (CPU) time: 17.94 secs
+glass2, 67-th inst file out of 163
+2QBF: query on feature 5 out of 9 features:
+***** AXps containing 5 *****
+Solving FMP (CPU) time: 1519.82 secs
+glass2, 68-th inst file out of 163
+2QBF: query on feature 3 out of 9 features:
+***** AXps containing 3 *****
+Solving FMP (CPU) time: 102.33 secs
+glass2, 69-th inst file out of 163
+2QBF: query on feature 6 out of 9 features:
+***** AXps containing 6 *****
+Solving FMP (CPU) time: 0.04 secs
+glass2, 70-th inst file out of 163
+2QBF: query on feature 7 out of 9 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 3.33 secs
+glass2, 71-th inst file out of 163
+2QBF: query on feature 2 out of 9 features:
+***** AXps containing 2 *****
+Solving FMP (CPU) time: 3.49 secs
+glass2, 72-th inst file out of 163
+2QBF: query on feature 0 out of 9 features:
+***** AXps containing 0 *****
+Solving FMP (CPU) time: 0.32 secs
+glass2, 73-th inst file out of 163
+2QBF: query on feature 7 out of 9 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 31.67 secs
+glass2, 74-th inst file out of 163
+2QBF: query on feature 5 out of 9 features:
+***** AXps containing 5 *****
+Solving FMP (CPU) time: 94.98 secs
+glass2, 75-th inst file out of 163
+2QBF: query on feature 5 out of 9 features:
+***** AXps containing 5 *****
+Solving FMP (CPU) time: 0.31 secs
+glass2, 76-th inst file out of 163
+2QBF: query on feature 4 out of 9 features:
+***** AXps containing 4 *****
+Solving FMP (CPU) time: 0.58 secs
+glass2, 77-th inst file out of 163
+2QBF: query on feature 1 out of 9 features:
+***** AXps containing 1 *****
+Solving FMP (CPU) time: 0.04 secs
+glass2, 78-th inst file out of 163
+2QBF: query on feature 6 out of 9 features:
+***** AXps containing 6 *****
+Solving FMP (CPU) time: 1.45 secs
+glass2, 79-th inst file out of 163
+2QBF: query on feature 7 out of 9 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 156.34 secs
+glass2, 80-th inst file out of 163
+2QBF: query on feature 0 out of 9 features:
+***** AXps containing 0 *****
+Solving FMP (CPU) time: 3.36 secs
+glass2, 81-th inst file out of 163
+2QBF: query on feature 8 out of 9 features:
+***** AXps containing 8 *****
+Solving FMP (CPU) time: 3.02 secs
+glass2, 82-th inst file out of 163
+2QBF: query on feature 2 out of 9 features:
+***** AXps containing 2 *****
+Solving FMP (CPU) time: 0.04 secs
+glass2, 83-th inst file out of 163
+2QBF: query on feature 5 out of 9 features:
+***** AXps containing 5 *****
+Solving FMP (CPU) time: 16.50 secs
+glass2, 84-th inst file out of 163
+2QBF: query on feature 7 out of 9 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 90.48 secs
+glass2, 85-th inst file out of 163
+2QBF: query on feature 7 out of 9 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 62.48 secs
+glass2, 86-th inst file out of 163
+2QBF: query on feature 2 out of 9 features:
+***** AXps containing 2 *****
+Solving FMP (CPU) time: 76.65 secs
+glass2, 87-th inst file out of 163
+2QBF: query on feature 4 out of 9 features:
+***** AXps containing 4 *****
+Solving FMP (CPU) time: 3.85 secs
+glass2, 88-th inst file out of 163
+2QBF: query on feature 6 out of 9 features:
+***** AXps containing 6 *****
+Solving FMP (CPU) time: 0.04 secs
+glass2, 89-th inst file out of 163
+2QBF: query on feature 4 out of 9 features:
+***** AXps containing 4 *****
+Solving FMP (CPU) time: 0.32 secs
+glass2, 90-th inst file out of 163
+2QBF: query on feature 6 out of 9 features:
+***** AXps containing 6 *****
+Solving FMP (CPU) time: 24.17 secs
+glass2, 91-th inst file out of 163
+2QBF: query on feature 4 out of 9 features:
+***** AXps containing 4 *****
+Solving FMP (CPU) time: 0.10 secs
+glass2, 92-th inst file out of 163
+2QBF: query on feature 5 out of 9 features:
+***** AXps containing 5 *****
+Solving FMP (CPU) time: 6.27 secs
+glass2, 93-th inst file out of 163
+2QBF: query on feature 6 out of 9 features:
+***** AXps containing 6 *****
+Solving FMP (CPU) time: 0.04 secs
+glass2, 94-th inst file out of 163
+2QBF: query on feature 2 out of 9 features:
+***** AXps containing 2 *****
+Solving FMP (CPU) time: 2.03 secs
+glass2, 95-th inst file out of 163
+2QBF: query on feature 0 out of 9 features:
+***** AXps containing 0 *****
+Solving FMP (CPU) time: 2.21 secs
+glass2, 96-th inst file out of 163
+2QBF: query on feature 7 out of 9 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 335.38 secs
+glass2, 97-th inst file out of 163
+2QBF: query on feature 8 out of 9 features:
+***** AXps containing 8 *****
+Solving FMP (CPU) time: 3.93 secs
+glass2, 98-th inst file out of 163
+2QBF: query on feature 1 out of 9 features:
+***** AXps containing 1 *****
+Solving FMP (CPU) time: 41.72 secs
+glass2, 99-th inst file out of 163
+2QBF: query on feature 3 out of 9 features:
+***** AXps containing 3 *****
+Solving FMP (CPU) time: 13.13 secs
+glass2, 100-th inst file out of 163
+2QBF: query on feature 7 out of 9 features:
+***** AXps containing 7 *****
+Solving FMP (CPU) time: 26.29 secs
+glass2, 101-th inst file out of 163
+2QBF: query on feature 7 out of 9 features:
+***** AXps containing 7 *****
+Solving FMP (CPU) time: 6.77 secs
+glass2, 102-th inst file out of 163
+2QBF: query on feature 8 out of 9 features:
+***** AXps containing 8 *****
+Solving FMP (CPU) time: 6.39 secs
+glass2, 103-th inst file out of 163
+2QBF: query on feature 6 out of 9 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 0.20 secs
+glass2, 104-th inst file out of 163
+2QBF: query on feature 6 out of 9 features:
+***** AXps containing 6 *****
+Solving FMP (CPU) time: 0.04 secs
+glass2, 105-th inst file out of 163
+2QBF: query on feature 1 out of 9 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 0.45 secs
+glass2, 106-th inst file out of 163
+2QBF: query on feature 5 out of 9 features:
+***** AXps containing 5 *****
+Solving FMP (CPU) time: 16.65 secs
+glass2, 107-th inst file out of 163
+2QBF: query on feature 3 out of 9 features:
+***** AXps containing 3 *****
+Solving FMP (CPU) time: 206.06 secs
+glass2, 108-th inst file out of 163
+2QBF: query on feature 6 out of 9 features:
+***** AXps containing 6 *****
+Solving FMP (CPU) time: 0.04 secs
+glass2, 109-th inst file out of 163
+2QBF: query on feature 7 out of 9 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 0.45 secs
+glass2, 110-th inst file out of 163
+2QBF: query on feature 5 out of 9 features:
+***** AXps containing 5 *****
+Solving FMP (CPU) time: 3.44 secs
+glass2, 111-th inst file out of 163
+2QBF: query on feature 2 out of 9 features:
+***** AXps containing 2 *****
+Solving FMP (CPU) time: 7.54 secs
+glass2, 112-th inst file out of 163
+2QBF: query on feature 2 out of 9 features:
+***** AXps containing 2 *****
+Solving FMP (CPU) time: 19.12 secs
+glass2, 113-th inst file out of 163
+2QBF: query on feature 2 out of 9 features:
+***** AXps containing 2 *****
+Solving FMP (CPU) time: 6.34 secs
+glass2, 114-th inst file out of 163
+2QBF: query on feature 3 out of 9 features:
+***** AXps containing 3 *****
+Solving FMP (CPU) time: 102.49 secs
+glass2, 115-th inst file out of 163
+2QBF: query on feature 8 out of 9 features:
+***** AXps containing 8 *****
+Solving FMP (CPU) time: 0.04 secs
+glass2, 116-th inst file out of 163
+2QBF: query on feature 7 out of 9 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 190.39 secs
+glass2, 117-th inst file out of 163
+2QBF: query on feature 1 out of 9 features:
+***** AXps containing 1 *****
+Solving FMP (CPU) time: 0.41 secs
+glass2, 118-th inst file out of 163
+2QBF: query on feature 4 out of 9 features:
+***** AXps containing 4 *****
+Solving FMP (CPU) time: 8.22 secs
+glass2, 119-th inst file out of 163
+2QBF: query on feature 4 out of 9 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1.33 secs
+glass2, 120-th inst file out of 163
+2QBF: query on feature 2 out of 9 features:
+***** AXps containing 2 *****
+Solving FMP (CPU) time: 3.23 secs
+glass2, 121-th inst file out of 163
+2QBF: query on feature 7 out of 9 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 38.04 secs
+glass2, 122-th inst file out of 163
+2QBF: query on feature 8 out of 9 features:
+***** AXps containing 8 *****
+Solving FMP (CPU) time: 49.29 secs
+glass2, 123-th inst file out of 163
+2QBF: query on feature 5 out of 9 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 3.36 secs
+glass2, 124-th inst file out of 163
+2QBF: query on feature 3 out of 9 features:
+***** AXps containing 3 *****
+Solving FMP (CPU) time: 13.69 secs
+glass2, 125-th inst file out of 163
+2QBF: query on feature 5 out of 9 features:
+***** AXps containing 5 *****
+Solving FMP (CPU) time: 22.19 secs
+glass2, 126-th inst file out of 163
+2QBF: query on feature 6 out of 9 features:
+***** AXps containing 6 *****
+Solving FMP (CPU) time: 0.04 secs
+glass2, 127-th inst file out of 163
+2QBF: query on feature 5 out of 9 features:
+***** AXps containing 5 *****
+Solving FMP (CPU) time: 3.34 secs
+glass2, 128-th inst file out of 163
+2QBF: query on feature 2 out of 9 features:
+***** AXps containing 2 *****
+Solving FMP (CPU) time: 4.47 secs
+glass2, 129-th inst file out of 163
+2QBF: query on feature 3 out of 9 features:
+***** AXps containing 3 *****
+Solving FMP (CPU) time: 6.37 secs
+glass2, 130-th inst file out of 163
+2QBF: query on feature 8 out of 9 features:
+***** AXps containing 8 *****
+Solving FMP (CPU) time: 0.04 secs
+glass2, 131-th inst file out of 163
+2QBF: query on feature 8 out of 9 features:
+***** AXps containing 8 *****
+Solving FMP (CPU) time: 0.04 secs
+glass2, 132-th inst file out of 163
+2QBF: query on feature 2 out of 9 features:
+***** AXps containing 2 *****
+Solving FMP (CPU) time: 19.15 secs
+glass2, 133-th inst file out of 163
+2QBF: query on feature 1 out of 9 features:
+***** AXps containing 1 *****
+Solving FMP (CPU) time: 24.49 secs
+glass2, 134-th inst file out of 163
+2QBF: query on feature 8 out of 9 features:
+***** AXps containing 8 *****
+Solving FMP (CPU) time: 15.67 secs
+glass2, 135-th inst file out of 163
+2QBF: query on feature 2 out of 9 features:
+***** AXps containing 2 *****
+Solving FMP (CPU) time: 2.03 secs
+glass2, 136-th inst file out of 163
+2QBF: query on feature 5 out of 9 features:
+***** AXps containing 5 *****
+Solving FMP (CPU) time: 25.01 secs
+glass2, 137-th inst file out of 163
+2QBF: query on feature 7 out of 9 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 82.94 secs
+glass2, 138-th inst file out of 163
+2QBF: query on feature 3 out of 9 features:
+***** AXps containing 3 *****
+Solving FMP (CPU) time: 0.04 secs
+glass2, 139-th inst file out of 163
+2QBF: query on feature 3 out of 9 features:
+***** AXps containing 3 *****
+Solving FMP (CPU) time: 9.29 secs
+glass2, 140-th inst file out of 163
+2QBF: query on feature 8 out of 9 features:
+***** AXps containing 8 *****
+Solving FMP (CPU) time: 3.78 secs
+glass2, 141-th inst file out of 163
+2QBF: query on feature 5 out of 9 features:
+***** AXps containing 5 *****
+Solving FMP (CPU) time: 0.75 secs
+glass2, 142-th inst file out of 163
+2QBF: query on feature 1 out of 9 features:
+***** AXps containing 1 *****
+Solving FMP (CPU) time: 0.06 secs
+glass2, 143-th inst file out of 163
+2QBF: query on feature 4 out of 9 features:
+***** AXps containing 4 *****
+Solving FMP (CPU) time: 5.58 secs
+glass2, 144-th inst file out of 163
+2QBF: query on feature 8 out of 9 features:
+***** AXps containing 8 *****
+Solving FMP (CPU) time: 4.39 secs
+glass2, 145-th inst file out of 163
+2QBF: query on feature 4 out of 9 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 0.23 secs
+glass2, 146-th inst file out of 163
+2QBF: query on feature 8 out of 9 features:
+***** AXps containing 8 *****
+Solving FMP (CPU) time: 6.70 secs
+glass2, 147-th inst file out of 163
+2QBF: query on feature 2 out of 9 features:
+***** AXps containing 2 *****
+Solving FMP (CPU) time: 3.14 secs
+glass2, 148-th inst file out of 163
+2QBF: query on feature 7 out of 9 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 0.29 secs
+glass2, 149-th inst file out of 163
+2QBF: query on feature 1 out of 9 features:
+***** AXps containing 1 *****
+Solving FMP (CPU) time: 4.35 secs
+glass2, 150-th inst file out of 163
+2QBF: query on feature 4 out of 9 features:
+***** AXps containing 4 *****
+Solving FMP (CPU) time: 5.20 secs
+glass2, 151-th inst file out of 163
+2QBF: query on feature 2 out of 9 features:
+***** AXps containing 2 *****
+Solving FMP (CPU) time: 0.66 secs
+glass2, 152-th inst file out of 163
+2QBF: query on feature 4 out of 9 features:
+***** AXps containing 4 *****
+Solving FMP (CPU) time: 11.88 secs
+glass2, 153-th inst file out of 163
+2QBF: query on feature 2 out of 9 features:
+***** AXps containing 2 *****
+Solving FMP (CPU) time: 41.50 secs
+glass2, 154-th inst file out of 163
+2QBF: query on feature 7 out of 9 features:
+***** AXps containing 7 *****
+Solving FMP (CPU) time: 0.39 secs
+glass2, 155-th inst file out of 163
+2QBF: query on feature 3 out of 9 features:
+***** AXps containing 3 *****
+Solving FMP (CPU) time: 0.17 secs
+glass2, 156-th inst file out of 163
+2QBF: query on feature 1 out of 9 features:
+***** AXps containing 1 *****
+Solving FMP (CPU) time: 5.45 secs
+glass2, 157-th inst file out of 163
+2QBF: query on feature 6 out of 9 features:
+***** AXps containing 6 *****
+Solving FMP (CPU) time: 0.04 secs
+glass2, 158-th inst file out of 163
+2QBF: query on feature 4 out of 9 features:
+***** AXps containing 4 *****
+Solving FMP (CPU) time: 3.62 secs
+glass2, 159-th inst file out of 163
+2QBF: query on feature 1 out of 9 features:
+***** AXps containing 1 *****
+Solving FMP (CPU) time: 1.31 secs
+glass2, 160-th inst file out of 163
+2QBF: query on feature 1 out of 9 features:
+***** AXps containing 1 *****
+Solving FMP (CPU) time: 31.72 secs
+glass2, 161-th inst file out of 163
+2QBF: query on feature 2 out of 9 features:
+***** AXps containing 2 *****
+Solving FMP (CPU) time: 0.04 secs
+glass2, 162-th inst file out of 163
+2QBF: query on feature 0 out of 9 features:
+***** AXps containing 0 *****
+Solving FMP (CPU) time: 9.09 secs
+glass2 & 163 & 9 & #C & 4 & 348 & A% & 2414 & 4744 & 141 & 0 & 0 & 4102.720 & 1519.817 & 0.040 & 29.097 & 1064.493 & 335.375 & 0.200 & 48.386

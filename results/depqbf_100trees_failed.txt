@@ -1,0 +1,1678 @@
+############ agaricus_lepiota ############
+c nof features: 22
+c nof classes: 2
+c nof samples: 8124
+Loading rf_models/RF2001/agaricus_lepiota/agaricus_lepiota_nbestim_100_maxdepth_4.mod.pkl
+Using solver: depqbf
+
+agaricus_lepiota, 0-th inst file out of 200
+2QBF: query on feature 2 out of 22 features:
+User-given limit reached, exiting.
+***** AXps containing 2 *****
+Solving FMP (CPU) time: 1207.47 secs
+agaricus_lepiota, 1-th inst file out of 200
+2QBF: query on feature 9 out of 22 features:
+User-given limit reached, exiting.
+***** AXps containing 9 *****
+Solving FMP (CPU) time: 1200.67 secs
+agaricus_lepiota, 2-th inst file out of 200
+2QBF: query on feature 8 out of 22 features:
+User-given limit reached, exiting.
+***** AXps containing 8 *****
+Solving FMP (CPU) time: 1200.33 secs
+agaricus_lepiota, 3-th inst file out of 200
+2QBF: query on feature 20 out of 22 features:
+User-given limit reached, exiting.
+***** AXps containing 20 *****
+Solving FMP (CPU) time: 1200.27 secs
+agaricus_lepiota, 4-th inst file out of 200
+2QBF: query on feature 14 out of 22 features:
+User-given limit reached, exiting.
+***** AXps containing 14 *****
+Solving FMP (CPU) time: 1200.44 secs
+agaricus_lepiota, 5-th inst file out of 200
+2QBF: query on feature 4 out of 22 features:
+***** AXps containing 4 *****
+Solving FMP (CPU) time: 0.13 secs
+agaricus_lepiota, 6-th inst file out of 200
+2QBF: query on feature 11 out of 22 features:
+User-given limit reached, exiting.
+***** AXps containing 11 *****
+Solving FMP (CPU) time: 1200.26 secs
+agaricus_lepiota, 7-th inst file out of 200
+2QBF: query on feature 19 out of 22 features:
+User-given limit reached, exiting.
+***** AXps containing 19 *****
+Solving FMP (CPU) time: 1200.33 secs
+agaricus_lepiota, 8-th inst file out of 200
+2QBF: query on feature 19 out of 22 features:
+User-given limit reached, exiting.
+***** AXps containing 19 *****
+Solving FMP (CPU) time: 1200.70 secs
+agaricus_lepiota, 9-th inst file out of 200
+2QBF: query on feature 8 out of 22 features:
+User-given limit reached, exiting.
+***** AXps containing 8 *****
+Solving FMP (CPU) time: 1200.54 secs
+agaricus_lepiota, 10-th inst file out of 200
+2QBF: query on feature 4 out of 22 features:
+User-given limit reached, exiting.
+***** AXps containing 4 *****
+Solving FMP (CPU) time: 1200.45 secs
+agaricus_lepiota, 11-th inst file out of 200
+2QBF: query on feature 20 out of 22 features:
+User-given limit reached, exiting.
+***** AXps containing 20 *****
+Solving FMP (CPU) time: 1200.75 secs
+agaricus_lepiota, 12-th inst file out of 200
+2QBF: query on feature 14 out of 22 features:
+User-given limit reached, exiting.
+***** AXps containing 14 *****
+Solving FMP (CPU) time: 1200.42 secs
+agaricus_lepiota, 13-th inst file out of 200
+2QBF: query on feature 15 out of 22 features:
+interested feature not in RF, so there is no AXp
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 0.00 secs
+agaricus_lepiota, 14-th inst file out of 200
+2QBF: query on feature 19 out of 22 features:
+User-given limit reached, exiting.
+***** AXps containing 19 *****
+Solving FMP (CPU) time: 1200.48 secs
+agaricus_lepiota, 15-th inst file out of 200
+2QBF: query on feature 18 out of 22 features:
+User-given limit reached, exiting.
+***** AXps containing 18 *****
+Solving FMP (CPU) time: 1200.93 secs
+agaricus_lepiota, 16-th inst file out of 200
+2QBF: query on feature 11 out of 22 features:
+Timeout after 18000 seconds
+
+############ allbp ############
+c nof features: 29
+c nof classes: 3
+c nof samples: 3711
+Loading rf_models/RF2001/allbp/allbp_nbestim_100_maxdepth_4.mod.pkl
+Using solver: depqbf
+
+allbp, 0-th inst file out of 200
+2QBF: query on feature 13 out of 29 features:
+User-given limit reached, exiting.
+***** AXps containing 13 *****
+Solving FMP (CPU) time: 1200.76 secs
+allbp, 1-th inst file out of 200
+2QBF: query on feature 8 out of 29 features:
+User-given limit reached, exiting.
+***** AXps containing 8 *****
+Solving FMP (CPU) time: 1200.83 secs
+allbp, 2-th inst file out of 200
+2QBF: query on feature 3 out of 29 features:
+User-given limit reached, exiting.
+***** AXps containing 3 *****
+Solving FMP (CPU) time: 1200.82 secs
+allbp, 3-th inst file out of 200
+2QBF: query on feature 23 out of 29 features:
+User-given limit reached, exiting.
+***** AXps containing 23 *****
+Solving FMP (CPU) time: 1200.74 secs
+allbp, 4-th inst file out of 200
+2QBF: query on feature 17 out of 29 features:
+User-given limit reached, exiting.
+***** AXps containing 17 *****
+Solving FMP (CPU) time: 1201.29 secs
+allbp, 5-th inst file out of 200
+2QBF: query on feature 17 out of 29 features:
+User-given limit reached, exiting.
+***** AXps containing 17 *****
+Solving FMP (CPU) time: 1200.84 secs
+allbp, 6-th inst file out of 200
+2QBF: query on feature 7 out of 29 features:
+User-given limit reached, exiting.
+***** AXps containing 7 *****
+Solving FMP (CPU) time: 1200.73 secs
+allbp, 7-th inst file out of 200
+2QBF: query on feature 10 out of 29 features:
+User-given limit reached, exiting.
+***** AXps containing 10 *****
+Solving FMP (CPU) time: 1201.18 secs
+allbp, 8-th inst file out of 200
+2QBF: query on feature 18 out of 29 features:
+User-given limit reached, exiting.
+***** AXps containing 18 *****
+Solving FMP (CPU) time: 1200.82 secs
+allbp, 9-th inst file out of 200
+2QBF: query on feature 24 out of 29 features:
+User-given limit reached, exiting.
+***** AXps containing 24 *****
+Solving FMP (CPU) time: 1200.80 secs
+allbp, 10-th inst file out of 200
+2QBF: query on feature 10 out of 29 features:
+User-given limit reached, exiting.
+***** AXps containing 10 *****
+Solving FMP (CPU) time: 1202.55 secs
+allbp, 11-th inst file out of 200
+2QBF: query on feature 8 out of 29 features:
+User-given limit reached, exiting.
+***** AXps containing 8 *****
+Solving FMP (CPU) time: 1201.06 secs
+allbp, 12-th inst file out of 200
+2QBF: query on feature 23 out of 29 features:
+User-given limit reached, exiting.
+***** AXps containing 23 *****
+Solving FMP (CPU) time: 1200.64 secs
+allbp, 13-th inst file out of 200
+2QBF: query on feature 0 out of 29 features:
+User-given limit reached, exiting.
+***** AXps containing 0 *****
+Solving FMP (CPU) time: 1201.94 secs
+allbp, 14-th inst file out of 200
+2QBF: query on feature 14 out of 29 features:
+interested feature not in RF, so there is no AXp
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 0.00 secs
+allbp, 15-th inst file out of 200
+2QBF: query on feature 26 out of 29 features:
+interested feature not in RF, so there is no AXp
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 0.00 secs
+allbp, 16-th inst file out of 200
+2QBF: query on feature 7 out of 29 features:
+Timeout after 18000 seconds
+
+############ ann_thyroid ############
+c nof features: 21
+c nof classes: 3
+c nof samples: 7129
+Loading rf_models/RF2001/ann_thyroid/ann_thyroid_nbestim_100_maxdepth_4.mod.pkl
+Using solver: depqbf
+
+ann_thyroid, 0-th inst file out of 200
+2QBF: query on feature 2 out of 21 features:
+User-given limit reached, exiting.
+***** AXps containing 2 *****
+Solving FMP (CPU) time: 1203.26 secs
+ann_thyroid, 1-th inst file out of 200
+2QBF: query on feature 18 out of 21 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 142.59 secs
+ann_thyroid, 2-th inst file out of 200
+2QBF: query on feature 16 out of 21 features:
+***** AXps containing 16 *****
+Solving FMP (CPU) time: 0.59 secs
+ann_thyroid, 3-th inst file out of 200
+2QBF: query on feature 2 out of 21 features:
+User-given limit reached, exiting.
+***** AXps containing 2 *****
+Solving FMP (CPU) time: 1202.14 secs
+ann_thyroid, 4-th inst file out of 200
+2QBF: query on feature 14 out of 21 features:
+interested feature not in RF, so there is no AXp
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 0.00 secs
+ann_thyroid, 5-th inst file out of 200
+2QBF: query on feature 12 out of 21 features:
+User-given limit reached, exiting.
+***** AXps containing 12 *****
+Solving FMP (CPU) time: 1203.25 secs
+ann_thyroid, 6-th inst file out of 200
+2QBF: query on feature 11 out of 21 features:
+User-given limit reached, exiting.
+***** AXps containing 11 *****
+Solving FMP (CPU) time: 1200.75 secs
+ann_thyroid, 7-th inst file out of 200
+2QBF: query on feature 2 out of 21 features:
+User-given limit reached, exiting.
+***** AXps containing 2 *****
+Solving FMP (CPU) time: 1200.71 secs
+ann_thyroid, 8-th inst file out of 200
+2QBF: query on feature 15 out of 21 features:
+User-given limit reached, exiting.
+***** AXps containing 15 *****
+Solving FMP (CPU) time: 1200.54 secs
+ann_thyroid, 9-th inst file out of 200
+2QBF: query on feature 11 out of 21 features:
+User-given limit reached, exiting.
+***** AXps containing 11 *****
+Solving FMP (CPU) time: 1200.60 secs
+ann_thyroid, 10-th inst file out of 200
+2QBF: query on feature 12 out of 21 features:
+User-given limit reached, exiting.
+***** AXps containing 12 *****
+Solving FMP (CPU) time: 1201.07 secs
+ann_thyroid, 11-th inst file out of 200
+2QBF: query on feature 9 out of 21 features:
+User-given limit reached, exiting.
+***** AXps containing 9 *****
+Solving FMP (CPU) time: 1200.78 secs
+ann_thyroid, 12-th inst file out of 200
+2QBF: query on feature 9 out of 21 features:
+User-given limit reached, exiting.
+***** AXps containing 9 *****
+Solving FMP (CPU) time: 1200.59 secs
+ann_thyroid, 13-th inst file out of 200
+2QBF: query on feature 13 out of 21 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 460.55 secs
+ann_thyroid, 14-th inst file out of 200
+2QBF: query on feature 19 out of 21 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 128.31 secs
+ann_thyroid, 15-th inst file out of 200
+2QBF: query on feature 14 out of 21 features:
+interested feature not in RF, so there is no AXp
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 0.00 secs
+ann_thyroid, 16-th inst file out of 200
+2QBF: query on feature 20 out of 21 features:
+User-given limit reached, exiting.
+***** AXps containing 20 *****
+Solving FMP (CPU) time: 1200.80 secs
+ann_thyroid, 17-th inst file out of 200
+2QBF: query on feature 2 out of 21 features:
+***** AXps containing 2 *****
+Solving FMP (CPU) time: 0.60 secs
+ann_thyroid, 18-th inst file out of 200
+2QBF: query on feature 17 out of 21 features:
+***** AXps containing 17 *****
+Solving FMP (CPU) time: 0.73 secs
+ann_thyroid, 19-th inst file out of 200
+2QBF: query on feature 7 out of 21 features:
+User-given limit reached, exiting.
+***** AXps containing 7 *****
+Solving FMP (CPU) time: 1203.73 secs
+ann_thyroid, 20-th inst file out of 200
+2QBF: query on feature 12 out of 21 features:
+User-given limit reached, exiting.
+***** AXps containing 12 *****
+Solving FMP (CPU) time: 1201.26 secs
+ann_thyroid, 21-th inst file out of 200
+2QBF: query on feature 0 out of 21 features:
+User-given limit reached, exiting.
+***** AXps containing 0 *****
+Solving FMP (CPU) time: 1204.42 secs
+ann_thyroid, 22-th inst file out of 200
+2QBF: query on feature 15 out of 21 features:
+Timeout after 18000 seconds
+
+############ collins ############
+c nof features: 23
+c nof classes: 13
+c nof samples: 485
+Loading rf_models/RF2001/collins/collins_nbestim_100_maxdepth_4.mod.pkl
+Using solver: depqbf
+
+collins, 0-th inst file out of 200
+2QBF: query on feature 22 out of 23 features:
+interested feature not in RF, so there is no AXp
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 0.00 secs
+collins, 1-th inst file out of 200
+2QBF: query on feature 12 out of 23 features:
+User-given limit reached, exiting.
+***** AXps containing 12 *****
+Solving FMP (CPU) time: 1202.07 secs
+collins, 2-th inst file out of 200
+2QBF: query on feature 0 out of 23 features:
+User-given limit reached, exiting.
+***** AXps containing 0 *****
+Solving FMP (CPU) time: 1201.75 secs
+collins, 3-th inst file out of 200
+2QBF: query on feature 4 out of 23 features:
+User-given limit reached, exiting.
+***** AXps containing 4 *****
+Solving FMP (CPU) time: 1201.97 secs
+collins, 4-th inst file out of 200
+2QBF: query on feature 7 out of 23 features:
+User-given limit reached, exiting.
+***** AXps containing 7 *****
+Solving FMP (CPU) time: 1201.24 secs
+collins, 5-th inst file out of 200
+2QBF: query on feature 1 out of 23 features:
+User-given limit reached, exiting.
+***** AXps containing 1 *****
+Solving FMP (CPU) time: 1201.70 secs
+collins, 6-th inst file out of 200
+2QBF: query on feature 1 out of 23 features:
+User-given limit reached, exiting.
+***** AXps containing 1 *****
+Solving FMP (CPU) time: 1201.80 secs
+collins, 7-th inst file out of 200
+2QBF: query on feature 2 out of 23 features:
+User-given limit reached, exiting.
+***** AXps containing 2 *****
+Solving FMP (CPU) time: 1201.47 secs
+collins, 8-th inst file out of 200
+2QBF: query on feature 11 out of 23 features:
+User-given limit reached, exiting.
+***** AXps containing 11 *****
+Solving FMP (CPU) time: 1201.67 secs
+collins, 9-th inst file out of 200
+2QBF: query on feature 12 out of 23 features:
+User-given limit reached, exiting.
+***** AXps containing 12 *****
+Solving FMP (CPU) time: 1201.48 secs
+collins, 10-th inst file out of 200
+2QBF: query on feature 2 out of 23 features:
+User-given limit reached, exiting.
+***** AXps containing 2 *****
+Solving FMP (CPU) time: 1201.61 secs
+collins, 11-th inst file out of 200
+2QBF: query on feature 11 out of 23 features:
+User-given limit reached, exiting.
+***** AXps containing 11 *****
+Solving FMP (CPU) time: 1201.48 secs
+collins, 12-th inst file out of 200
+2QBF: query on feature 15 out of 23 features:
+User-given limit reached, exiting.
+***** AXps containing 15 *****
+Solving FMP (CPU) time: 1201.62 secs
+collins, 13-th inst file out of 200
+2QBF: query on feature 17 out of 23 features:
+User-given limit reached, exiting.
+***** AXps containing 17 *****
+Solving FMP (CPU) time: 1201.96 secs
+collins, 14-th inst file out of 200
+2QBF: query on feature 1 out of 23 features:
+User-given limit reached, exiting.
+***** AXps containing 1 *****
+Solving FMP (CPU) time: 1202.24 secs
+collins, 15-th inst file out of 200
+2QBF: query on feature 13 out of 23 features:
+Timeout after 18000 seconds
+
+############ hypothyroid ############
+c nof features: 25
+c nof classes: 2
+c nof samples: 3086
+Loading rf_models/RF2001/hypothyroid/hypothyroid_nbestim_100_maxdepth_4.mod.pkl
+Using solver: depqbf
+
+hypothyroid, 0-th inst file out of 200
+2QBF: query on feature 19 out of 25 features:
+User-given limit reached, exiting.
+***** AXps containing 19 *****
+Solving FMP (CPU) time: 1200.95 secs
+hypothyroid, 1-th inst file out of 200
+2QBF: query on feature 5 out of 25 features:
+User-given limit reached, exiting.
+***** AXps containing 5 *****
+Solving FMP (CPU) time: 1200.61 secs
+hypothyroid, 2-th inst file out of 200
+2QBF: query on feature 6 out of 25 features:
+User-given limit reached, exiting.
+***** AXps containing 6 *****
+Solving FMP (CPU) time: 1205.54 secs
+hypothyroid, 3-th inst file out of 200
+2QBF: query on feature 24 out of 25 features:
+User-given limit reached, exiting.
+***** AXps containing 24 *****
+Solving FMP (CPU) time: 1203.59 secs
+hypothyroid, 4-th inst file out of 200
+2QBF: query on feature 23 out of 25 features:
+User-given limit reached, exiting.
+***** AXps containing 23 *****
+Solving FMP (CPU) time: 1202.00 secs
+hypothyroid, 5-th inst file out of 200
+2QBF: query on feature 16 out of 25 features:
+User-given limit reached, exiting.
+***** AXps containing 16 *****
+Solving FMP (CPU) time: 1200.95 secs
+hypothyroid, 6-th inst file out of 200
+2QBF: query on feature 8 out of 25 features:
+User-given limit reached, exiting.
+***** AXps containing 8 *****
+Solving FMP (CPU) time: 1202.13 secs
+hypothyroid, 7-th inst file out of 200
+2QBF: query on feature 2 out of 25 features:
+User-given limit reached, exiting.
+***** AXps containing 2 *****
+Solving FMP (CPU) time: 1204.42 secs
+hypothyroid, 8-th inst file out of 200
+2QBF: query on feature 0 out of 25 features:
+User-given limit reached, exiting.
+***** AXps containing 0 *****
+Solving FMP (CPU) time: 1206.74 secs
+hypothyroid, 9-th inst file out of 200
+2QBF: query on feature 9 out of 25 features:
+User-given limit reached, exiting.
+***** AXps containing 9 *****
+Solving FMP (CPU) time: 1201.97 secs
+hypothyroid, 10-th inst file out of 200
+2QBF: query on feature 4 out of 25 features:
+User-given limit reached, exiting.
+***** AXps containing 4 *****
+Solving FMP (CPU) time: 1203.89 secs
+hypothyroid, 11-th inst file out of 200
+2QBF: query on feature 5 out of 25 features:
+User-given limit reached, exiting.
+***** AXps containing 5 *****
+Solving FMP (CPU) time: 1209.14 secs
+hypothyroid, 12-th inst file out of 200
+2QBF: query on feature 19 out of 25 features:
+User-given limit reached, exiting.
+***** AXps containing 19 *****
+Solving FMP (CPU) time: 1201.44 secs
+hypothyroid, 13-th inst file out of 200
+2QBF: query on feature 7 out of 25 features:
+User-given limit reached, exiting.
+***** AXps containing 7 *****
+Solving FMP (CPU) time: 1200.54 secs
+hypothyroid, 14-th inst file out of 200
+2QBF: query on feature 24 out of 25 features:
+Timeout after 18000 seconds
+
+############ ionosphere ############
+c nof features: 34
+c nof classes: 2
+c nof samples: 350
+Loading rf_models/RF2001/ionosphere/ionosphere_nbestim_100_maxdepth_4.mod.pkl
+Using solver: depqbf
+
+ionosphere, 0-th inst file out of 200
+2QBF: query on feature 5 out of 34 features:
+User-given limit reached, exiting.
+***** AXps containing 5 *****
+Solving FMP (CPU) time: 1200.38 secs
+ionosphere, 1-th inst file out of 200
+2QBF: query on feature 16 out of 34 features:
+User-given limit reached, exiting.
+***** AXps containing 16 *****
+Solving FMP (CPU) time: 1200.83 secs
+ionosphere, 2-th inst file out of 200
+2QBF: query on feature 26 out of 34 features:
+***** AXps containing 26 *****
+Solving FMP (CPU) time: 0.24 secs
+ionosphere, 3-th inst file out of 200
+2QBF: query on feature 22 out of 34 features:
+User-given limit reached, exiting.
+***** AXps containing 22 *****
+Solving FMP (CPU) time: 1200.40 secs
+ionosphere, 4-th inst file out of 200
+2QBF: query on feature 22 out of 34 features:
+User-given limit reached, exiting.
+***** AXps containing 22 *****
+Solving FMP (CPU) time: 1200.39 secs
+ionosphere, 5-th inst file out of 200
+2QBF: query on feature 15 out of 34 features:
+User-given limit reached, exiting.
+***** AXps containing 15 *****
+Solving FMP (CPU) time: 1201.29 secs
+ionosphere, 6-th inst file out of 200
+2QBF: query on feature 4 out of 34 features:
+User-given limit reached, exiting.
+***** AXps containing 4 *****
+Solving FMP (CPU) time: 1200.58 secs
+ionosphere, 7-th inst file out of 200
+2QBF: query on feature 16 out of 34 features:
+User-given limit reached, exiting.
+***** AXps containing 16 *****
+Solving FMP (CPU) time: 1200.43 secs
+ionosphere, 8-th inst file out of 200
+2QBF: query on feature 25 out of 34 features:
+User-given limit reached, exiting.
+***** AXps containing 25 *****
+Solving FMP (CPU) time: 1200.76 secs
+ionosphere, 9-th inst file out of 200
+2QBF: query on feature 22 out of 34 features:
+User-given limit reached, exiting.
+***** AXps containing 22 *****
+Solving FMP (CPU) time: 1200.40 secs
+ionosphere, 10-th inst file out of 200
+2QBF: query on feature 21 out of 34 features:
+User-given limit reached, exiting.
+***** AXps containing 21 *****
+Solving FMP (CPU) time: 1200.39 secs
+ionosphere, 11-th inst file out of 200
+2QBF: query on feature 12 out of 34 features:
+User-given limit reached, exiting.
+***** AXps containing 12 *****
+Solving FMP (CPU) time: 1200.62 secs
+ionosphere, 12-th inst file out of 200
+2QBF: query on feature 24 out of 34 features:
+User-given limit reached, exiting.
+***** AXps containing 24 *****
+Solving FMP (CPU) time: 1200.52 secs
+ionosphere, 13-th inst file out of 200
+2QBF: query on feature 12 out of 34 features:
+User-given limit reached, exiting.
+***** AXps containing 12 *****
+Solving FMP (CPU) time: 1200.43 secs
+ionosphere, 14-th inst file out of 200
+2QBF: query on feature 13 out of 34 features:
+User-given limit reached, exiting.
+***** AXps containing 13 *****
+Solving FMP (CPU) time: 1200.53 secs
+ionosphere, 15-th inst file out of 200
+2QBF: query on feature 21 out of 34 features:
+Timeout after 18000 seconds
+
+############ kr_vs_kp ############
+c nof features: 36
+c nof classes: 2
+c nof samples: 3196
+Loading rf_models/RF2001/kr_vs_kp/kr_vs_kp_nbestim_100_maxdepth_4.mod.pkl
+Using solver: depqbf
+
+kr_vs_kp, 0-th inst file out of 200
+2QBF: query on feature 7 out of 36 features:
+User-given limit reached, exiting.
+***** AXps containing 7 *****
+Solving FMP (CPU) time: 1200.40 secs
+kr_vs_kp, 1-th inst file out of 200
+2QBF: query on feature 29 out of 36 features:
+User-given limit reached, exiting.
+***** AXps containing 29 *****
+Solving FMP (CPU) time: 1200.71 secs
+kr_vs_kp, 2-th inst file out of 200
+2QBF: query on feature 7 out of 36 features:
+***** AXps containing 7 *****
+Solving FMP (CPU) time: 423.98 secs
+kr_vs_kp, 3-th inst file out of 200
+2QBF: query on feature 26 out of 36 features:
+***** AXps containing 26 *****
+Solving FMP (CPU) time: 0.12 secs
+kr_vs_kp, 4-th inst file out of 200
+2QBF: query on feature 24 out of 36 features:
+User-given limit reached, exiting.
+***** AXps containing 24 *****
+Solving FMP (CPU) time: 1200.37 secs
+kr_vs_kp, 5-th inst file out of 200
+2QBF: query on feature 33 out of 36 features:
+User-given limit reached, exiting.
+***** AXps containing 33 *****
+Solving FMP (CPU) time: 1200.64 secs
+kr_vs_kp, 6-th inst file out of 200
+2QBF: query on feature 28 out of 36 features:
+User-given limit reached, exiting.
+***** AXps containing 28 *****
+Solving FMP (CPU) time: 1200.37 secs
+kr_vs_kp, 7-th inst file out of 200
+2QBF: query on feature 10 out of 36 features:
+User-given limit reached, exiting.
+***** AXps containing 10 *****
+Solving FMP (CPU) time: 1200.38 secs
+kr_vs_kp, 8-th inst file out of 200
+2QBF: query on feature 2 out of 36 features:
+User-given limit reached, exiting.
+***** AXps containing 2 *****
+Solving FMP (CPU) time: 1200.69 secs
+kr_vs_kp, 9-th inst file out of 200
+2QBF: query on feature 32 out of 36 features:
+***** AXps containing 32 *****
+Solving FMP (CPU) time: 0.12 secs
+kr_vs_kp, 10-th inst file out of 200
+2QBF: query on feature 19 out of 36 features:
+User-given limit reached, exiting.
+***** AXps containing 19 *****
+Solving FMP (CPU) time: 1200.94 secs
+kr_vs_kp, 11-th inst file out of 200
+2QBF: query on feature 7 out of 36 features:
+User-given limit reached, exiting.
+***** AXps containing 7 *****
+Solving FMP (CPU) time: 1200.95 secs
+kr_vs_kp, 12-th inst file out of 200
+2QBF: query on feature 31 out of 36 features:
+***** AXps containing 31 *****
+Solving FMP (CPU) time: 0.21 secs
+kr_vs_kp, 13-th inst file out of 200
+2QBF: query on feature 7 out of 36 features:
+User-given limit reached, exiting.
+***** AXps containing 7 *****
+Solving FMP (CPU) time: 1201.41 secs
+kr_vs_kp, 14-th inst file out of 200
+2QBF: query on feature 27 out of 36 features:
+interested feature not in RF, so there is no AXp
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 0.00 secs
+kr_vs_kp, 15-th inst file out of 200
+2QBF: query on feature 24 out of 36 features:
+User-given limit reached, exiting.
+***** AXps containing 24 *****
+Solving FMP (CPU) time: 1200.98 secs
+kr_vs_kp, 16-th inst file out of 200
+2QBF: query on feature 31 out of 36 features:
+***** AXps containing 31 *****
+Solving FMP (CPU) time: 390.50 secs
+kr_vs_kp, 17-th inst file out of 200
+2QBF: query on feature 33 out of 36 features:
+User-given limit reached, exiting.
+***** AXps containing 33 *****
+Solving FMP (CPU) time: 1200.53 secs
+kr_vs_kp, 18-th inst file out of 200
+2QBF: query on feature 35 out of 36 features:
+User-given limit reached, exiting.
+***** AXps containing 35 *****
+Solving FMP (CPU) time: 1200.43 secs
+kr_vs_kp, 19-th inst file out of 200
+2QBF: query on feature 19 out of 36 features:
+User-given limit reached, exiting.
+***** AXps containing 19 *****
+Solving FMP (CPU) time: 1200.38 secs
+kr_vs_kp, 20-th inst file out of 200
+2QBF: query on feature 3 out of 36 features:
+Timeout after 18000 seconds
+
+############ mushroom ############
+c nof features: 22
+c nof classes: 2
+c nof samples: 8124
+Loading rf_models/RF2001/mushroom/mushroom_nbestim_100_maxdepth_4.mod.pkl
+Using solver: depqbf
+
+mushroom, 0-th inst file out of 200
+2QBF: query on feature 15 out of 22 features:
+interested feature not in RF, so there is no AXp
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 0.00 secs
+mushroom, 1-th inst file out of 200
+2QBF: query on feature 6 out of 22 features:
+User-given limit reached, exiting.
+***** AXps containing 6 *****
+Solving FMP (CPU) time: 1207.50 secs
+mushroom, 2-th inst file out of 200
+2QBF: query on feature 1 out of 22 features:
+User-given limit reached, exiting.
+***** AXps containing 1 *****
+Solving FMP (CPU) time: 1200.69 secs
+mushroom, 3-th inst file out of 200
+2QBF: query on feature 16 out of 22 features:
+User-given limit reached, exiting.
+***** AXps containing 16 *****
+Solving FMP (CPU) time: 1200.33 secs
+mushroom, 4-th inst file out of 200
+2QBF: query on feature 7 out of 22 features:
+User-given limit reached, exiting.
+***** AXps containing 7 *****
+Solving FMP (CPU) time: 1200.27 secs
+mushroom, 5-th inst file out of 200
+2QBF: query on feature 4 out of 22 features:
+User-given limit reached, exiting.
+***** AXps containing 4 *****
+Solving FMP (CPU) time: 1200.43 secs
+mushroom, 6-th inst file out of 200
+2QBF: query on feature 10 out of 22 features:
+User-given limit reached, exiting.
+***** AXps containing 10 *****
+Solving FMP (CPU) time: 1200.27 secs
+mushroom, 7-th inst file out of 200
+2QBF: query on feature 3 out of 22 features:
+User-given limit reached, exiting.
+***** AXps containing 3 *****
+Solving FMP (CPU) time: 1200.34 secs
+mushroom, 8-th inst file out of 200
+2QBF: query on feature 18 out of 22 features:
+User-given limit reached, exiting.
+***** AXps containing 18 *****
+Solving FMP (CPU) time: 1200.69 secs
+mushroom, 9-th inst file out of 200
+2QBF: query on feature 18 out of 22 features:
+User-given limit reached, exiting.
+***** AXps containing 18 *****
+Solving FMP (CPU) time: 1200.52 secs
+mushroom, 10-th inst file out of 200
+2QBF: query on feature 13 out of 22 features:
+User-given limit reached, exiting.
+***** AXps containing 13 *****
+Solving FMP (CPU) time: 1200.45 secs
+mushroom, 11-th inst file out of 200
+2QBF: query on feature 12 out of 22 features:
+User-given limit reached, exiting.
+***** AXps containing 12 *****
+Solving FMP (CPU) time: 1200.75 secs
+mushroom, 12-th inst file out of 200
+2QBF: query on feature 14 out of 22 features:
+***** AXps containing 14 *****
+Solving FMP (CPU) time: 1018.07 secs
+mushroom, 13-th inst file out of 200
+2QBF: query on feature 3 out of 22 features:
+User-given limit reached, exiting.
+***** AXps containing 3 *****
+Solving FMP (CPU) time: 1200.50 secs
+mushroom, 14-th inst file out of 200
+2QBF: query on feature 15 out of 22 features:
+interested feature not in RF, so there is no AXp
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 0.00 secs
+mushroom, 15-th inst file out of 200
+2QBF: query on feature 17 out of 22 features:
+User-given limit reached, exiting.
+***** AXps containing 17 *****
+Solving FMP (CPU) time: 1200.79 secs
+mushroom, 16-th inst file out of 200
+2QBF: query on feature 6 out of 22 features:
+User-given limit reached, exiting.
+***** AXps containing 6 *****
+Solving FMP (CPU) time: 1200.58 secs
+mushroom, 17-th inst file out of 200
+2QBF: query on feature 14 out of 22 features:
+Timeout after 18000 seconds
+
+############ pendigits ############
+c nof features: 16
+c nof classes: 10
+c nof samples: 10992
+Loading rf_models/RF2001/pendigits/pendigits_nbestim_100_maxdepth_4.mod.pkl
+Using solver: depqbf
+
+pendigits, 0-th inst file out of 200
+2QBF: query on feature 3 out of 16 features:
+User-given limit reached, exiting.
+***** AXps containing 3 *****
+Solving FMP (CPU) time: 1201.31 secs
+pendigits, 1-th inst file out of 200
+2QBF: query on feature 3 out of 16 features:
+User-given limit reached, exiting.
+***** AXps containing 3 *****
+Solving FMP (CPU) time: 1201.58 secs
+pendigits, 2-th inst file out of 200
+2QBF: query on feature 8 out of 16 features:
+User-given limit reached, exiting.
+***** AXps containing 8 *****
+Solving FMP (CPU) time: 1201.53 secs
+pendigits, 3-th inst file out of 200
+2QBF: query on feature 14 out of 16 features:
+User-given limit reached, exiting.
+***** AXps containing 14 *****
+Solving FMP (CPU) time: 1201.29 secs
+pendigits, 4-th inst file out of 200
+2QBF: query on feature 14 out of 16 features:
+User-given limit reached, exiting.
+***** AXps containing 14 *****
+Solving FMP (CPU) time: 1201.85 secs
+pendigits, 5-th inst file out of 200
+2QBF: query on feature 8 out of 16 features:
+User-given limit reached, exiting.
+***** AXps containing 8 *****
+Solving FMP (CPU) time: 1201.44 secs
+pendigits, 6-th inst file out of 200
+2QBF: query on feature 5 out of 16 features:
+User-given limit reached, exiting.
+***** AXps containing 5 *****
+Solving FMP (CPU) time: 1201.40 secs
+pendigits, 7-th inst file out of 200
+2QBF: query on feature 12 out of 16 features:
+User-given limit reached, exiting.
+***** AXps containing 12 *****
+Solving FMP (CPU) time: 1201.81 secs
+pendigits, 8-th inst file out of 200
+2QBF: query on feature 5 out of 16 features:
+User-given limit reached, exiting.
+***** AXps containing 5 *****
+Solving FMP (CPU) time: 1201.51 secs
+pendigits, 9-th inst file out of 200
+2QBF: query on feature 13 out of 16 features:
+User-given limit reached, exiting.
+***** AXps containing 13 *****
+Solving FMP (CPU) time: 1201.28 secs
+pendigits, 10-th inst file out of 200
+2QBF: query on feature 8 out of 16 features:
+User-given limit reached, exiting.
+***** AXps containing 8 *****
+Solving FMP (CPU) time: 1202.90 secs
+pendigits, 11-th inst file out of 200
+2QBF: query on feature 2 out of 16 features:
+User-given limit reached, exiting.
+***** AXps containing 2 *****
+Solving FMP (CPU) time: 1201.72 secs
+pendigits, 12-th inst file out of 200
+2QBF: query on feature 8 out of 16 features:
+***** AXps containing 8 *****
+Solving FMP (CPU) time: 1.78 secs
+pendigits, 13-th inst file out of 200
+2QBF: query on feature 7 out of 16 features:
+User-given limit reached, exiting.
+***** AXps containing 7 *****
+Solving FMP (CPU) time: 1201.15 secs
+pendigits, 14-th inst file out of 200
+2QBF: query on feature 3 out of 16 features:
+User-given limit reached, exiting.
+***** AXps containing 3 *****
+Solving FMP (CPU) time: 1202.53 secs
+pendigits, 15-th inst file out of 200
+2QBF: query on feature 15 out of 16 features:
+Timeout after 18000 seconds
+
+############ ring ############
+c nof features: 20
+c nof classes: 2
+c nof samples: 7400
+Loading rf_models/RF2001/ring/ring_nbestim_100_maxdepth_4.mod.pkl
+Using solver: depqbf
+
+ring, 0-th inst file out of 200
+2QBF: query on feature 2 out of 20 features:
+***** AXps containing 2 *****
+Solving FMP (CPU) time: 0.40 secs
+ring, 1-th inst file out of 200
+2QBF: query on feature 17 out of 20 features:
+***** AXps containing 17 *****
+Solving FMP (CPU) time: 0.38 secs
+ring, 2-th inst file out of 200
+2QBF: query on feature 3 out of 20 features:
+User-given limit reached, exiting.
+***** AXps containing 3 *****
+Solving FMP (CPU) time: 1203.06 secs
+ring, 3-th inst file out of 200
+2QBF: query on feature 17 out of 20 features:
+***** AXps containing 17 *****
+Solving FMP (CPU) time: 0.39 secs
+ring, 4-th inst file out of 200
+2QBF: query on feature 15 out of 20 features:
+User-given limit reached, exiting.
+***** AXps containing 15 *****
+Solving FMP (CPU) time: 1201.93 secs
+ring, 5-th inst file out of 200
+2QBF: query on feature 1 out of 20 features:
+User-given limit reached, exiting.
+***** AXps containing 1 *****
+Solving FMP (CPU) time: 1203.34 secs
+ring, 6-th inst file out of 200
+2QBF: query on feature 12 out of 20 features:
+User-given limit reached, exiting.
+***** AXps containing 12 *****
+Solving FMP (CPU) time: 1200.65 secs
+ring, 7-th inst file out of 200
+2QBF: query on feature 11 out of 20 features:
+User-given limit reached, exiting.
+***** AXps containing 11 *****
+Solving FMP (CPU) time: 1200.53 secs
+ring, 8-th inst file out of 200
+2QBF: query on feature 1 out of 20 features:
+User-given limit reached, exiting.
+***** AXps containing 1 *****
+Solving FMP (CPU) time: 1200.40 secs
+ring, 9-th inst file out of 200
+2QBF: query on feature 11 out of 20 features:
+User-given limit reached, exiting.
+***** AXps containing 11 *****
+Solving FMP (CPU) time: 1200.43 secs
+ring, 10-th inst file out of 200
+2QBF: query on feature 0 out of 20 features:
+***** AXps containing 0 *****
+Solving FMP (CPU) time: 232.85 secs
+ring, 11-th inst file out of 200
+2QBF: query on feature 5 out of 20 features:
+User-given limit reached, exiting.
+***** AXps containing 5 *****
+Solving FMP (CPU) time: 1200.98 secs
+ring, 12-th inst file out of 200
+2QBF: query on feature 7 out of 20 features:
+User-given limit reached, exiting.
+***** AXps containing 7 *****
+Solving FMP (CPU) time: 1200.54 secs
+ring, 13-th inst file out of 200
+2QBF: query on feature 11 out of 20 features:
+User-given limit reached, exiting.
+***** AXps containing 11 *****
+Solving FMP (CPU) time: 1200.49 secs
+ring, 14-th inst file out of 200
+2QBF: query on feature 14 out of 20 features:
+User-given limit reached, exiting.
+***** AXps containing 14 *****
+Solving FMP (CPU) time: 1200.75 secs
+ring, 15-th inst file out of 200
+2QBF: query on feature 14 out of 20 features:
+User-given limit reached, exiting.
+***** AXps containing 14 *****
+Solving FMP (CPU) time: 1200.44 secs
+ring, 16-th inst file out of 200
+2QBF: query on feature 12 out of 20 features:
+***** AXps containing 12 *****
+Solving FMP (CPU) time: 869.27 secs
+ring, 17-th inst file out of 200
+2QBF: query on feature 15 out of 20 features:
+User-given limit reached, exiting.
+***** AXps containing 15 *****
+Solving FMP (CPU) time: 1201.12 secs
+ring, 18-th inst file out of 200
+2QBF: query on feature 4 out of 20 features:
+User-given limit reached, exiting.
+***** AXps containing 4 *****
+Solving FMP (CPU) time: 1204.46 secs
+ring, 19-th inst file out of 200
+2QBF: query on feature 16 out of 20 features:
+Timeout after 18000 seconds
+
+############ segmentation ############
+c nof features: 19
+c nof classes: 7
+c nof samples: 2086
+Loading rf_models/RF2001/segmentation/segmentation_nbestim_100_maxdepth_4.mod.pkl
+Using solver: depqbf
+
+segmentation, 0-th inst file out of 200
+2QBF: query on feature 10 out of 19 features:
+User-given limit reached, exiting.
+***** AXps containing 10 *****
+Solving FMP (CPU) time: 1201.40 secs
+segmentation, 1-th inst file out of 200
+2QBF: query on feature 1 out of 19 features:
+***** AXps containing 1 *****
+Solving FMP (CPU) time: 1.16 secs
+segmentation, 2-th inst file out of 200
+2QBF: query on feature 4 out of 19 features:
+User-given limit reached, exiting.
+***** AXps containing 4 *****
+Solving FMP (CPU) time: 1201.31 secs
+segmentation, 3-th inst file out of 200
+2QBF: query on feature 1 out of 19 features:
+User-given limit reached, exiting.
+***** AXps containing 1 *****
+Solving FMP (CPU) time: 1201.50 secs
+segmentation, 4-th inst file out of 200
+2QBF: query on feature 11 out of 19 features:
+User-given limit reached, exiting.
+***** AXps containing 11 *****
+Solving FMP (CPU) time: 1200.85 secs
+segmentation, 5-th inst file out of 200
+2QBF: query on feature 18 out of 19 features:
+User-given limit reached, exiting.
+***** AXps containing 18 *****
+Solving FMP (CPU) time: 1201.17 secs
+segmentation, 6-th inst file out of 200
+2QBF: query on feature 10 out of 19 features:
+User-given limit reached, exiting.
+***** AXps containing 10 *****
+Solving FMP (CPU) time: 1201.06 secs
+segmentation, 7-th inst file out of 200
+2QBF: query on feature 14 out of 19 features:
+User-given limit reached, exiting.
+***** AXps containing 14 *****
+Solving FMP (CPU) time: 1200.91 secs
+segmentation, 8-th inst file out of 200
+2QBF: query on feature 3 out of 19 features:
+User-given limit reached, exiting.
+***** AXps containing 3 *****
+Solving FMP (CPU) time: 1201.04 secs
+segmentation, 9-th inst file out of 200
+2QBF: query on feature 0 out of 19 features:
+User-given limit reached, exiting.
+***** AXps containing 0 *****
+Solving FMP (CPU) time: 1200.89 secs
+segmentation, 10-th inst file out of 200
+2QBF: query on feature 5 out of 19 features:
+User-given limit reached, exiting.
+***** AXps containing 5 *****
+Solving FMP (CPU) time: 1200.84 secs
+segmentation, 11-th inst file out of 200
+2QBF: query on feature 12 out of 19 features:
+User-given limit reached, exiting.
+***** AXps containing 12 *****
+Solving FMP (CPU) time: 1200.96 secs
+segmentation, 12-th inst file out of 200
+2QBF: query on feature 14 out of 19 features:
+User-given limit reached, exiting.
+***** AXps containing 14 *****
+Solving FMP (CPU) time: 1200.88 secs
+segmentation, 13-th inst file out of 200
+2QBF: query on feature 12 out of 19 features:
+User-given limit reached, exiting.
+***** AXps containing 12 *****
+Solving FMP (CPU) time: 1201.35 secs
+segmentation, 14-th inst file out of 200
+2QBF: query on feature 12 out of 19 features:
+User-given limit reached, exiting.
+***** AXps containing 12 *****
+Solving FMP (CPU) time: 1201.76 secs
+segmentation, 15-th inst file out of 200
+2QBF: query on feature 9 out of 19 features:
+Timeout after 18000 seconds
+
+############ texture ############
+c nof features: 40
+c nof classes: 11
+c nof samples: 5473
+Loading rf_models/RF2001/texture/texture_nbestim_100_maxdepth_4.mod.pkl
+Using solver: depqbf
+
+texture, 0-th inst file out of 200
+2QBF: query on feature 2 out of 40 features:
+User-given limit reached, exiting.
+***** AXps containing 2 *****
+Solving FMP (CPU) time: 1201.94 secs
+texture, 1-th inst file out of 200
+2QBF: query on feature 34 out of 40 features:
+User-given limit reached, exiting.
+***** AXps containing 34 *****
+Solving FMP (CPU) time: 1201.50 secs
+texture, 2-th inst file out of 200
+2QBF: query on feature 15 out of 40 features:
+User-given limit reached, exiting.
+***** AXps containing 15 *****
+Solving FMP (CPU) time: 1206.66 secs
+texture, 3-th inst file out of 200
+2QBF: query on feature 28 out of 40 features:
+User-given limit reached, exiting.
+***** AXps containing 28 *****
+Solving FMP (CPU) time: 1204.34 secs
+texture, 4-th inst file out of 200
+2QBF: query on feature 21 out of 40 features:
+User-given limit reached, exiting.
+***** AXps containing 21 *****
+Solving FMP (CPU) time: 1202.82 secs
+texture, 5-th inst file out of 200
+2QBF: query on feature 14 out of 40 features:
+User-given limit reached, exiting.
+***** AXps containing 14 *****
+Solving FMP (CPU) time: 1201.72 secs
+texture, 6-th inst file out of 200
+2QBF: query on feature 38 out of 40 features:
+User-given limit reached, exiting.
+***** AXps containing 38 *****
+Solving FMP (CPU) time: 1202.97 secs
+texture, 7-th inst file out of 200
+2QBF: query on feature 12 out of 40 features:
+User-given limit reached, exiting.
+***** AXps containing 12 *****
+Solving FMP (CPU) time: 1205.38 secs
+texture, 8-th inst file out of 200
+2QBF: query on feature 9 out of 40 features:
+User-given limit reached, exiting.
+***** AXps containing 9 *****
+Solving FMP (CPU) time: 1207.47 secs
+texture, 9-th inst file out of 200
+2QBF: query on feature 24 out of 40 features:
+User-given limit reached, exiting.
+***** AXps containing 24 *****
+Solving FMP (CPU) time: 1202.90 secs
+texture, 10-th inst file out of 200
+2QBF: query on feature 31 out of 40 features:
+User-given limit reached, exiting.
+***** AXps containing 31 *****
+Solving FMP (CPU) time: 1204.76 secs
+texture, 11-th inst file out of 200
+2QBF: query on feature 21 out of 40 features:
+User-given limit reached, exiting.
+***** AXps containing 21 *****
+Solving FMP (CPU) time: 1210.80 secs
+texture, 12-th inst file out of 200
+2QBF: query on feature 4 out of 40 features:
+User-given limit reached, exiting.
+***** AXps containing 4 *****
+Solving FMP (CPU) time: 1201.27 secs
+texture, 13-th inst file out of 200
+2QBF: query on feature 4 out of 40 features:
+User-given limit reached, exiting.
+***** AXps containing 4 *****
+Solving FMP (CPU) time: 1201.32 secs
+texture, 14-th inst file out of 200
+2QBF: query on feature 3 out of 40 features:
+Timeout after 18000 seconds
+
+############ twonorm ############
+c nof features: 20
+c nof classes: 2
+c nof samples: 7400
+Loading rf_models/RF2001/twonorm/twonorm_nbestim_100_maxdepth_4.mod.pkl
+Using solver: depqbf
+
+twonorm, 0-th inst file out of 200
+2QBF: query on feature 15 out of 20 features:
+User-given limit reached, exiting.
+***** AXps containing 15 *****
+Solving FMP (CPU) time: 1200.50 secs
+twonorm, 1-th inst file out of 200
+2QBF: query on feature 17 out of 20 features:
+User-given limit reached, exiting.
+***** AXps containing 17 *****
+Solving FMP (CPU) time: 1200.96 secs
+twonorm, 2-th inst file out of 200
+2QBF: query on feature 13 out of 20 features:
+User-given limit reached, exiting.
+***** AXps containing 13 *****
+Solving FMP (CPU) time: 1200.56 secs
+twonorm, 3-th inst file out of 200
+2QBF: query on feature 8 out of 20 features:
+User-given limit reached, exiting.
+***** AXps containing 8 *****
+Solving FMP (CPU) time: 1200.51 secs
+twonorm, 4-th inst file out of 200
+2QBF: query on feature 0 out of 20 features:
+***** AXps containing 0 *****
+Solving FMP (CPU) time: 0.50 secs
+twonorm, 5-th inst file out of 200
+2QBF: query on feature 2 out of 20 features:
+***** AXps containing 2 *****
+Solving FMP (CPU) time: 15.40 secs
+twonorm, 6-th inst file out of 200
+2QBF: query on feature 13 out of 20 features:
+User-given limit reached, exiting.
+***** AXps containing 13 *****
+Solving FMP (CPU) time: 1201.42 secs
+twonorm, 7-th inst file out of 200
+2QBF: query on feature 13 out of 20 features:
+User-given limit reached, exiting.
+***** AXps containing 13 *****
+Solving FMP (CPU) time: 1200.70 secs
+twonorm, 8-th inst file out of 200
+2QBF: query on feature 3 out of 20 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 383.19 secs
+twonorm, 9-th inst file out of 200
+2QBF: query on feature 14 out of 20 features:
+User-given limit reached, exiting.
+***** AXps containing 14 *****
+Solving FMP (CPU) time: 1200.69 secs
+twonorm, 10-th inst file out of 200
+2QBF: query on feature 5 out of 20 features:
+User-given limit reached, exiting.
+***** AXps containing 5 *****
+Solving FMP (CPU) time: 1200.77 secs
+twonorm, 11-th inst file out of 200
+2QBF: query on feature 5 out of 20 features:
+User-given limit reached, exiting.
+***** AXps containing 5 *****
+Solving FMP (CPU) time: 1200.54 secs
+twonorm, 12-th inst file out of 200
+2QBF: query on feature 5 out of 20 features:
+User-given limit reached, exiting.
+***** AXps containing 5 *****
+Solving FMP (CPU) time: 1200.51 secs
+twonorm, 13-th inst file out of 200
+2QBF: query on feature 9 out of 20 features:
+User-given limit reached, exiting.
+***** AXps containing 9 *****
+Solving FMP (CPU) time: 1200.74 secs
+twonorm, 14-th inst file out of 200
+2QBF: query on feature 14 out of 20 features:
+User-given limit reached, exiting.
+***** AXps containing 14 *****
+Solving FMP (CPU) time: 1200.62 secs
+twonorm, 15-th inst file out of 200
+2QBF: query on feature 10 out of 20 features:
+User-given limit reached, exiting.
+***** AXps containing 10 *****
+Solving FMP (CPU) time: 1200.66 secs
+twonorm, 16-th inst file out of 200
+2QBF: query on feature 8 out of 20 features:
+User-given limit reached, exiting.
+***** AXps containing 8 *****
+Solving FMP (CPU) time: 1200.54 secs
+twonorm, 17-th inst file out of 200
+2QBF: query on feature 2 out of 20 features:
+Timeout after 18000 seconds
+
+############ waveform_21 ############
+c nof features: 21
+c nof classes: 3
+c nof samples: 5000
+Loading rf_models/RF2001/waveform_21/waveform_21_nbestim_100_maxdepth_4.mod.pkl
+Using solver: depqbf
+
+waveform_21, 0-th inst file out of 200
+2QBF: query on feature 1 out of 21 features:
+User-given limit reached, exiting.
+***** AXps containing 1 *****
+Solving FMP (CPU) time: 1200.71 secs
+waveform_21, 1-th inst file out of 200
+2QBF: query on feature 1 out of 21 features:
+User-given limit reached, exiting.
+***** AXps containing 1 *****
+Solving FMP (CPU) time: 1201.01 secs
+waveform_21, 2-th inst file out of 200
+2QBF: query on feature 17 out of 21 features:
+User-given limit reached, exiting.
+***** AXps containing 17 *****
+Solving FMP (CPU) time: 1200.78 secs
+waveform_21, 3-th inst file out of 200
+2QBF: query on feature 8 out of 21 features:
+User-given limit reached, exiting.
+***** AXps containing 8 *****
+Solving FMP (CPU) time: 1200.68 secs
+waveform_21, 4-th inst file out of 200
+2QBF: query on feature 18 out of 21 features:
+User-given limit reached, exiting.
+***** AXps containing 18 *****
+Solving FMP (CPU) time: 1200.97 secs
+waveform_21, 5-th inst file out of 200
+2QBF: query on feature 16 out of 21 features:
+User-given limit reached, exiting.
+***** AXps containing 16 *****
+Solving FMP (CPU) time: 1200.67 secs
+waveform_21, 6-th inst file out of 200
+2QBF: query on feature 11 out of 21 features:
+User-given limit reached, exiting.
+***** AXps containing 11 *****
+Solving FMP (CPU) time: 1200.78 secs
+waveform_21, 7-th inst file out of 200
+2QBF: query on feature 11 out of 21 features:
+User-given limit reached, exiting.
+***** AXps containing 11 *****
+Solving FMP (CPU) time: 1201.09 secs
+waveform_21, 8-th inst file out of 200
+2QBF: query on feature 9 out of 21 features:
+User-given limit reached, exiting.
+***** AXps containing 9 *****
+Solving FMP (CPU) time: 1201.41 secs
+waveform_21, 9-th inst file out of 200
+2QBF: query on feature 2 out of 21 features:
+User-given limit reached, exiting.
+***** AXps containing 2 *****
+Solving FMP (CPU) time: 1201.81 secs
+waveform_21, 10-th inst file out of 200
+2QBF: query on feature 12 out of 21 features:
+User-given limit reached, exiting.
+***** AXps containing 12 *****
+Solving FMP (CPU) time: 1201.71 secs
+waveform_21, 11-th inst file out of 200
+2QBF: query on feature 9 out of 21 features:
+***** AXps containing 9 *****
+Solving FMP (CPU) time: 0.81 secs
+waveform_21, 12-th inst file out of 200
+2QBF: query on feature 8 out of 21 features:
+***** AXps containing 8 *****
+Solving FMP (CPU) time: 0.79 secs
+waveform_21, 13-th inst file out of 200
+2QBF: query on feature 13 out of 21 features:
+User-given limit reached, exiting.
+***** AXps containing 13 *****
+Solving FMP (CPU) time: 1200.75 secs
+waveform_21, 14-th inst file out of 200
+2QBF: query on feature 19 out of 21 features:
+User-given limit reached, exiting.
+***** AXps containing 19 *****
+Solving FMP (CPU) time: 1200.83 secs
+waveform_21, 15-th inst file out of 200
+2QBF: query on feature 18 out of 21 features:
+User-given limit reached, exiting.
+***** AXps containing 18 *****
+Solving FMP (CPU) time: 1200.74 secs
+waveform_21, 16-th inst file out of 200
+2QBF: query on feature 6 out of 21 features:
+Timeout after 18000 seconds
+
+############ vowel ############
+c nof features: 13
+c nof classes: 11
+c nof samples: 990
+Loading rf_models/RF2001/vowel/vowel_nbestim_100_maxdepth_6.mod.pkl
+Using solver: depqbf
+
+vowel, 0-th inst file out of 200
+2QBF: query on feature 11 out of 13 features:
+User-given limit reached, exiting.
+***** AXps containing 11 *****
+Solving FMP (CPU) time: 1213.41 secs
+vowel, 1-th inst file out of 200
+2QBF: query on feature 12 out of 13 features:
+User-given limit reached, exiting.
+***** AXps containing 12 *****
+Solving FMP (CPU) time: 1205.41 secs
+vowel, 2-th inst file out of 200
+2QBF: query on feature 12 out of 13 features:
+User-given limit reached, exiting.
+***** AXps containing 12 *****
+Solving FMP (CPU) time: 1206.14 secs
+vowel, 3-th inst file out of 200
+2QBF: query on feature 6 out of 13 features:
+***** AXps containing 6 *****
+Solving FMP (CPU) time: 686.03 secs
+vowel, 4-th inst file out of 200
+2QBF: query on feature 11 out of 13 features:
+***** AXps containing 11 *****
+Solving FMP (CPU) time: 5.37 secs
+vowel, 5-th inst file out of 200
+2QBF: query on feature 6 out of 13 features:
+User-given limit reached, exiting.
+***** AXps containing 6 *****
+Solving FMP (CPU) time: 1212.95 secs
+vowel, 6-th inst file out of 200
+2QBF: query on feature 7 out of 13 features:
+User-given limit reached, exiting.
+***** AXps containing 7 *****
+Solving FMP (CPU) time: 1246.47 secs
+vowel, 7-th inst file out of 200
+2QBF: query on feature 4 out of 13 features:
+User-given limit reached, exiting.
+***** AXps containing 4 *****
+Solving FMP (CPU) time: 1223.06 secs
+vowel, 8-th inst file out of 200
+2QBF: query on feature 0 out of 13 features:
+User-given limit reached, exiting.
+***** AXps containing 0 *****
+Solving FMP (CPU) time: 1290.56 secs
+vowel, 9-th inst file out of 200
+2QBF: query on feature 9 out of 13 features:
+User-given limit reached, exiting.
+***** AXps containing 9 *****
+Solving FMP (CPU) time: 1277.76 secs
+vowel, 10-th inst file out of 200
+2QBF: query on feature 11 out of 13 features:
+User-given limit reached, exiting.
+***** AXps containing 11 *****
+Solving FMP (CPU) time: 1208.06 secs
+vowel, 11-th inst file out of 200
+2QBF: query on feature 10 out of 13 features:
+User-given limit reached, exiting.
+***** AXps containing 10 *****
+Solving FMP (CPU) time: 1207.29 secs
+vowel, 12-th inst file out of 200
+2QBF: query on feature 3 out of 13 features:
+***** AXps containing 3 *****
+Solving FMP (CPU) time: 5.44 secs
+vowel, 13-th inst file out of 200
+2QBF: query on feature 8 out of 13 features:
+User-given limit reached, exiting.
+***** AXps containing 8 *****
+Solving FMP (CPU) time: 1222.77 secs
+vowel, 14-th inst file out of 200
+2QBF: query on feature 4 out of 13 features:
+***** AXps containing 4 *****
+Solving FMP (CPU) time: 10.52 secs
+vowel, 15-th inst file out of 200
+2QBF: query on feature 9 out of 13 features:
+User-given limit reached, exiting.
+***** AXps containing 9 *****
+Solving FMP (CPU) time: 1216.03 secs
+vowel, 16-th inst file out of 200
+2QBF: query on feature 10 out of 13 features:
+User-given limit reached, exiting.
+***** AXps containing 10 *****
+Solving FMP (CPU) time: 1213.52 secs
+vowel, 17-th inst file out of 200
+2QBF: query on feature 7 out of 13 features:
+***** AXps containing 7 *****
+Solving FMP (CPU) time: 2.95 secs
+vowel, 18-th inst file out of 200
+2QBF: query on feature 7 out of 13 features:
+***** AXps containing 7 *****
+Solving FMP (CPU) time: 5.31 secs
+vowel, 19-th inst file out of 200
+2QBF: query on feature 6 out of 13 features:
+User-given limit reached, exiting.
+***** AXps containing 6 *****
+Solving FMP (CPU) time: 1222.97 secs
+vowel, 20-th inst file out of 200
+2QBF: query on feature 0 out of 13 features:
+Timeout after 18000 seconds
+
+############ appendicitis ############
+c nof features: 7
+c nof classes: 2
+c nof samples: 106
+Loading rf_models/RF2001/appendicitis/appendicitis_nbestim_100_maxdepth_4.mod.pkl
+Using solver: depqbf
+
+appendicitis, 0-th inst file out of 106
+2QBF: query on feature 6 out of 7 features:
+***** AXps containing 6 *****
+Solving FMP (CPU) time: 0.19 secs
+appendicitis, 1-th inst file out of 106
+2QBF: query on feature 1 out of 7 features:
+User-given limit reached, exiting.
+***** AXps containing 1 *****
+Solving FMP (CPU) time: 1207.75 secs
+appendicitis, 2-th inst file out of 106
+2QBF: query on feature 4 out of 7 features:
+User-given limit reached, exiting.
+***** AXps containing 4 *****
+Solving FMP (CPU) time: 1211.91 secs
+appendicitis, 3-th inst file out of 106
+2QBF: query on feature 5 out of 7 features:
+***** AXps containing 5 *****
+Solving FMP (CPU) time: 239.24 secs
+appendicitis, 4-th inst file out of 106
+2QBF: query on feature 5 out of 7 features:
+User-given limit reached, exiting.
+***** AXps containing 5 *****
+Solving FMP (CPU) time: 1206.16 secs
+appendicitis, 5-th inst file out of 106
+2QBF: query on feature 1 out of 7 features:
+User-given limit reached, exiting.
+***** AXps containing 1 *****
+Solving FMP (CPU) time: 1200.46 secs
+appendicitis, 6-th inst file out of 106
+2QBF: query on feature 5 out of 7 features:
+***** AXps containing 5 *****
+Solving FMP (CPU) time: 855.36 secs
+appendicitis, 7-th inst file out of 106
+2QBF: query on feature 2 out of 7 features:
+User-given limit reached, exiting.
+***** AXps containing 2 *****
+Solving FMP (CPU) time: 1200.60 secs
+appendicitis, 8-th inst file out of 106
+2QBF: query on feature 1 out of 7 features:
+User-given limit reached, exiting.
+***** AXps containing 1 *****
+Solving FMP (CPU) time: 1200.36 secs
+appendicitis, 9-th inst file out of 106
+2QBF: query on feature 5 out of 7 features:
+User-given limit reached, exiting.
+***** AXps containing 5 *****
+Solving FMP (CPU) time: 1205.46 secs
+appendicitis, 10-th inst file out of 106
+2QBF: query on feature 2 out of 7 features:
+User-given limit reached, exiting.
+***** AXps containing 2 *****
+Solving FMP (CPU) time: 1202.84 secs
+appendicitis, 11-th inst file out of 106
+2QBF: query on feature 4 out of 7 features:
+User-given limit reached, exiting.
+***** AXps containing 4 *****
+Solving FMP (CPU) time: 1200.62 secs
+appendicitis, 12-th inst file out of 106
+2QBF: query on feature 3 out of 7 features:
+***** AXps containing 3 *****
+Solving FMP (CPU) time: 0.17 secs
+appendicitis, 13-th inst file out of 106
+2QBF: query on feature 1 out of 7 features:
+User-given limit reached, exiting.
+***** AXps containing 1 *****
+Solving FMP (CPU) time: 1205.54 secs
+appendicitis, 14-th inst file out of 106
+2QBF: query on feature 0 out of 7 features:
+User-given limit reached, exiting.
+***** AXps containing 0 *****
+Solving FMP (CPU) time: 1206.17 secs
+appendicitis, 15-th inst file out of 106
+2QBF: query on feature 1 out of 7 features:
+User-given limit reached, exiting.
+***** AXps containing 1 *****
+Solving FMP (CPU) time: 1214.69 secs
+appendicitis, 16-th inst file out of 106
+2QBF: query on feature 0 out of 7 features:
+User-given limit reached, exiting.
+***** AXps containing 0 *****
+Solving FMP (CPU) time: 1201.30 secs
+appendicitis, 17-th inst file out of 106
+2QBF: query on feature 6 out of 7 features:
+User-given limit reached, exiting.
+***** AXps containing 6 *****
+Solving FMP (CPU) time: 1204.87 secs
+appendicitis, 18-th inst file out of 106
+2QBF: query on feature 5 out of 7 features:
+Timeout after 18000 seconds
+
+############ magic ############
+c nof features: 10
+c nof classes: 2
+c nof samples: 18905
+Loading rf_models/RF2001/magic/magic_nbestim_100_maxdepth_4.mod.pkl
+Using solver: depqbf
+
+magic, 0-th inst file out of 200
+2QBF: query on feature 1 out of 10 features:
+***** AXps containing 1 *****
+Solving FMP (CPU) time: 18.50 secs
+magic, 1-th inst file out of 200
+2QBF: query on feature 3 out of 10 features:
+User-given limit reached, exiting.
+***** AXps containing 3 *****
+Solving FMP (CPU) time: 1202.86 secs
+magic, 2-th inst file out of 200
+2QBF: query on feature 4 out of 10 features:
+User-given limit reached, exiting.
+***** AXps containing 4 *****
+Solving FMP (CPU) time: 1202.13 secs
+magic, 3-th inst file out of 200
+2QBF: query on feature 6 out of 10 features:
+User-given limit reached, exiting.
+***** AXps containing 6 *****
+Solving FMP (CPU) time: 1200.94 secs
+magic, 4-th inst file out of 200
+2QBF: query on feature 5 out of 10 features:
+User-given limit reached, exiting.
+***** AXps containing 5 *****
+Solving FMP (CPU) time: 1203.60 secs
+magic, 5-th inst file out of 200
+2QBF: query on feature 0 out of 10 features:
+***** AXps containing 0 *****
+Solving FMP (CPU) time: 0.46 secs
+magic, 6-th inst file out of 200
+2QBF: query on feature 3 out of 10 features:
+***** AXps containing 3 *****
+Solving FMP (CPU) time: 591.31 secs
+magic, 7-th inst file out of 200
+2QBF: query on feature 6 out of 10 features:
+User-given limit reached, exiting.
+***** AXps containing 6 *****
+Solving FMP (CPU) time: 1208.88 secs
+magic, 8-th inst file out of 200
+2QBF: query on feature 0 out of 10 features:
+User-given limit reached, exiting.
+***** AXps containing 0 *****
+Solving FMP (CPU) time: 1205.72 secs
+magic, 9-th inst file out of 200
+2QBF: query on feature 9 out of 10 features:
+User-given limit reached, exiting.
+***** AXps containing 9 *****
+Solving FMP (CPU) time: 1205.36 secs
+magic, 10-th inst file out of 200
+2QBF: query on feature 8 out of 10 features:
+***** AXps containing 8 *****
+Solving FMP (CPU) time: 0.46 secs
+magic, 11-th inst file out of 200
+2QBF: query on feature 4 out of 10 features:
+User-given limit reached, exiting.
+***** AXps containing 4 *****
+Solving FMP (CPU) time: 1202.33 secs
+magic, 12-th inst file out of 200
+2QBF: query on feature 7 out of 10 features:
+User-given limit reached, exiting.
+***** AXps containing 7 *****
+Solving FMP (CPU) time: 1203.46 secs
+magic, 13-th inst file out of 200
+2QBF: query on feature 5 out of 10 features:
+User-given limit reached, exiting.
+***** AXps containing 5 *****
+Solving FMP (CPU) time: 1207.89 secs
+magic, 14-th inst file out of 200
+2QBF: query on feature 6 out of 10 features:
+***** AXps containing 6 *****
+Solving FMP (CPU) time: 26.61 secs
+magic, 15-th inst file out of 200
+2QBF: query on feature 0 out of 10 features:
+***** AXps containing 0 *****
+Solving FMP (CPU) time: 0.43 secs
+magic, 16-th inst file out of 200
+2QBF: query on feature 8 out of 10 features:
+User-given limit reached, exiting.
+***** AXps containing 8 *****
+Solving FMP (CPU) time: 1200.46 secs
+magic, 17-th inst file out of 200
+2QBF: query on feature 8 out of 10 features:
+User-given limit reached, exiting.
+***** AXps containing 8 *****
+Solving FMP (CPU) time: 1200.61 secs
+magic, 18-th inst file out of 200
+2QBF: query on feature 6 out of 10 features:
+User-given limit reached, exiting.
+***** AXps containing 6 *****
+Solving FMP (CPU) time: 1200.40 secs
+magic, 19-th inst file out of 200
+2QBF: query on feature 2 out of 10 features:
+User-given limit reached, exiting.
+***** AXps containing 2 *****
+Solving FMP (CPU) time: 1200.60 secs
+magic, 20-th inst file out of 200
+2QBF: query on feature 8 out of 10 features:
+***** AXps containing 8 *****
+Solving FMP (CPU) time: 0.44 secs
+magic, 21-th inst file out of 200
+2QBF: query on feature 4 out of 10 features:
+Timeout after 18000 seconds
+
+############ shuttle ############
+c nof features: 9
+c nof classes: 7
+c nof samples: 58000
+Loading rf_models/RF2001/shuttle/shuttle_nbestim_100_maxdepth_4.mod.pkl
+Using solver: depqbf
+
+shuttle, 0-th inst file out of 200
+2QBF: query on feature 7 out of 9 features:
+User-given limit reached, exiting.
+***** AXps containing 7 *****
+Solving FMP (CPU) time: 1200.94 secs
+shuttle, 1-th inst file out of 200
+2QBF: query on feature 6 out of 9 features:
+User-given limit reached, exiting.
+***** AXps containing 6 *****
+Solving FMP (CPU) time: 1200.70 secs
+shuttle, 2-th inst file out of 200
+2QBF: query on feature 2 out of 9 features:
+User-given limit reached, exiting.
+***** AXps containing 2 *****
+Solving FMP (CPU) time: 1200.65 secs
+shuttle, 3-th inst file out of 200
+2QBF: query on feature 1 out of 9 features:
+User-given limit reached, exiting.
+***** AXps containing 1 *****
+Solving FMP (CPU) time: 1201.55 secs
+shuttle, 4-th inst file out of 200
+2QBF: query on feature 8 out of 9 features:
+User-given limit reached, exiting.
+***** AXps containing 8 *****
+Solving FMP (CPU) time: 1200.68 secs
+shuttle, 5-th inst file out of 200
+2QBF: query on feature 1 out of 9 features:
+User-given limit reached, exiting.
+***** AXps containing 1 *****
+Solving FMP (CPU) time: 1200.65 secs
+shuttle, 6-th inst file out of 200
+2QBF: query on feature 2 out of 9 features:
+User-given limit reached, exiting.
+***** AXps containing 2 *****
+Solving FMP (CPU) time: 1200.96 secs
+shuttle, 7-th inst file out of 200
+2QBF: query on feature 5 out of 9 features:
+User-given limit reached, exiting.
+***** AXps containing 5 *****
+Solving FMP (CPU) time: 1200.63 secs
+shuttle, 8-th inst file out of 200
+2QBF: query on feature 8 out of 9 features:
+User-given limit reached, exiting.
+***** AXps containing 8 *****
+Solving FMP (CPU) time: 1200.68 secs
+shuttle, 9-th inst file out of 200
+2QBF: query on feature 3 out of 9 features:
+User-given limit reached, exiting.
+***** AXps containing 3 *****
+Solving FMP (CPU) time: 1201.02 secs
+shuttle, 10-th inst file out of 200
+2QBF: query on feature 4 out of 9 features:
+User-given limit reached, exiting.
+***** AXps containing 4 *****
+Solving FMP (CPU) time: 1200.70 secs
+shuttle, 11-th inst file out of 200
+2QBF: query on feature 1 out of 9 features:
+User-given limit reached, exiting.
+***** AXps containing 1 *****
+Solving FMP (CPU) time: 1200.70 secs
+shuttle, 12-th inst file out of 200
+2QBF: query on feature 2 out of 9 features:
+User-given limit reached, exiting.
+***** AXps containing 2 *****
+Solving FMP (CPU) time: 1201.55 secs
+shuttle, 13-th inst file out of 200
+2QBF: query on feature 8 out of 9 features:
+***** AXps containing 8 *****
+Solving FMP (CPU) time: 1.25 secs
+shuttle, 14-th inst file out of 200
+2QBF: query on feature 7 out of 9 features:
+User-given limit reached, exiting.
+***** AXps containing 7 *****
+Solving FMP (CPU) time: 1201.20 secs
+shuttle, 15-th inst file out of 200
+2QBF: query on feature 2 out of 9 features:
+Timeout after 18000 seconds
