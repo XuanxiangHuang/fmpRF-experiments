@@ -68,4 +68,32 @@ if __name__ == '__main__':
     parse_res("depqbf", "depqbf_glass2_log.txt")
     parse_res("caqe", "caqe_bloqqer_crx_log.txt")
 
+    parse_res("caqe", "alternative_enc/caqe_bloqqer_crx_log.txt")
+    parse_res("depqbf", "alternative_enc/depqbf_crx_log.txt")
+    parse_res("depqbf", "alternative_enc/depqbf_ecoli_log.txt")
+    parse_res("depqbf", "alternative_enc/depqbf_glass2_log.txt")
+    parse_res("depqbf", "alternative_enc/depqbf_house_votes_84_log.txt")
+    parse_res("depqbf", "alternative_enc/depqbf_new_thyroid_log.txt")
+
+    # with open("rf_fmp_cegar.txt") as fp:
+    #     res_lines = fp.readlines()
+    # for line in res_lines[39:]:
+    #     item = list(line.split(' & '))
+    #     if len(item) > 1:
+    #         print(item[0], item[7], item[8])
+    # print()
+    # with open("rf_fmp_2qbf.txt") as fp:
+    #     res_lines = fp.readlines()
+    # print(res_lines[19])
+    # for line in res_lines[20:28]:
+    #     item = list(line.split(' & '))
+    #     if len(item) > 1:
+    #         print(item[0], item[7], item[8], item[15], item[19])
+    # print()
+    # print(res_lines[28])
+    # for line in res_lines[28:]:
+    #     item = list(line.split(' & '))
+    #     if len(item) > 1:
+    #         print(item[0], item[7], item[8], item[15], item[19])
+
     exit(0)

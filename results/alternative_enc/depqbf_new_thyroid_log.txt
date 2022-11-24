@@ -1,0 +1,87 @@
+############ new_thyroid ############
+c nof features: 5
+c nof classes: 3
+c nof samples: 215
+Loading rf_models/RF2001/new_thyroid/new_thyroid_nbestim_20_maxdepth_4.mod.pkl
+Using solver: depqbf
+
+new_thyroid, 0-th inst file out of 200
+2QBF: query on feature 2 out of 5 features:
+User-given limit reached, exiting.
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1203.32 secs
+new_thyroid, 1-th inst file out of 200
+2QBF: query on feature 2 out of 5 features:
+User-given limit reached, exiting.
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1205.23 secs
+new_thyroid, 2-th inst file out of 200
+2QBF: query on feature 3 out of 5 features:
+***** AXps containing 3 *****
+Solving FMP (CPU) time: 470.25 secs
+new_thyroid, 3-th inst file out of 200
+2QBF: query on feature 2 out of 5 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1031.65 secs
+new_thyroid, 4-th inst file out of 200
+2QBF: query on feature 3 out of 5 features:
+User-given limit reached, exiting.
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1204.53 secs
+new_thyroid, 5-th inst file out of 200
+2QBF: query on feature 0 out of 5 features:
+User-given limit reached, exiting.
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1201.61 secs
+new_thyroid, 6-th inst file out of 200
+2QBF: query on feature 2 out of 5 features:
+User-given limit reached, exiting.
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1209.49 secs
+new_thyroid, 7-th inst file out of 200
+2QBF: query on feature 3 out of 5 features:
+***** AXps containing 3 *****
+Solving FMP (CPU) time: 3.73 secs
+new_thyroid, 8-th inst file out of 200
+2QBF: query on feature 1 out of 5 features:
+***** AXps containing 1 *****
+Solving FMP (CPU) time: 862.66 secs
+new_thyroid, 9-th inst file out of 200
+2QBF: query on feature 2 out of 5 features:
+***** AXps containing 2 *****
+Solving FMP (CPU) time: 48.85 secs
+new_thyroid, 10-th inst file out of 200
+2QBF: query on feature 1 out of 5 features:
+***** AXps containing 1 *****
+Solving FMP (CPU) time: 959.23 secs
+new_thyroid, 11-th inst file out of 200
+2QBF: query on feature 4 out of 5 features:
+User-given limit reached, exiting.
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1203.25 secs
+new_thyroid, 12-th inst file out of 200
+2QBF: query on feature 1 out of 5 features:
+***** AXps containing 1 *****
+Solving FMP (CPU) time: 1166.72 secs
+new_thyroid, 13-th inst file out of 200
+2QBF: query on feature 0 out of 5 features:
+User-given limit reached, exiting.
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1200.64 secs
+new_thyroid, 14-th inst file out of 200
+2QBF: query on feature 1 out of 5 features:
+User-given limit reached, exiting.
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1200.45 secs
+new_thyroid, 15-th inst file out of 200
+2QBF: query on feature 2 out of 5 features:
+***** AXps containing 2 *****
+Solving FMP (CPU) time: 1187.04 secs
+new_thyroid, 16-th inst file out of 200
+2QBF: query on feature 4 out of 5 features:
+User-given limit reached, exiting.
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1200.45 secs
+new_thyroid, 17-th inst file out of 200
+2QBF: query on feature 3 out of 5 features:
+Timeout after 18000 seconds

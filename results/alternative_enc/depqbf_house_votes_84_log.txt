@@ -1,0 +1,101 @@
+############ house_votes_84 ############
+c nof features: 16
+c nof classes: 2
+c nof samples: 342
+Loading rf_models/RF2001/house_votes_84/house_votes_84_nbestim_20_maxdepth_4.mod.pkl
+Using solver: depqbf
+
+house_votes_84, 0-th inst file out of 200
+2QBF: query on feature 3 out of 16 features:
+***** AXps containing 3 *****
+Solving FMP (CPU) time: 5.20 secs
+house_votes_84, 1-th inst file out of 200
+2QBF: query on feature 7 out of 16 features:
+***** AXps containing 7 *****
+Solving FMP (CPU) time: 0.84 secs
+house_votes_84, 2-th inst file out of 200
+2QBF: query on feature 10 out of 16 features:
+User-given limit reached, exiting.
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1200.18 secs
+house_votes_84, 3-th inst file out of 200
+2QBF: query on feature 14 out of 16 features:
+User-given limit reached, exiting.
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1210.90 secs
+house_votes_84, 4-th inst file out of 200
+2QBF: query on feature 13 out of 16 features:
+User-given limit reached, exiting.
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1207.52 secs
+house_votes_84, 5-th inst file out of 200
+2QBF: query on feature 5 out of 16 features:
+User-given limit reached, exiting.
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1203.73 secs
+house_votes_84, 6-th inst file out of 200
+2QBF: query on feature 11 out of 16 features:
+***** AXps containing 11 *****
+Solving FMP (CPU) time: 0.39 secs
+house_votes_84, 7-th inst file out of 200
+2QBF: query on feature 3 out of 16 features:
+User-given limit reached, exiting.
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1201.26 secs
+house_votes_84, 8-th inst file out of 200
+2QBF: query on feature 11 out of 16 features:
+***** AXps containing 11 *****
+Solving FMP (CPU) time: 8.49 secs
+house_votes_84, 9-th inst file out of 200
+2QBF: query on feature 6 out of 16 features:
+User-given limit reached, exiting.
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1203.58 secs
+house_votes_84, 10-th inst file out of 200
+2QBF: query on feature 4 out of 16 features:
+***** AXps containing 4 *****
+Solving FMP (CPU) time: 375.55 secs
+house_votes_84, 11-th inst file out of 200
+2QBF: query on feature 1 out of 16 features:
+User-given limit reached, exiting.
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1200.44 secs
+house_votes_84, 12-th inst file out of 200
+2QBF: query on feature 2 out of 16 features:
+***** AXps containing 2 *****
+Solving FMP (CPU) time: 2.15 secs
+house_votes_84, 13-th inst file out of 200
+2QBF: query on feature 14 out of 16 features:
+User-given limit reached, exiting.
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1206.26 secs
+house_votes_84, 14-th inst file out of 200
+2QBF: query on feature 4 out of 16 features:
+***** AXps containing 4 *****
+Solving FMP (CPU) time: 71.76 secs
+house_votes_84, 15-th inst file out of 200
+2QBF: query on feature 5 out of 16 features:
+User-given limit reached, exiting.
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1208.16 secs
+house_votes_84, 16-th inst file out of 200
+2QBF: query on feature 4 out of 16 features:
+***** AXps containing 4 *****
+Solving FMP (CPU) time: 282.35 secs
+house_votes_84, 17-th inst file out of 200
+2QBF: query on feature 12 out of 16 features:
+User-given limit reached, exiting.
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1203.27 secs
+house_votes_84, 18-th inst file out of 200
+2QBF: query on feature 3 out of 16 features:
+***** AXps containing 3 *****
+Solving FMP (CPU) time: 9.00 secs
+house_votes_84, 19-th inst file out of 200
+2QBF: query on feature 14 out of 16 features:
+User-given limit reached, exiting.
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1204.57 secs
+house_votes_84, 20-th inst file out of 200
+2QBF: query on feature 10 out of 16 features:
+Timeout after 18000 seconds

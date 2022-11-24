@@ -1,0 +1,3483 @@
+############ hayes_roth ############
+c nof features: 4
+c nof classes: 3
+c nof samples: 93
+Loading rf_models/RF2001/hayes_roth/hayes_roth_nbestim_30_maxdepth_4.mod.pkl
+Using solver: depqbf
+
+hayes_roth, 0-th inst file out of 160
+2QBF: query on feature 1 out of 4 features:
+***** AXps containing 1 *****
+Solving FMP (CPU) time: 3.27 secs
+hayes_roth, 1-th inst file out of 160
+2QBF: query on feature 0 out of 4 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 5.25 secs
+hayes_roth, 2-th inst file out of 160
+2QBF: query on feature 0 out of 4 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 5.63 secs
+hayes_roth, 3-th inst file out of 160
+2QBF: query on feature 2 out of 4 features:
+***** AXps containing 2 *****
+Solving FMP (CPU) time: 4.45 secs
+hayes_roth, 4-th inst file out of 160
+2QBF: query on feature 2 out of 4 features:
+***** AXps containing 2 *****
+Solving FMP (CPU) time: 4.16 secs
+hayes_roth, 5-th inst file out of 160
+2QBF: query on feature 3 out of 4 features:
+***** AXps containing 3 *****
+Solving FMP (CPU) time: 3.95 secs
+hayes_roth, 6-th inst file out of 160
+2QBF: query on feature 0 out of 4 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 3.83 secs
+hayes_roth, 7-th inst file out of 160
+2QBF: query on feature 1 out of 4 features:
+***** AXps containing 1 *****
+Solving FMP (CPU) time: 3.98 secs
+hayes_roth, 8-th inst file out of 160
+2QBF: query on feature 1 out of 4 features:
+***** AXps containing 1 *****
+Solving FMP (CPU) time: 3.03 secs
+hayes_roth, 9-th inst file out of 160
+2QBF: query on feature 1 out of 4 features:
+***** AXps containing 1 *****
+Solving FMP (CPU) time: 2.93 secs
+hayes_roth, 10-th inst file out of 160
+2QBF: query on feature 1 out of 4 features:
+***** AXps containing 1 *****
+Solving FMP (CPU) time: 2.98 secs
+hayes_roth, 11-th inst file out of 160
+2QBF: query on feature 2 out of 4 features:
+***** AXps containing 2 *****
+Solving FMP (CPU) time: 3.42 secs
+hayes_roth, 12-th inst file out of 160
+2QBF: query on feature 3 out of 4 features:
+***** AXps containing 3 *****
+Solving FMP (CPU) time: 4.01 secs
+hayes_roth, 13-th inst file out of 160
+2QBF: query on feature 2 out of 4 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 3.10 secs
+hayes_roth, 14-th inst file out of 160
+2QBF: query on feature 3 out of 4 features:
+***** AXps containing 3 *****
+Solving FMP (CPU) time: 0.55 secs
+hayes_roth, 15-th inst file out of 160
+2QBF: query on feature 2 out of 4 features:
+***** AXps containing 2 *****
+Solving FMP (CPU) time: 3.68 secs
+hayes_roth, 16-th inst file out of 160
+2QBF: query on feature 3 out of 4 features:
+***** AXps containing 3 *****
+Solving FMP (CPU) time: 3.67 secs
+hayes_roth, 17-th inst file out of 160
+2QBF: query on feature 1 out of 4 features:
+***** AXps containing 1 *****
+Solving FMP (CPU) time: 3.52 secs
+hayes_roth, 18-th inst file out of 160
+2QBF: query on feature 1 out of 4 features:
+***** AXps containing 1 *****
+Solving FMP (CPU) time: 3.34 secs
+hayes_roth, 19-th inst file out of 160
+2QBF: query on feature 2 out of 4 features:
+***** AXps containing 2 *****
+Solving FMP (CPU) time: 3.87 secs
+hayes_roth, 20-th inst file out of 160
+2QBF: query on feature 2 out of 4 features:
+***** AXps containing 2 *****
+Solving FMP (CPU) time: 3.60 secs
+hayes_roth, 21-th inst file out of 160
+2QBF: query on feature 2 out of 4 features:
+***** AXps containing 2 *****
+Solving FMP (CPU) time: 3.64 secs
+hayes_roth, 22-th inst file out of 160
+2QBF: query on feature 3 out of 4 features:
+***** AXps containing 3 *****
+Solving FMP (CPU) time: 4.03 secs
+hayes_roth, 23-th inst file out of 160
+2QBF: query on feature 3 out of 4 features:
+***** AXps containing 3 *****
+Solving FMP (CPU) time: 4.18 secs
+hayes_roth, 24-th inst file out of 160
+2QBF: query on feature 3 out of 4 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 3.42 secs
+hayes_roth, 25-th inst file out of 160
+2QBF: query on feature 0 out of 4 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 4.05 secs
+hayes_roth, 26-th inst file out of 160
+2QBF: query on feature 2 out of 4 features:
+***** AXps containing 2 *****
+Solving FMP (CPU) time: 3.59 secs
+hayes_roth, 27-th inst file out of 160
+2QBF: query on feature 2 out of 4 features:
+***** AXps containing 2 *****
+Solving FMP (CPU) time: 3.50 secs
+hayes_roth, 28-th inst file out of 160
+2QBF: query on feature 2 out of 4 features:
+***** AXps containing 2 *****
+Solving FMP (CPU) time: 3.47 secs
+hayes_roth, 29-th inst file out of 160
+2QBF: query on feature 2 out of 4 features:
+***** AXps containing 2 *****
+Solving FMP (CPU) time: 3.39 secs
+hayes_roth, 30-th inst file out of 160
+2QBF: query on feature 1 out of 4 features:
+***** AXps containing 1 *****
+Solving FMP (CPU) time: 3.00 secs
+hayes_roth, 31-th inst file out of 160
+2QBF: query on feature 3 out of 4 features:
+***** AXps containing 3 *****
+Solving FMP (CPU) time: 4.43 secs
+hayes_roth, 32-th inst file out of 160
+2QBF: query on feature 2 out of 4 features:
+***** AXps containing 2 *****
+Solving FMP (CPU) time: 0.72 secs
+hayes_roth, 33-th inst file out of 160
+2QBF: query on feature 3 out of 4 features:
+***** AXps containing 3 *****
+Solving FMP (CPU) time: 4.37 secs
+hayes_roth, 34-th inst file out of 160
+2QBF: query on feature 3 out of 4 features:
+***** AXps containing 3 *****
+Solving FMP (CPU) time: 3.96 secs
+hayes_roth, 35-th inst file out of 160
+2QBF: query on feature 1 out of 4 features:
+***** AXps containing 1 *****
+Solving FMP (CPU) time: 4.53 secs
+hayes_roth, 36-th inst file out of 160
+2QBF: query on feature 3 out of 4 features:
+***** AXps containing 3 *****
+Solving FMP (CPU) time: 3.51 secs
+hayes_roth, 37-th inst file out of 160
+2QBF: query on feature 3 out of 4 features:
+***** AXps containing 3 *****
+Solving FMP (CPU) time: 3.67 secs
+hayes_roth, 38-th inst file out of 160
+2QBF: query on feature 0 out of 4 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 5.39 secs
+hayes_roth, 39-th inst file out of 160
+2QBF: query on feature 3 out of 4 features:
+***** AXps containing 3 *****
+Solving FMP (CPU) time: 3.55 secs
+hayes_roth, 40-th inst file out of 160
+2QBF: query on feature 0 out of 4 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 4.05 secs
+hayes_roth, 41-th inst file out of 160
+2QBF: query on feature 0 out of 4 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 5.15 secs
+hayes_roth, 42-th inst file out of 160
+2QBF: query on feature 3 out of 4 features:
+***** AXps containing 3 *****
+Solving FMP (CPU) time: 0.60 secs
+hayes_roth, 43-th inst file out of 160
+2QBF: query on feature 1 out of 4 features:
+***** AXps containing 1 *****
+Solving FMP (CPU) time: 3.16 secs
+hayes_roth, 44-th inst file out of 160
+2QBF: query on feature 3 out of 4 features:
+***** AXps containing 3 *****
+Solving FMP (CPU) time: 3.55 secs
+hayes_roth, 45-th inst file out of 160
+2QBF: query on feature 1 out of 4 features:
+***** AXps containing 1 *****
+Solving FMP (CPU) time: 2.99 secs
+hayes_roth, 46-th inst file out of 160
+2QBF: query on feature 3 out of 4 features:
+***** AXps containing 3 *****
+Solving FMP (CPU) time: 3.85 secs
+hayes_roth, 47-th inst file out of 160
+2QBF: query on feature 0 out of 4 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 4.38 secs
+hayes_roth, 48-th inst file out of 160
+2QBF: query on feature 1 out of 4 features:
+***** AXps containing 1 *****
+Solving FMP (CPU) time: 2.84 secs
+hayes_roth, 49-th inst file out of 160
+2QBF: query on feature 1 out of 4 features:
+***** AXps containing 1 *****
+Solving FMP (CPU) time: 0.59 secs
+hayes_roth, 50-th inst file out of 160
+2QBF: query on feature 2 out of 4 features:
+***** AXps containing 2 *****
+Solving FMP (CPU) time: 3.84 secs
+hayes_roth, 51-th inst file out of 160
+2QBF: query on feature 1 out of 4 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 3.70 secs
+hayes_roth, 52-th inst file out of 160
+2QBF: query on feature 0 out of 4 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 5.00 secs
+hayes_roth, 53-th inst file out of 160
+2QBF: query on feature 0 out of 4 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 4.21 secs
+hayes_roth, 54-th inst file out of 160
+2QBF: query on feature 3 out of 4 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 2.93 secs
+hayes_roth, 55-th inst file out of 160
+2QBF: query on feature 3 out of 4 features:
+***** AXps containing 3 *****
+Solving FMP (CPU) time: 3.53 secs
+hayes_roth, 56-th inst file out of 160
+2QBF: query on feature 1 out of 4 features:
+***** AXps containing 1 *****
+Solving FMP (CPU) time: 4.12 secs
+hayes_roth, 57-th inst file out of 160
+2QBF: query on feature 1 out of 4 features:
+***** AXps containing 1 *****
+Solving FMP (CPU) time: 3.05 secs
+hayes_roth, 58-th inst file out of 160
+2QBF: query on feature 0 out of 4 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 4.94 secs
+hayes_roth, 59-th inst file out of 160
+2QBF: query on feature 2 out of 4 features:
+***** AXps containing 2 *****
+Solving FMP (CPU) time: 3.66 secs
+hayes_roth, 60-th inst file out of 160
+2QBF: query on feature 2 out of 4 features:
+***** AXps containing 2 *****
+Solving FMP (CPU) time: 3.70 secs
+hayes_roth, 61-th inst file out of 160
+2QBF: query on feature 3 out of 4 features:
+***** AXps containing 3 *****
+Solving FMP (CPU) time: 3.61 secs
+hayes_roth, 62-th inst file out of 160
+2QBF: query on feature 1 out of 4 features:
+***** AXps containing 1 *****
+Solving FMP (CPU) time: 4.05 secs
+hayes_roth, 63-th inst file out of 160
+2QBF: query on feature 3 out of 4 features:
+***** AXps containing 3 *****
+Solving FMP (CPU) time: 3.87 secs
+hayes_roth, 64-th inst file out of 160
+2QBF: query on feature 0 out of 4 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 5.27 secs
+hayes_roth, 65-th inst file out of 160
+2QBF: query on feature 0 out of 4 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 5.14 secs
+hayes_roth, 66-th inst file out of 160
+2QBF: query on feature 2 out of 4 features:
+***** AXps containing 2 *****
+Solving FMP (CPU) time: 3.92 secs
+hayes_roth, 67-th inst file out of 160
+2QBF: query on feature 2 out of 4 features:
+***** AXps containing 2 *****
+Solving FMP (CPU) time: 4.15 secs
+hayes_roth, 68-th inst file out of 160
+2QBF: query on feature 0 out of 4 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 4.90 secs
+hayes_roth, 69-th inst file out of 160
+2QBF: query on feature 3 out of 4 features:
+***** AXps containing 3 *****
+Solving FMP (CPU) time: 4.93 secs
+hayes_roth, 70-th inst file out of 160
+2QBF: query on feature 0 out of 4 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 8.25 secs
+hayes_roth, 71-th inst file out of 160
+2QBF: query on feature 1 out of 4 features:
+***** AXps containing 1 *****
+Solving FMP (CPU) time: 6.89 secs
+hayes_roth, 72-th inst file out of 160
+2QBF: query on feature 3 out of 4 features:
+***** AXps containing 3 *****
+Solving FMP (CPU) time: 10.57 secs
+hayes_roth, 73-th inst file out of 160
+2QBF: query on feature 0 out of 4 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 22.85 secs
+hayes_roth, 74-th inst file out of 160
+2QBF: query on feature 1 out of 4 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 30.24 secs
+hayes_roth, 75-th inst file out of 160
+2QBF: query on feature 0 out of 4 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 36.10 secs
+hayes_roth, 76-th inst file out of 160
+2QBF: query on feature 3 out of 4 features:
+***** AXps containing 3 *****
+Solving FMP (CPU) time: 25.67 secs
+hayes_roth, 77-th inst file out of 160
+2QBF: query on feature 0 out of 4 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 20.07 secs
+hayes_roth, 78-th inst file out of 160
+2QBF: query on feature 3 out of 4 features:
+***** AXps containing 3 *****
+Solving FMP (CPU) time: 10.45 secs
+hayes_roth, 79-th inst file out of 160
+2QBF: query on feature 3 out of 4 features:
+***** AXps containing 3 *****
+Solving FMP (CPU) time: 9.84 secs
+hayes_roth, 80-th inst file out of 160
+2QBF: query on feature 0 out of 4 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 8.42 secs
+hayes_roth, 81-th inst file out of 160
+2QBF: query on feature 0 out of 4 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 9.52 secs
+hayes_roth, 82-th inst file out of 160
+2QBF: query on feature 3 out of 4 features:
+***** AXps containing 3 *****
+Solving FMP (CPU) time: 8.84 secs
+hayes_roth, 83-th inst file out of 160
+2QBF: query on feature 2 out of 4 features:
+***** AXps containing 2 *****
+Solving FMP (CPU) time: 9.12 secs
+hayes_roth, 84-th inst file out of 160
+2QBF: query on feature 1 out of 4 features:
+***** AXps containing 1 *****
+Solving FMP (CPU) time: 6.77 secs
+hayes_roth, 85-th inst file out of 160
+2QBF: query on feature 2 out of 4 features:
+***** AXps containing 2 *****
+Solving FMP (CPU) time: 8.32 secs
+hayes_roth, 86-th inst file out of 160
+2QBF: query on feature 1 out of 4 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 8.62 secs
+hayes_roth, 87-th inst file out of 160
+2QBF: query on feature 3 out of 4 features:
+***** AXps containing 3 *****
+Solving FMP (CPU) time: 1.04 secs
+hayes_roth, 88-th inst file out of 160
+2QBF: query on feature 2 out of 4 features:
+***** AXps containing 2 *****
+Solving FMP (CPU) time: 5.45 secs
+hayes_roth, 89-th inst file out of 160
+2QBF: query on feature 3 out of 4 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 5.48 secs
+hayes_roth, 90-th inst file out of 160
+2QBF: query on feature 0 out of 4 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 5.50 secs
+hayes_roth, 91-th inst file out of 160
+2QBF: query on feature 1 out of 4 features:
+***** AXps containing 1 *****
+Solving FMP (CPU) time: 3.56 secs
+hayes_roth, 92-th inst file out of 160
+2QBF: query on feature 0 out of 4 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 5.18 secs
+hayes_roth, 93-th inst file out of 160
+2QBF: query on feature 3 out of 4 features:
+***** AXps containing 3 *****
+Solving FMP (CPU) time: 4.24 secs
+hayes_roth, 94-th inst file out of 160
+2QBF: query on feature 1 out of 4 features:
+***** AXps containing 1 *****
+Solving FMP (CPU) time: 3.18 secs
+hayes_roth, 95-th inst file out of 160
+2QBF: query on feature 3 out of 4 features:
+***** AXps containing 3 *****
+Solving FMP (CPU) time: 3.34 secs
+hayes_roth, 96-th inst file out of 160
+2QBF: query on feature 0 out of 4 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 3.86 secs
+hayes_roth, 97-th inst file out of 160
+2QBF: query on feature 3 out of 4 features:
+***** AXps containing 3 *****
+Solving FMP (CPU) time: 3.88 secs
+hayes_roth, 98-th inst file out of 160
+2QBF: query on feature 1 out of 4 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 3.01 secs
+hayes_roth, 99-th inst file out of 160
+2QBF: query on feature 0 out of 4 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 4.13 secs
+hayes_roth, 100-th inst file out of 160
+2QBF: query on feature 3 out of 4 features:
+***** AXps containing 3 *****
+Solving FMP (CPU) time: 3.11 secs
+hayes_roth, 101-th inst file out of 160
+2QBF: query on feature 2 out of 4 features:
+***** AXps containing 2 *****
+Solving FMP (CPU) time: 3.50 secs
+hayes_roth, 102-th inst file out of 160
+2QBF: query on feature 1 out of 4 features:
+***** AXps containing 1 *****
+Solving FMP (CPU) time: 3.92 secs
+hayes_roth, 103-th inst file out of 160
+2QBF: query on feature 3 out of 4 features:
+***** AXps containing 3 *****
+Solving FMP (CPU) time: 3.56 secs
+hayes_roth, 104-th inst file out of 160
+2QBF: query on feature 3 out of 4 features:
+***** AXps containing 3 *****
+Solving FMP (CPU) time: 3.57 secs
+hayes_roth, 105-th inst file out of 160
+2QBF: query on feature 1 out of 4 features:
+***** AXps containing 1 *****
+Solving FMP (CPU) time: 3.65 secs
+hayes_roth, 106-th inst file out of 160
+2QBF: query on feature 0 out of 4 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 4.09 secs
+hayes_roth, 107-th inst file out of 160
+2QBF: query on feature 2 out of 4 features:
+***** AXps containing 2 *****
+Solving FMP (CPU) time: 3.14 secs
+hayes_roth, 108-th inst file out of 160
+2QBF: query on feature 1 out of 4 features:
+***** AXps containing 1 *****
+Solving FMP (CPU) time: 2.87 secs
+hayes_roth, 109-th inst file out of 160
+2QBF: query on feature 0 out of 4 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 3.77 secs
+hayes_roth, 110-th inst file out of 160
+2QBF: query on feature 0 out of 4 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 3.77 secs
+hayes_roth, 111-th inst file out of 160
+2QBF: query on feature 0 out of 4 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 4.12 secs
+hayes_roth, 112-th inst file out of 160
+2QBF: query on feature 0 out of 4 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 3.77 secs
+hayes_roth, 113-th inst file out of 160
+2QBF: query on feature 3 out of 4 features:
+***** AXps containing 3 *****
+Solving FMP (CPU) time: 3.13 secs
+hayes_roth, 114-th inst file out of 160
+2QBF: query on feature 1 out of 4 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 3.73 secs
+hayes_roth, 115-th inst file out of 160
+2QBF: query on feature 1 out of 4 features:
+***** AXps containing 1 *****
+Solving FMP (CPU) time: 2.93 secs
+hayes_roth, 116-th inst file out of 160
+2QBF: query on feature 0 out of 4 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 5.14 secs
+hayes_roth, 117-th inst file out of 160
+2QBF: query on feature 3 out of 4 features:
+***** AXps containing 3 *****
+Solving FMP (CPU) time: 3.32 secs
+hayes_roth, 118-th inst file out of 160
+2QBF: query on feature 3 out of 4 features:
+***** AXps containing 3 *****
+Solving FMP (CPU) time: 3.27 secs
+hayes_roth, 119-th inst file out of 160
+2QBF: query on feature 0 out of 4 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 3.95 secs
+hayes_roth, 120-th inst file out of 160
+2QBF: query on feature 2 out of 4 features:
+***** AXps containing 2 *****
+Solving FMP (CPU) time: 3.34 secs
+hayes_roth, 121-th inst file out of 160
+2QBF: query on feature 2 out of 4 features:
+***** AXps containing 2 *****
+Solving FMP (CPU) time: 3.15 secs
+hayes_roth, 122-th inst file out of 160
+2QBF: query on feature 1 out of 4 features:
+***** AXps containing 1 *****
+Solving FMP (CPU) time: 3.64 secs
+hayes_roth, 123-th inst file out of 160
+2QBF: query on feature 1 out of 4 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 2.99 secs
+hayes_roth, 124-th inst file out of 160
+2QBF: query on feature 1 out of 4 features:
+***** AXps containing 1 *****
+Solving FMP (CPU) time: 0.58 secs
+hayes_roth, 125-th inst file out of 160
+2QBF: query on feature 1 out of 4 features:
+***** AXps containing 1 *****
+Solving FMP (CPU) time: 2.85 secs
+hayes_roth, 126-th inst file out of 160
+2QBF: query on feature 2 out of 4 features:
+***** AXps containing 2 *****
+Solving FMP (CPU) time: 3.25 secs
+hayes_roth, 127-th inst file out of 160
+2QBF: query on feature 1 out of 4 features:
+***** AXps containing 1 *****
+Solving FMP (CPU) time: 2.72 secs
+hayes_roth, 128-th inst file out of 160
+2QBF: query on feature 2 out of 4 features:
+***** AXps containing 2 *****
+Solving FMP (CPU) time: 3.26 secs
+hayes_roth, 129-th inst file out of 160
+2QBF: query on feature 0 out of 4 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 3.92 secs
+hayes_roth, 130-th inst file out of 160
+2QBF: query on feature 2 out of 4 features:
+***** AXps containing 2 *****
+Solving FMP (CPU) time: 3.51 secs
+hayes_roth, 131-th inst file out of 160
+2QBF: query on feature 2 out of 4 features:
+***** AXps containing 2 *****
+Solving FMP (CPU) time: 3.53 secs
+hayes_roth, 132-th inst file out of 160
+2QBF: query on feature 0 out of 4 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 4.74 secs
+hayes_roth, 133-th inst file out of 160
+2QBF: query on feature 3 out of 4 features:
+***** AXps containing 3 *****
+Solving FMP (CPU) time: 3.43 secs
+hayes_roth, 134-th inst file out of 160
+2QBF: query on feature 2 out of 4 features:
+***** AXps containing 2 *****
+Solving FMP (CPU) time: 3.39 secs
+hayes_roth, 135-th inst file out of 160
+2QBF: query on feature 0 out of 4 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 4.12 secs
+hayes_roth, 136-th inst file out of 160
+2QBF: query on feature 1 out of 4 features:
+***** AXps containing 1 *****
+Solving FMP (CPU) time: 2.88 secs
+hayes_roth, 137-th inst file out of 160
+2QBF: query on feature 3 out of 4 features:
+***** AXps containing 3 *****
+Solving FMP (CPU) time: 3.16 secs
+hayes_roth, 138-th inst file out of 160
+2QBF: query on feature 2 out of 4 features:
+***** AXps containing 2 *****
+Solving FMP (CPU) time: 3.62 secs
+hayes_roth, 139-th inst file out of 160
+2QBF: query on feature 2 out of 4 features:
+***** AXps containing 2 *****
+Solving FMP (CPU) time: 3.15 secs
+hayes_roth, 140-th inst file out of 160
+2QBF: query on feature 0 out of 4 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 3.81 secs
+hayes_roth, 141-th inst file out of 160
+2QBF: query on feature 3 out of 4 features:
+***** AXps containing 3 *****
+Solving FMP (CPU) time: 3.22 secs
+hayes_roth, 142-th inst file out of 160
+2QBF: query on feature 2 out of 4 features:
+***** AXps containing 2 *****
+Solving FMP (CPU) time: 3.37 secs
+hayes_roth, 143-th inst file out of 160
+2QBF: query on feature 2 out of 4 features:
+***** AXps containing 2 *****
+Solving FMP (CPU) time: 0.60 secs
+hayes_roth, 144-th inst file out of 160
+2QBF: query on feature 2 out of 4 features:
+***** AXps containing 2 *****
+Solving FMP (CPU) time: 3.55 secs
+hayes_roth, 145-th inst file out of 160
+2QBF: query on feature 3 out of 4 features:
+***** AXps containing 3 *****
+Solving FMP (CPU) time: 3.76 secs
+hayes_roth, 146-th inst file out of 160
+2QBF: query on feature 2 out of 4 features:
+***** AXps containing 2 *****
+Solving FMP (CPU) time: 3.45 secs
+hayes_roth, 147-th inst file out of 160
+2QBF: query on feature 3 out of 4 features:
+***** AXps containing 3 *****
+Solving FMP (CPU) time: 3.41 secs
+hayes_roth, 148-th inst file out of 160
+2QBF: query on feature 2 out of 4 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 3.02 secs
+hayes_roth, 149-th inst file out of 160
+2QBF: query on feature 2 out of 4 features:
+***** AXps containing 2 *****
+Solving FMP (CPU) time: 3.54 secs
+hayes_roth, 150-th inst file out of 160
+2QBF: query on feature 1 out of 4 features:
+***** AXps containing 1 *****
+Solving FMP (CPU) time: 3.21 secs
+hayes_roth, 151-th inst file out of 160
+2QBF: query on feature 1 out of 4 features:
+***** AXps containing 1 *****
+Solving FMP (CPU) time: 2.90 secs
+hayes_roth, 152-th inst file out of 160
+2QBF: query on feature 3 out of 4 features:
+***** AXps containing 3 *****
+Solving FMP (CPU) time: 3.82 secs
+hayes_roth, 153-th inst file out of 160
+2QBF: query on feature 1 out of 4 features:
+***** AXps containing 1 *****
+Solving FMP (CPU) time: 2.95 secs
+hayes_roth, 154-th inst file out of 160
+2QBF: query on feature 3 out of 4 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 3.66 secs
+hayes_roth, 155-th inst file out of 160
+2QBF: query on feature 1 out of 4 features:
+***** AXps containing 1 *****
+Solving FMP (CPU) time: 0.57 secs
+hayes_roth, 156-th inst file out of 160
+2QBF: query on feature 3 out of 4 features:
+***** AXps containing 3 *****
+Solving FMP (CPU) time: 3.22 secs
+hayes_roth, 157-th inst file out of 160
+2QBF: query on feature 1 out of 4 features:
+***** AXps containing 1 *****
+Solving FMP (CPU) time: 2.85 secs
+hayes_roth, 158-th inst file out of 160
+2QBF: query on feature 2 out of 4 features:
+***** AXps containing 2 *****
+Solving FMP (CPU) time: 3.59 secs
+hayes_roth, 159-th inst file out of 160
+2QBF: query on feature 3 out of 4 features:
+***** AXps containing 3 *****
+Solving FMP (CPU) time: 3.19 secs
+hayes_roth & 160 & 4 & #C & 4 & 336 & A% & 12846 & 34457 & 113 & 0 & 0 & 441.681 & 25.674 & 0.549 & 3.909 & 310.194 & 36.102 & 2.934 & 6.600
+
+############ iris ############
+c nof features: 4
+c nof classes: 3
+c nof samples: 147
+Loading rf_models/RF2001/iris/iris_nbestim_20_maxdepth_4.mod.pkl
+Using solver: depqbf
+
+iris, 0-th inst file out of 150
+2QBF: query on feature 3 out of 4 features:
+***** AXps containing 3 *****
+Solving FMP (CPU) time: 79.71 secs
+iris, 1-th inst file out of 150
+2QBF: query on feature 0 out of 4 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 56.99 secs
+iris, 2-th inst file out of 150
+2QBF: query on feature 1 out of 4 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 4.99 secs
+iris, 3-th inst file out of 150
+2QBF: query on feature 3 out of 4 features:
+***** AXps containing 3 *****
+Solving FMP (CPU) time: 1.01 secs
+iris, 4-th inst file out of 150
+2QBF: query on feature 2 out of 4 features:
+***** AXps containing 2 *****
+Solving FMP (CPU) time: 18.62 secs
+iris, 5-th inst file out of 150
+2QBF: query on feature 1 out of 4 features:
+***** AXps containing 1 *****
+Solving FMP (CPU) time: 19.25 secs
+iris, 6-th inst file out of 150
+2QBF: query on feature 3 out of 4 features:
+***** AXps containing 3 *****
+Solving FMP (CPU) time: 0.39 secs
+iris, 7-th inst file out of 150
+2QBF: query on feature 0 out of 4 features:
+***** AXps containing 0 *****
+Solving FMP (CPU) time: 19.72 secs
+iris, 8-th inst file out of 150
+2QBF: query on feature 0 out of 4 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 6.64 secs
+iris, 9-th inst file out of 150
+2QBF: query on feature 3 out of 4 features:
+***** AXps containing 3 *****
+Solving FMP (CPU) time: 0.35 secs
+iris, 10-th inst file out of 150
+2QBF: query on feature 3 out of 4 features:
+***** AXps containing 3 *****
+Solving FMP (CPU) time: 0.99 secs
+iris, 11-th inst file out of 150
+2QBF: query on feature 0 out of 4 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 52.73 secs
+iris, 12-th inst file out of 150
+2QBF: query on feature 2 out of 4 features:
+***** AXps containing 2 *****
+Solving FMP (CPU) time: 15.99 secs
+iris, 13-th inst file out of 150
+2QBF: query on feature 3 out of 4 features:
+***** AXps containing 3 *****
+Solving FMP (CPU) time: 101.87 secs
+iris, 14-th inst file out of 150
+2QBF: query on feature 3 out of 4 features:
+***** AXps containing 3 *****
+Solving FMP (CPU) time: 5.62 secs
+iris, 15-th inst file out of 150
+2QBF: query on feature 1 out of 4 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 5.31 secs
+iris, 16-th inst file out of 150
+2QBF: query on feature 0 out of 4 features:
+***** AXps containing 0 *****
+Solving FMP (CPU) time: 17.46 secs
+iris, 17-th inst file out of 150
+2QBF: query on feature 3 out of 4 features:
+***** AXps containing 3 *****
+Solving FMP (CPU) time: 7.13 secs
+iris, 18-th inst file out of 150
+2QBF: query on feature 2 out of 4 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 59.93 secs
+iris, 19-th inst file out of 150
+2QBF: query on feature 0 out of 4 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 8.56 secs
+iris, 20-th inst file out of 150
+2QBF: query on feature 1 out of 4 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 58.35 secs
+iris, 21-th inst file out of 150
+2QBF: query on feature 3 out of 4 features:
+***** AXps containing 3 *****
+Solving FMP (CPU) time: 95.24 secs
+iris, 22-th inst file out of 150
+2QBF: query on feature 2 out of 4 features:
+***** AXps containing 2 *****
+Solving FMP (CPU) time: 16.28 secs
+iris, 23-th inst file out of 150
+2QBF: query on feature 0 out of 4 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 74.52 secs
+iris, 24-th inst file out of 150
+2QBF: query on feature 0 out of 4 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 53.11 secs
+iris, 25-th inst file out of 150
+2QBF: query on feature 3 out of 4 features:
+***** AXps containing 3 *****
+Solving FMP (CPU) time: 5.03 secs
+iris, 26-th inst file out of 150
+2QBF: query on feature 3 out of 4 features:
+***** AXps containing 3 *****
+Solving FMP (CPU) time: 5.65 secs
+iris, 27-th inst file out of 150
+2QBF: query on feature 3 out of 4 features:
+***** AXps containing 3 *****
+Solving FMP (CPU) time: 3.65 secs
+iris, 28-th inst file out of 150
+2QBF: query on feature 1 out of 4 features:
+***** AXps containing 1 *****
+Solving FMP (CPU) time: 57.73 secs
+iris, 29-th inst file out of 150
+2QBF: query on feature 1 out of 4 features:
+***** AXps containing 1 *****
+Solving FMP (CPU) time: 60.17 secs
+iris, 30-th inst file out of 150
+2QBF: query on feature 2 out of 4 features:
+***** AXps containing 2 *****
+Solving FMP (CPU) time: 19.19 secs
+iris, 31-th inst file out of 150
+2QBF: query on feature 2 out of 4 features:
+***** AXps containing 2 *****
+Solving FMP (CPU) time: 16.57 secs
+iris, 32-th inst file out of 150
+2QBF: query on feature 0 out of 4 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 51.02 secs
+iris, 33-th inst file out of 150
+2QBF: query on feature 1 out of 4 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 5.63 secs
+iris, 34-th inst file out of 150
+2QBF: query on feature 1 out of 4 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 5.20 secs
+iris, 35-th inst file out of 150
+2QBF: query on feature 0 out of 4 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 8.15 secs
+iris, 36-th inst file out of 150
+2QBF: query on feature 3 out of 4 features:
+***** AXps containing 3 *****
+Solving FMP (CPU) time: 68.25 secs
+iris, 37-th inst file out of 150
+2QBF: query on feature 0 out of 4 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 37.47 secs
+iris, 38-th inst file out of 150
+2QBF: query on feature 3 out of 4 features:
+***** AXps containing 3 *****
+Solving FMP (CPU) time: 93.13 secs
+iris, 39-th inst file out of 150
+2QBF: query on feature 0 out of 4 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 7.07 secs
+iris, 40-th inst file out of 150
+2QBF: query on feature 1 out of 4 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 100.95 secs
+iris, 41-th inst file out of 150
+2QBF: query on feature 0 out of 4 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 6.43 secs
+iris, 42-th inst file out of 150
+2QBF: query on feature 2 out of 4 features:
+***** AXps containing 2 *****
+Solving FMP (CPU) time: 1.51 secs
+iris, 43-th inst file out of 150
+2QBF: query on feature 0 out of 4 features:
+***** AXps containing 0 *****
+Solving FMP (CPU) time: 19.24 secs
+iris, 44-th inst file out of 150
+2QBF: query on feature 3 out of 4 features:
+***** AXps containing 3 *****
+Solving FMP (CPU) time: 3.23 secs
+iris, 45-th inst file out of 150
+2QBF: query on feature 1 out of 4 features:
+***** AXps containing 1 *****
+Solving FMP (CPU) time: 17.82 secs
+iris, 46-th inst file out of 150
+2QBF: query on feature 3 out of 4 features:
+***** AXps containing 3 *****
+Solving FMP (CPU) time: 92.73 secs
+iris, 47-th inst file out of 150
+2QBF: query on feature 3 out of 4 features:
+***** AXps containing 3 *****
+Solving FMP (CPU) time: 91.61 secs
+iris, 48-th inst file out of 150
+2QBF: query on feature 2 out of 4 features:
+***** AXps containing 2 *****
+Solving FMP (CPU) time: 15.81 secs
+iris, 49-th inst file out of 150
+2QBF: query on feature 3 out of 4 features:
+***** AXps containing 3 *****
+Solving FMP (CPU) time: 0.34 secs
+iris, 50-th inst file out of 150
+2QBF: query on feature 2 out of 4 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 56.16 secs
+iris, 51-th inst file out of 150
+2QBF: query on feature 1 out of 4 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 101.98 secs
+iris, 52-th inst file out of 150
+2QBF: query on feature 2 out of 4 features:
+***** AXps containing 2 *****
+Solving FMP (CPU) time: 13.01 secs
+iris, 53-th inst file out of 150
+2QBF: query on feature 3 out of 4 features:
+***** AXps containing 3 *****
+Solving FMP (CPU) time: 4.07 secs
+iris, 54-th inst file out of 150
+2QBF: query on feature 2 out of 4 features:
+***** AXps containing 2 *****
+Solving FMP (CPU) time: 4.89 secs
+iris, 55-th inst file out of 150
+2QBF: query on feature 3 out of 4 features:
+***** AXps containing 3 *****
+Solving FMP (CPU) time: 2.33 secs
+iris, 56-th inst file out of 150
+2QBF: query on feature 1 out of 4 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 44.62 secs
+iris, 57-th inst file out of 150
+2QBF: query on feature 0 out of 4 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 69.58 secs
+iris, 58-th inst file out of 150
+2QBF: query on feature 3 out of 4 features:
+***** AXps containing 3 *****
+Solving FMP (CPU) time: 0.35 secs
+iris, 59-th inst file out of 150
+2QBF: query on feature 3 out of 4 features:
+***** AXps containing 3 *****
+Solving FMP (CPU) time: 4.14 secs
+iris, 60-th inst file out of 150
+2QBF: query on feature 1 out of 4 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 44.85 secs
+iris, 61-th inst file out of 150
+2QBF: query on feature 2 out of 4 features:
+***** AXps containing 2 *****
+Solving FMP (CPU) time: 26.34 secs
+iris, 62-th inst file out of 150
+2QBF: query on feature 2 out of 4 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 62.76 secs
+iris, 63-th inst file out of 150
+2QBF: query on feature 1 out of 4 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 57.77 secs
+iris, 64-th inst file out of 150
+2QBF: query on feature 2 out of 4 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 55.04 secs
+iris, 65-th inst file out of 150
+2QBF: query on feature 1 out of 4 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 4.58 secs
+iris, 66-th inst file out of 150
+2QBF: query on feature 0 out of 4 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 57.64 secs
+iris, 67-th inst file out of 150
+2QBF: query on feature 2 out of 4 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 56.63 secs
+iris, 68-th inst file out of 150
+2QBF: query on feature 1 out of 4 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 59.38 secs
+iris, 69-th inst file out of 150
+2QBF: query on feature 2 out of 4 features:
+***** AXps containing 2 *****
+Solving FMP (CPU) time: 13.33 secs
+iris, 70-th inst file out of 150
+2QBF: query on feature 3 out of 4 features:
+***** AXps containing 3 *****
+Solving FMP (CPU) time: 0.36 secs
+iris, 71-th inst file out of 150
+2QBF: query on feature 0 out of 4 features:
+***** AXps containing 0 *****
+Solving FMP (CPU) time: 22.33 secs
+iris, 72-th inst file out of 150
+2QBF: query on feature 3 out of 4 features:
+***** AXps containing 3 *****
+Solving FMP (CPU) time: 7.60 secs
+iris, 73-th inst file out of 150
+2QBF: query on feature 2 out of 4 features:
+***** AXps containing 2 *****
+Solving FMP (CPU) time: 27.59 secs
+iris, 74-th inst file out of 150
+2QBF: query on feature 3 out of 4 features:
+***** AXps containing 3 *****
+Solving FMP (CPU) time: 0.36 secs
+iris, 75-th inst file out of 150
+2QBF: query on feature 2 out of 4 features:
+***** AXps containing 2 *****
+Solving FMP (CPU) time: 29.77 secs
+iris, 76-th inst file out of 150
+2QBF: query on feature 1 out of 4 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 4.67 secs
+iris, 77-th inst file out of 150
+2QBF: query on feature 1 out of 4 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 5.46 secs
+iris, 78-th inst file out of 150
+2QBF: query on feature 1 out of 4 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 81.70 secs
+iris, 79-th inst file out of 150
+2QBF: query on feature 3 out of 4 features:
+***** AXps containing 3 *****
+Solving FMP (CPU) time: 0.35 secs
+iris, 80-th inst file out of 150
+2QBF: query on feature 2 out of 4 features:
+***** AXps containing 2 *****
+Solving FMP (CPU) time: 18.68 secs
+iris, 81-th inst file out of 150
+2QBF: query on feature 0 out of 4 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 51.11 secs
+iris, 82-th inst file out of 150
+2QBF: query on feature 0 out of 4 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 51.57 secs
+iris, 83-th inst file out of 150
+2QBF: query on feature 3 out of 4 features:
+***** AXps containing 3 *****
+Solving FMP (CPU) time: 0.38 secs
+iris, 84-th inst file out of 150
+2QBF: query on feature 2 out of 4 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 56.48 secs
+iris, 85-th inst file out of 150
+2QBF: query on feature 2 out of 4 features:
+***** AXps containing 2 *****
+Solving FMP (CPU) time: 17.14 secs
+iris, 86-th inst file out of 150
+2QBF: query on feature 3 out of 4 features:
+***** AXps containing 3 *****
+Solving FMP (CPU) time: 4.16 secs
+iris, 87-th inst file out of 150
+2QBF: query on feature 1 out of 4 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 5.58 secs
+iris, 88-th inst file out of 150
+2QBF: query on feature 3 out of 4 features:
+***** AXps containing 3 *****
+Solving FMP (CPU) time: 0.36 secs
+iris, 89-th inst file out of 150
+2QBF: query on feature 0 out of 4 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 6.99 secs
+iris, 90-th inst file out of 150
+2QBF: query on feature 1 out of 4 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 80.67 secs
+iris, 91-th inst file out of 150
+2QBF: query on feature 2 out of 4 features:
+***** AXps containing 2 *****
+Solving FMP (CPU) time: 26.94 secs
+iris, 92-th inst file out of 150
+2QBF: query on feature 2 out of 4 features:
+***** AXps containing 2 *****
+Solving FMP (CPU) time: 17.38 secs
+iris, 93-th inst file out of 150
+2QBF: query on feature 3 out of 4 features:
+***** AXps containing 3 *****
+Solving FMP (CPU) time: 0.36 secs
+iris, 94-th inst file out of 150
+2QBF: query on feature 2 out of 4 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 56.12 secs
+iris, 95-th inst file out of 150
+2QBF: query on feature 1 out of 4 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 4.64 secs
+iris, 96-th inst file out of 150
+2QBF: query on feature 0 out of 4 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 69.48 secs
+iris, 97-th inst file out of 150
+2QBF: query on feature 3 out of 4 features:
+***** AXps containing 3 *****
+Solving FMP (CPU) time: 4.25 secs
+iris, 98-th inst file out of 150
+2QBF: query on feature 1 out of 4 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 4.60 secs
+iris, 99-th inst file out of 150
+2QBF: query on feature 0 out of 4 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 6.73 secs
+iris, 100-th inst file out of 150
+2QBF: query on feature 1 out of 4 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 5.68 secs
+iris, 101-th inst file out of 150
+2QBF: query on feature 2 out of 4 features:
+***** AXps containing 2 *****
+Solving FMP (CPU) time: 2.23 secs
+iris, 102-th inst file out of 150
+2QBF: query on feature 2 out of 4 features:
+***** AXps containing 2 *****
+Solving FMP (CPU) time: 86.58 secs
+iris, 103-th inst file out of 150
+2QBF: query on feature 1 out of 4 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 5.78 secs
+iris, 104-th inst file out of 150
+2QBF: query on feature 1 out of 4 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 45.31 secs
+iris, 105-th inst file out of 150
+2QBF: query on feature 3 out of 4 features:
+***** AXps containing 3 *****
+Solving FMP (CPU) time: 0.36 secs
+iris, 106-th inst file out of 150
+2QBF: query on feature 2 out of 4 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 63.20 secs
+iris, 107-th inst file out of 150
+2QBF: query on feature 0 out of 4 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 6.77 secs
+iris, 108-th inst file out of 150
+2QBF: query on feature 1 out of 4 features:
+***** AXps containing 1 *****
+Solving FMP (CPU) time: 55.33 secs
+iris, 109-th inst file out of 150
+2QBF: query on feature 2 out of 4 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 54.85 secs
+iris, 110-th inst file out of 150
+2QBF: query on feature 0 out of 4 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 7.76 secs
+iris, 111-th inst file out of 150
+2QBF: query on feature 2 out of 4 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 57.47 secs
+iris, 112-th inst file out of 150
+2QBF: query on feature 3 out of 4 features:
+***** AXps containing 3 *****
+Solving FMP (CPU) time: 4.26 secs
+iris, 113-th inst file out of 150
+2QBF: query on feature 1 out of 4 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 5.70 secs
+iris, 114-th inst file out of 150
+2QBF: query on feature 0 out of 4 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 6.59 secs
+iris, 115-th inst file out of 150
+2QBF: query on feature 1 out of 4 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 45.24 secs
+iris, 116-th inst file out of 150
+2QBF: query on feature 0 out of 4 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 44.14 secs
+iris, 117-th inst file out of 150
+2QBF: query on feature 1 out of 4 features:
+***** AXps containing 1 *****
+Solving FMP (CPU) time: 92.31 secs
+iris, 118-th inst file out of 150
+2QBF: query on feature 3 out of 4 features:
+***** AXps containing 3 *****
+Solving FMP (CPU) time: 93.54 secs
+iris, 119-th inst file out of 150
+2QBF: query on feature 1 out of 4 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 4.64 secs
+iris, 120-th inst file out of 150
+2QBF: query on feature 0 out of 4 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 5.61 secs
+iris, 121-th inst file out of 150
+2QBF: query on feature 0 out of 4 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 50.38 secs
+iris, 122-th inst file out of 150
+2QBF: query on feature 3 out of 4 features:
+***** AXps containing 3 *****
+Solving FMP (CPU) time: 95.08 secs
+iris, 123-th inst file out of 150
+2QBF: query on feature 2 out of 4 features:
+***** AXps containing 2 *****
+Solving FMP (CPU) time: 17.57 secs
+iris, 124-th inst file out of 150
+2QBF: query on feature 1 out of 4 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 46.91 secs
+iris, 125-th inst file out of 150
+2QBF: query on feature 3 out of 4 features:
+***** AXps containing 3 *****
+Solving FMP (CPU) time: 0.97 secs
+iris, 126-th inst file out of 150
+2QBF: query on feature 3 out of 4 features:
+***** AXps containing 3 *****
+Solving FMP (CPU) time: 4.76 secs
+iris, 127-th inst file out of 150
+2QBF: query on feature 3 out of 4 features:
+***** AXps containing 3 *****
+Solving FMP (CPU) time: 100.30 secs
+iris, 128-th inst file out of 150
+2QBF: query on feature 2 out of 4 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 56.48 secs
+iris, 129-th inst file out of 150
+2QBF: query on feature 1 out of 4 features:
+***** AXps containing 1 *****
+Solving FMP (CPU) time: 93.16 secs
+iris, 130-th inst file out of 150
+2QBF: query on feature 1 out of 4 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 4.67 secs
+iris, 131-th inst file out of 150
+2QBF: query on feature 3 out of 4 features:
+***** AXps containing 3 *****
+Solving FMP (CPU) time: 91.69 secs
+iris, 132-th inst file out of 150
+2QBF: query on feature 2 out of 4 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 55.91 secs
+iris, 133-th inst file out of 150
+2QBF: query on feature 3 out of 4 features:
+***** AXps containing 3 *****
+Solving FMP (CPU) time: 0.35 secs
+iris, 134-th inst file out of 150
+2QBF: query on feature 0 out of 4 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 49.08 secs
+iris, 135-th inst file out of 150
+2QBF: query on feature 2 out of 4 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 63.21 secs
+iris, 136-th inst file out of 150
+2QBF: query on feature 1 out of 4 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 4.66 secs
+iris, 137-th inst file out of 150
+2QBF: query on feature 1 out of 4 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 45.03 secs
+iris, 138-th inst file out of 150
+2QBF: query on feature 0 out of 4 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 6.78 secs
+iris, 139-th inst file out of 150
+2QBF: query on feature 0 out of 4 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 51.28 secs
+iris, 140-th inst file out of 150
+2QBF: query on feature 3 out of 4 features:
+***** AXps containing 3 *****
+Solving FMP (CPU) time: 0.36 secs
+iris, 141-th inst file out of 150
+2QBF: query on feature 2 out of 4 features:
+***** AXps containing 2 *****
+Solving FMP (CPU) time: 17.47 secs
+iris, 142-th inst file out of 150
+2QBF: query on feature 3 out of 4 features:
+***** AXps containing 3 *****
+Solving FMP (CPU) time: 0.34 secs
+iris, 143-th inst file out of 150
+2QBF: query on feature 2 out of 4 features:
+***** AXps containing 2 *****
+Solving FMP (CPU) time: 53.84 secs
+iris, 144-th inst file out of 150
+2QBF: query on feature 2 out of 4 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 162.55 secs
+iris, 145-th inst file out of 150
+2QBF: query on feature 2 out of 4 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 106.32 secs
+iris, 146-th inst file out of 150
+2QBF: query on feature 1 out of 4 features:
+***** AXps containing 1 *****
+Solving FMP (CPU) time: 102.27 secs
+iris, 147-th inst file out of 150
+2QBF: query on feature 0 out of 4 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 50.99 secs
+iris, 148-th inst file out of 150
+2QBF: query on feature 2 out of 4 features:
+***** AXps containing 2 *****
+Solving FMP (CPU) time: 19.79 secs
+iris, 149-th inst file out of 150
+2QBF: query on feature 1 out of 4 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 114.00 secs
+iris & 150 & 4 & #C & 4 & 224 & A% & 13042 & 34969 & 77 & 0 & 0 & 2150.293 & 102.271 & 0.344 & 27.926 & 2986.779 & 162.554 & 4.579 & 40.915
+
+############ mofn_3_7_10 ############
+c nof features: 10
+c nof classes: 2
+c nof samples: 1024
+Loading rf_models/RF2001/mofn_3_7_10/mofn_3_7_10_nbestim_20_maxdepth_4.mod.pkl
+Using solver: depqbf
+
+mofn_3_7_10, 0-th inst file out of 200
+2QBF: query on feature 3 out of 10 features:
+***** AXps containing 3 *****
+Solving FMP (CPU) time: 0.06 secs
+mofn_3_7_10, 1-th inst file out of 200
+2QBF: query on feature 9 out of 10 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 25.40 secs
+mofn_3_7_10, 2-th inst file out of 200
+2QBF: query on feature 7 out of 10 features:
+***** AXps containing 7 *****
+Solving FMP (CPU) time: 2.76 secs
+mofn_3_7_10, 3-th inst file out of 200
+2QBF: query on feature 2 out of 10 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 56.98 secs
+mofn_3_7_10, 4-th inst file out of 200
+2QBF: query on feature 8 out of 10 features:
+***** AXps containing 8 *****
+Solving FMP (CPU) time: 5.78 secs
+mofn_3_7_10, 5-th inst file out of 200
+2QBF: query on feature 8 out of 10 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 36.04 secs
+mofn_3_7_10, 6-th inst file out of 200
+2QBF: query on feature 8 out of 10 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 46.09 secs
+mofn_3_7_10, 7-th inst file out of 200
+2QBF: query on feature 6 out of 10 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 65.47 secs
+mofn_3_7_10, 8-th inst file out of 200
+2QBF: query on feature 2 out of 10 features:
+***** AXps containing 2 *****
+Solving FMP (CPU) time: 0.20 secs
+mofn_3_7_10, 9-th inst file out of 200
+2QBF: query on feature 9 out of 10 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 28.61 secs
+mofn_3_7_10, 10-th inst file out of 200
+2QBF: query on feature 4 out of 10 features:
+***** AXps containing 4 *****
+Solving FMP (CPU) time: 8.07 secs
+mofn_3_7_10, 11-th inst file out of 200
+2QBF: query on feature 0 out of 10 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 11.83 secs
+mofn_3_7_10, 12-th inst file out of 200
+2QBF: query on feature 4 out of 10 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 11.69 secs
+mofn_3_7_10, 13-th inst file out of 200
+2QBF: query on feature 1 out of 10 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 23.25 secs
+mofn_3_7_10, 14-th inst file out of 200
+2QBF: query on feature 9 out of 10 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 11.91 secs
+mofn_3_7_10, 15-th inst file out of 200
+2QBF: query on feature 5 out of 10 features:
+***** AXps containing 5 *****
+Solving FMP (CPU) time: 13.50 secs
+mofn_3_7_10, 16-th inst file out of 200
+2QBF: query on feature 4 out of 10 features:
+***** AXps containing 4 *****
+Solving FMP (CPU) time: 0.07 secs
+mofn_3_7_10, 17-th inst file out of 200
+2QBF: query on feature 2 out of 10 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 14.78 secs
+mofn_3_7_10, 18-th inst file out of 200
+2QBF: query on feature 6 out of 10 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 32.37 secs
+mofn_3_7_10, 19-th inst file out of 200
+2QBF: query on feature 7 out of 10 features:
+***** AXps containing 7 *****
+Solving FMP (CPU) time: 7.70 secs
+mofn_3_7_10, 20-th inst file out of 200
+2QBF: query on feature 0 out of 10 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 68.62 secs
+mofn_3_7_10, 21-th inst file out of 200
+2QBF: query on feature 5 out of 10 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 6.38 secs
+mofn_3_7_10, 22-th inst file out of 200
+2QBF: query on feature 7 out of 10 features:
+***** AXps containing 7 *****
+Solving FMP (CPU) time: 0.10 secs
+mofn_3_7_10, 23-th inst file out of 200
+2QBF: query on feature 6 out of 10 features:
+***** AXps containing 6 *****
+Solving FMP (CPU) time: 0.06 secs
+mofn_3_7_10, 24-th inst file out of 200
+2QBF: query on feature 9 out of 10 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 11.71 secs
+mofn_3_7_10, 25-th inst file out of 200
+2QBF: query on feature 5 out of 10 features:
+***** AXps containing 5 *****
+Solving FMP (CPU) time: 0.10 secs
+mofn_3_7_10, 26-th inst file out of 200
+2QBF: query on feature 8 out of 10 features:
+***** AXps containing 8 *****
+Solving FMP (CPU) time: 0.06 secs
+mofn_3_7_10, 27-th inst file out of 200
+2QBF: query on feature 3 out of 10 features:
+***** AXps containing 3 *****
+Solving FMP (CPU) time: 7.27 secs
+mofn_3_7_10, 28-th inst file out of 200
+2QBF: query on feature 5 out of 10 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 11.79 secs
+mofn_3_7_10, 29-th inst file out of 200
+2QBF: query on feature 4 out of 10 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 46.22 secs
+mofn_3_7_10, 30-th inst file out of 200
+2QBF: query on feature 8 out of 10 features:
+***** AXps containing 8 *****
+Solving FMP (CPU) time: 0.07 secs
+mofn_3_7_10, 31-th inst file out of 200
+2QBF: query on feature 6 out of 10 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 0.53 secs
+mofn_3_7_10, 32-th inst file out of 200
+2QBF: query on feature 2 out of 10 features:
+***** AXps containing 2 *****
+Solving FMP (CPU) time: 0.06 secs
+mofn_3_7_10, 33-th inst file out of 200
+2QBF: query on feature 7 out of 10 features:
+***** AXps containing 7 *****
+Solving FMP (CPU) time: 0.12 secs
+mofn_3_7_10, 34-th inst file out of 200
+2QBF: query on feature 4 out of 10 features:
+***** AXps containing 4 *****
+Solving FMP (CPU) time: 11.48 secs
+mofn_3_7_10, 35-th inst file out of 200
+2QBF: query on feature 3 out of 10 features:
+***** AXps containing 3 *****
+Solving FMP (CPU) time: 10.54 secs
+mofn_3_7_10, 36-th inst file out of 200
+2QBF: query on feature 9 out of 10 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 12.44 secs
+mofn_3_7_10, 37-th inst file out of 200
+2QBF: query on feature 1 out of 10 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 15.35 secs
+mofn_3_7_10, 38-th inst file out of 200
+2QBF: query on feature 1 out of 10 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 47.43 secs
+mofn_3_7_10, 39-th inst file out of 200
+2QBF: query on feature 5 out of 10 features:
+***** AXps containing 5 *****
+Solving FMP (CPU) time: 11.35 secs
+mofn_3_7_10, 40-th inst file out of 200
+2QBF: query on feature 4 out of 10 features:
+***** AXps containing 4 *****
+Solving FMP (CPU) time: 0.20 secs
+mofn_3_7_10, 41-th inst file out of 200
+2QBF: query on feature 2 out of 10 features:
+***** AXps containing 2 *****
+Solving FMP (CPU) time: 0.73 secs
+mofn_3_7_10, 42-th inst file out of 200
+2QBF: query on feature 3 out of 10 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 50.91 secs
+mofn_3_7_10, 43-th inst file out of 200
+2QBF: query on feature 6 out of 10 features:
+***** AXps containing 6 *****
+Solving FMP (CPU) time: 7.12 secs
+mofn_3_7_10, 44-th inst file out of 200
+2QBF: query on feature 2 out of 10 features:
+***** AXps containing 2 *****
+Solving FMP (CPU) time: 2.48 secs
+mofn_3_7_10, 45-th inst file out of 200
+2QBF: query on feature 0 out of 10 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 2.16 secs
+mofn_3_7_10, 46-th inst file out of 200
+2QBF: query on feature 5 out of 10 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 66.48 secs
+mofn_3_7_10, 47-th inst file out of 200
+2QBF: query on feature 4 out of 10 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 13.11 secs
+mofn_3_7_10, 48-th inst file out of 200
+2QBF: query on feature 8 out of 10 features:
+***** AXps containing 8 *****
+Solving FMP (CPU) time: 0.07 secs
+mofn_3_7_10, 49-th inst file out of 200
+2QBF: query on feature 8 out of 10 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 27.59 secs
+mofn_3_7_10, 50-th inst file out of 200
+2QBF: query on feature 2 out of 10 features:
+***** AXps containing 2 *****
+Solving FMP (CPU) time: 0.34 secs
+mofn_3_7_10, 51-th inst file out of 200
+2QBF: query on feature 4 out of 10 features:
+***** AXps containing 4 *****
+Solving FMP (CPU) time: 0.46 secs
+mofn_3_7_10, 52-th inst file out of 200
+2QBF: query on feature 2 out of 10 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 27.13 secs
+mofn_3_7_10, 53-th inst file out of 200
+2QBF: query on feature 9 out of 10 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1.37 secs
+mofn_3_7_10, 54-th inst file out of 200
+2QBF: query on feature 2 out of 10 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 0.60 secs
+mofn_3_7_10, 55-th inst file out of 200
+2QBF: query on feature 9 out of 10 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 54.54 secs
+mofn_3_7_10, 56-th inst file out of 200
+2QBF: query on feature 6 out of 10 features:
+***** AXps containing 6 *****
+Solving FMP (CPU) time: 0.15 secs
+mofn_3_7_10, 57-th inst file out of 200
+2QBF: query on feature 3 out of 10 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 29.07 secs
+mofn_3_7_10, 58-th inst file out of 200
+2QBF: query on feature 5 out of 10 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 32.81 secs
+mofn_3_7_10, 59-th inst file out of 200
+2QBF: query on feature 5 out of 10 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 56.24 secs
+mofn_3_7_10, 60-th inst file out of 200
+2QBF: query on feature 1 out of 10 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 76.96 secs
+mofn_3_7_10, 61-th inst file out of 200
+2QBF: query on feature 8 out of 10 features:
+***** AXps containing 8 *****
+Solving FMP (CPU) time: 3.93 secs
+mofn_3_7_10, 62-th inst file out of 200
+2QBF: query on feature 4 out of 10 features:
+***** AXps containing 4 *****
+Solving FMP (CPU) time: 3.38 secs
+mofn_3_7_10, 63-th inst file out of 200
+2QBF: query on feature 1 out of 10 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 51.06 secs
+mofn_3_7_10, 64-th inst file out of 200
+2QBF: query on feature 9 out of 10 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 79.72 secs
+mofn_3_7_10, 65-th inst file out of 200
+2QBF: query on feature 9 out of 10 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 44.55 secs
+mofn_3_7_10, 66-th inst file out of 200
+2QBF: query on feature 9 out of 10 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 57.74 secs
+mofn_3_7_10, 67-th inst file out of 200
+2QBF: query on feature 4 out of 10 features:
+***** AXps containing 4 *****
+Solving FMP (CPU) time: 3.20 secs
+mofn_3_7_10, 68-th inst file out of 200
+2QBF: query on feature 3 out of 10 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 12.23 secs
+mofn_3_7_10, 69-th inst file out of 200
+2QBF: query on feature 5 out of 10 features:
+***** AXps containing 5 *****
+Solving FMP (CPU) time: 0.35 secs
+mofn_3_7_10, 70-th inst file out of 200
+2QBF: query on feature 2 out of 10 features:
+***** AXps containing 2 *****
+Solving FMP (CPU) time: 0.66 secs
+mofn_3_7_10, 71-th inst file out of 200
+2QBF: query on feature 4 out of 10 features:
+***** AXps containing 4 *****
+Solving FMP (CPU) time: 0.07 secs
+mofn_3_7_10, 72-th inst file out of 200
+2QBF: query on feature 9 out of 10 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 68.13 secs
+mofn_3_7_10, 73-th inst file out of 200
+2QBF: query on feature 5 out of 10 features:
+***** AXps containing 5 *****
+Solving FMP (CPU) time: 0.06 secs
+mofn_3_7_10, 74-th inst file out of 200
+2QBF: query on feature 7 out of 10 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1.39 secs
+mofn_3_7_10, 75-th inst file out of 200
+2QBF: query on feature 0 out of 10 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 44.89 secs
+mofn_3_7_10, 76-th inst file out of 200
+2QBF: query on feature 3 out of 10 features:
+***** AXps containing 3 *****
+Solving FMP (CPU) time: 0.07 secs
+mofn_3_7_10, 77-th inst file out of 200
+2QBF: query on feature 1 out of 10 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 29.52 secs
+mofn_3_7_10, 78-th inst file out of 200
+2QBF: query on feature 9 out of 10 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 31.75 secs
+mofn_3_7_10, 79-th inst file out of 200
+2QBF: query on feature 0 out of 10 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 13.02 secs
+mofn_3_7_10, 80-th inst file out of 200
+2QBF: query on feature 2 out of 10 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 43.20 secs
+mofn_3_7_10, 81-th inst file out of 200
+2QBF: query on feature 0 out of 10 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 75.07 secs
+mofn_3_7_10, 82-th inst file out of 200
+2QBF: query on feature 4 out of 10 features:
+***** AXps containing 4 *****
+Solving FMP (CPU) time: 0.07 secs
+mofn_3_7_10, 83-th inst file out of 200
+2QBF: query on feature 4 out of 10 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 38.71 secs
+mofn_3_7_10, 84-th inst file out of 200
+2QBF: query on feature 6 out of 10 features:
+***** AXps containing 6 *****
+Solving FMP (CPU) time: 0.35 secs
+mofn_3_7_10, 85-th inst file out of 200
+2QBF: query on feature 7 out of 10 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 23.28 secs
+mofn_3_7_10, 86-th inst file out of 200
+2QBF: query on feature 4 out of 10 features:
+***** AXps containing 4 *****
+Solving FMP (CPU) time: 2.37 secs
+mofn_3_7_10, 87-th inst file out of 200
+2QBF: query on feature 1 out of 10 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 28.83 secs
+mofn_3_7_10, 88-th inst file out of 200
+2QBF: query on feature 5 out of 10 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 43.04 secs
+mofn_3_7_10, 89-th inst file out of 200
+2QBF: query on feature 3 out of 10 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 29.38 secs
+mofn_3_7_10, 90-th inst file out of 200
+2QBF: query on feature 5 out of 10 features:
+***** AXps containing 5 *****
+Solving FMP (CPU) time: 0.73 secs
+mofn_3_7_10, 91-th inst file out of 200
+2QBF: query on feature 8 out of 10 features:
+***** AXps containing 8 *****
+Solving FMP (CPU) time: 4.86 secs
+mofn_3_7_10, 92-th inst file out of 200
+2QBF: query on feature 0 out of 10 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 92.12 secs
+mofn_3_7_10, 93-th inst file out of 200
+2QBF: query on feature 2 out of 10 features:
+***** AXps containing 2 *****
+Solving FMP (CPU) time: 0.07 secs
+mofn_3_7_10, 94-th inst file out of 200
+2QBF: query on feature 3 out of 10 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 11.22 secs
+mofn_3_7_10, 95-th inst file out of 200
+2QBF: query on feature 7 out of 10 features:
+***** AXps containing 7 *****
+Solving FMP (CPU) time: 3.52 secs
+mofn_3_7_10, 96-th inst file out of 200
+2QBF: query on feature 3 out of 10 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 39.08 secs
+mofn_3_7_10, 97-th inst file out of 200
+2QBF: query on feature 5 out of 10 features:
+***** AXps containing 5 *****
+Solving FMP (CPU) time: 0.06 secs
+mofn_3_7_10, 98-th inst file out of 200
+2QBF: query on feature 3 out of 10 features:
+***** AXps containing 3 *****
+Solving FMP (CPU) time: 0.07 secs
+mofn_3_7_10, 99-th inst file out of 200
+2QBF: query on feature 8 out of 10 features:
+***** AXps containing 8 *****
+Solving FMP (CPU) time: 3.43 secs
+mofn_3_7_10, 100-th inst file out of 200
+2QBF: query on feature 3 out of 10 features:
+***** AXps containing 3 *****
+Solving FMP (CPU) time: 7.57 secs
+mofn_3_7_10, 101-th inst file out of 200
+2QBF: query on feature 9 out of 10 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 34.88 secs
+mofn_3_7_10, 102-th inst file out of 200
+2QBF: query on feature 8 out of 10 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 42.47 secs
+mofn_3_7_10, 103-th inst file out of 200
+2QBF: query on feature 2 out of 10 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 66.31 secs
+mofn_3_7_10, 104-th inst file out of 200
+2QBF: query on feature 8 out of 10 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 17.28 secs
+mofn_3_7_10, 105-th inst file out of 200
+2QBF: query on feature 4 out of 10 features:
+***** AXps containing 4 *****
+Solving FMP (CPU) time: 0.07 secs
+mofn_3_7_10, 106-th inst file out of 200
+2QBF: query on feature 6 out of 10 features:
+***** AXps containing 6 *****
+Solving FMP (CPU) time: 0.71 secs
+mofn_3_7_10, 107-th inst file out of 200
+2QBF: query on feature 5 out of 10 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 46.15 secs
+mofn_3_7_10, 108-th inst file out of 200
+2QBF: query on feature 9 out of 10 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 55.78 secs
+mofn_3_7_10, 109-th inst file out of 200
+2QBF: query on feature 4 out of 10 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 13.67 secs
+mofn_3_7_10, 110-th inst file out of 200
+2QBF: query on feature 6 out of 10 features:
+***** AXps containing 6 *****
+Solving FMP (CPU) time: 0.46 secs
+mofn_3_7_10, 111-th inst file out of 200
+2QBF: query on feature 4 out of 10 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 46.20 secs
+mofn_3_7_10, 112-th inst file out of 200
+2QBF: query on feature 9 out of 10 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 2.46 secs
+mofn_3_7_10, 113-th inst file out of 200
+2QBF: query on feature 1 out of 10 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 15.14 secs
+mofn_3_7_10, 114-th inst file out of 200
+2QBF: query on feature 2 out of 10 features:
+***** AXps containing 2 *****
+Solving FMP (CPU) time: 3.99 secs
+mofn_3_7_10, 115-th inst file out of 200
+2QBF: query on feature 7 out of 10 features:
+***** AXps containing 7 *****
+Solving FMP (CPU) time: 13.48 secs
+mofn_3_7_10, 116-th inst file out of 200
+2QBF: query on feature 2 out of 10 features:
+***** AXps containing 2 *****
+Solving FMP (CPU) time: 0.07 secs
+mofn_3_7_10, 117-th inst file out of 200
+2QBF: query on feature 2 out of 10 features:
+***** AXps containing 2 *****
+Solving FMP (CPU) time: 3.06 secs
+mofn_3_7_10, 118-th inst file out of 200
+2QBF: query on feature 4 out of 10 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 57.59 secs
+mofn_3_7_10, 119-th inst file out of 200
+2QBF: query on feature 8 out of 10 features:
+***** AXps containing 8 *****
+Solving FMP (CPU) time: 2.87 secs
+mofn_3_7_10, 120-th inst file out of 200
+2QBF: query on feature 9 out of 10 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 62.66 secs
+mofn_3_7_10, 121-th inst file out of 200
+2QBF: query on feature 9 out of 10 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 54.88 secs
+mofn_3_7_10, 122-th inst file out of 200
+2QBF: query on feature 1 out of 10 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 83.30 secs
+mofn_3_7_10, 123-th inst file out of 200
+2QBF: query on feature 2 out of 10 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 11.96 secs
+mofn_3_7_10, 124-th inst file out of 200
+2QBF: query on feature 5 out of 10 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 17.99 secs
+mofn_3_7_10, 125-th inst file out of 200
+2QBF: query on feature 2 out of 10 features:
+***** AXps containing 2 *****
+Solving FMP (CPU) time: 2.64 secs
+mofn_3_7_10, 126-th inst file out of 200
+2QBF: query on feature 3 out of 10 features:
+***** AXps containing 3 *****
+Solving FMP (CPU) time: 0.07 secs
+mofn_3_7_10, 127-th inst file out of 200
+2QBF: query on feature 4 out of 10 features:
+***** AXps containing 4 *****
+Solving FMP (CPU) time: 0.18 secs
+mofn_3_7_10, 128-th inst file out of 200
+2QBF: query on feature 3 out of 10 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 72.06 secs
+mofn_3_7_10, 129-th inst file out of 200
+2QBF: query on feature 9 out of 10 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1.30 secs
+mofn_3_7_10, 130-th inst file out of 200
+2QBF: query on feature 0 out of 10 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 35.45 secs
+mofn_3_7_10, 131-th inst file out of 200
+2QBF: query on feature 1 out of 10 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 55.35 secs
+mofn_3_7_10, 132-th inst file out of 200
+2QBF: query on feature 5 out of 10 features:
+***** AXps containing 5 *****
+Solving FMP (CPU) time: 0.06 secs
+mofn_3_7_10, 133-th inst file out of 200
+2QBF: query on feature 3 out of 10 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 29.95 secs
+mofn_3_7_10, 134-th inst file out of 200
+2QBF: query on feature 8 out of 10 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 8.46 secs
+mofn_3_7_10, 135-th inst file out of 200
+2QBF: query on feature 8 out of 10 features:
+***** AXps containing 8 *****
+Solving FMP (CPU) time: 0.15 secs
+mofn_3_7_10, 136-th inst file out of 200
+2QBF: query on feature 8 out of 10 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 33.33 secs
+mofn_3_7_10, 137-th inst file out of 200
+2QBF: query on feature 4 out of 10 features:
+***** AXps containing 4 *****
+Solving FMP (CPU) time: 0.46 secs
+mofn_3_7_10, 138-th inst file out of 200
+2QBF: query on feature 2 out of 10 features:
+***** AXps containing 2 *****
+Solving FMP (CPU) time: 10.25 secs
+mofn_3_7_10, 139-th inst file out of 200
+2QBF: query on feature 4 out of 10 features:
+***** AXps containing 4 *****
+Solving FMP (CPU) time: 2.96 secs
+mofn_3_7_10, 140-th inst file out of 200
+2QBF: query on feature 4 out of 10 features:
+***** AXps containing 4 *****
+Solving FMP (CPU) time: 4.16 secs
+mofn_3_7_10, 141-th inst file out of 200
+2QBF: query on feature 6 out of 10 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 20.54 secs
+mofn_3_7_10, 142-th inst file out of 200
+2QBF: query on feature 9 out of 10 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 82.73 secs
+mofn_3_7_10, 143-th inst file out of 200
+2QBF: query on feature 4 out of 10 features:
+***** AXps containing 4 *****
+Solving FMP (CPU) time: 3.38 secs
+mofn_3_7_10, 144-th inst file out of 200
+2QBF: query on feature 1 out of 10 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 60.52 secs
+mofn_3_7_10, 145-th inst file out of 200
+2QBF: query on feature 9 out of 10 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 100.83 secs
+mofn_3_7_10, 146-th inst file out of 200
+2QBF: query on feature 0 out of 10 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 29.00 secs
+mofn_3_7_10, 147-th inst file out of 200
+2QBF: query on feature 1 out of 10 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 13.52 secs
+mofn_3_7_10, 148-th inst file out of 200
+2QBF: query on feature 2 out of 10 features:
+***** AXps containing 2 *****
+Solving FMP (CPU) time: 10.44 secs
+mofn_3_7_10, 149-th inst file out of 200
+2QBF: query on feature 5 out of 10 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 37.05 secs
+mofn_3_7_10, 150-th inst file out of 200
+2QBF: query on feature 0 out of 10 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 5.90 secs
+mofn_3_7_10, 151-th inst file out of 200
+2QBF: query on feature 0 out of 10 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 13.27 secs
+mofn_3_7_10, 152-th inst file out of 200
+2QBF: query on feature 5 out of 10 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 0.97 secs
+mofn_3_7_10, 153-th inst file out of 200
+2QBF: query on feature 8 out of 10 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 83.68 secs
+mofn_3_7_10, 154-th inst file out of 200
+2QBF: query on feature 8 out of 10 features:
+***** AXps containing 8 *****
+Solving FMP (CPU) time: 0.16 secs
+mofn_3_7_10, 155-th inst file out of 200
+2QBF: query on feature 0 out of 10 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 24.07 secs
+mofn_3_7_10, 156-th inst file out of 200
+2QBF: query on feature 2 out of 10 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 53.48 secs
+mofn_3_7_10, 157-th inst file out of 200
+2QBF: query on feature 7 out of 10 features:
+***** AXps containing 7 *****
+Solving FMP (CPU) time: 2.90 secs
+mofn_3_7_10, 158-th inst file out of 200
+2QBF: query on feature 5 out of 10 features:
+***** AXps containing 5 *****
+Solving FMP (CPU) time: 0.06 secs
+mofn_3_7_10, 159-th inst file out of 200
+2QBF: query on feature 6 out of 10 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 104.80 secs
+mofn_3_7_10, 160-th inst file out of 200
+2QBF: query on feature 4 out of 10 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1.69 secs
+mofn_3_7_10, 161-th inst file out of 200
+2QBF: query on feature 1 out of 10 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1.76 secs
+mofn_3_7_10, 162-th inst file out of 200
+2QBF: query on feature 3 out of 10 features:
+***** AXps containing 3 *****
+Solving FMP (CPU) time: 0.18 secs
+mofn_3_7_10, 163-th inst file out of 200
+2QBF: query on feature 1 out of 10 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 39.47 secs
+mofn_3_7_10, 164-th inst file out of 200
+2QBF: query on feature 9 out of 10 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 13.18 secs
+mofn_3_7_10, 165-th inst file out of 200
+2QBF: query on feature 6 out of 10 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 36.70 secs
+mofn_3_7_10, 166-th inst file out of 200
+2QBF: query on feature 4 out of 10 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 45.01 secs
+mofn_3_7_10, 167-th inst file out of 200
+2QBF: query on feature 7 out of 10 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 41.56 secs
+mofn_3_7_10, 168-th inst file out of 200
+2QBF: query on feature 8 out of 10 features:
+***** AXps containing 8 *****
+Solving FMP (CPU) time: 3.55 secs
+mofn_3_7_10, 169-th inst file out of 200
+2QBF: query on feature 8 out of 10 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 23.87 secs
+mofn_3_7_10, 170-th inst file out of 200
+2QBF: query on feature 0 out of 10 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 9.45 secs
+mofn_3_7_10, 171-th inst file out of 200
+2QBF: query on feature 7 out of 10 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 11.46 secs
+mofn_3_7_10, 172-th inst file out of 200
+2QBF: query on feature 6 out of 10 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 79.87 secs
+mofn_3_7_10, 173-th inst file out of 200
+2QBF: query on feature 1 out of 10 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 76.79 secs
+mofn_3_7_10, 174-th inst file out of 200
+2QBF: query on feature 7 out of 10 features:
+***** AXps containing 7 *****
+Solving FMP (CPU) time: 10.06 secs
+mofn_3_7_10, 175-th inst file out of 200
+2QBF: query on feature 5 out of 10 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 18.76 secs
+mofn_3_7_10, 176-th inst file out of 200
+2QBF: query on feature 0 out of 10 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 56.14 secs
+mofn_3_7_10, 177-th inst file out of 200
+2QBF: query on feature 7 out of 10 features:
+***** AXps containing 7 *****
+Solving FMP (CPU) time: 11.47 secs
+mofn_3_7_10, 178-th inst file out of 200
+2QBF: query on feature 5 out of 10 features:
+***** AXps containing 5 *****
+Solving FMP (CPU) time: 0.07 secs
+mofn_3_7_10, 179-th inst file out of 200
+2QBF: query on feature 9 out of 10 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 46.75 secs
+mofn_3_7_10, 180-th inst file out of 200
+2QBF: query on feature 5 out of 10 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 49.95 secs
+mofn_3_7_10, 181-th inst file out of 200
+2QBF: query on feature 5 out of 10 features:
+***** AXps containing 5 *****
+Solving FMP (CPU) time: 0.35 secs
+mofn_3_7_10, 182-th inst file out of 200
+2QBF: query on feature 9 out of 10 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 40.60 secs
+mofn_3_7_10, 183-th inst file out of 200
+2QBF: query on feature 1 out of 10 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 26.13 secs
+mofn_3_7_10, 184-th inst file out of 200
+2QBF: query on feature 8 out of 10 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 17.13 secs
+mofn_3_7_10, 185-th inst file out of 200
+2QBF: query on feature 7 out of 10 features:
+***** AXps containing 7 *****
+Solving FMP (CPU) time: 0.15 secs
+mofn_3_7_10, 186-th inst file out of 200
+2QBF: query on feature 3 out of 10 features:
+***** AXps containing 3 *****
+Solving FMP (CPU) time: 0.18 secs
+mofn_3_7_10, 187-th inst file out of 200
+2QBF: query on feature 6 out of 10 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 34.83 secs
+mofn_3_7_10, 188-th inst file out of 200
+2QBF: query on feature 7 out of 10 features:
+***** AXps containing 7 *****
+Solving FMP (CPU) time: 0.20 secs
+mofn_3_7_10, 189-th inst file out of 200
+2QBF: query on feature 1 out of 10 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 55.65 secs
+mofn_3_7_10, 190-th inst file out of 200
+2QBF: query on feature 7 out of 10 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 26.21 secs
+mofn_3_7_10, 191-th inst file out of 200
+2QBF: query on feature 6 out of 10 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 23.66 secs
+mofn_3_7_10, 192-th inst file out of 200
+2QBF: query on feature 9 out of 10 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 57.93 secs
+mofn_3_7_10, 193-th inst file out of 200
+2QBF: query on feature 1 out of 10 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 13.38 secs
+mofn_3_7_10, 194-th inst file out of 200
+2QBF: query on feature 4 out of 10 features:
+***** AXps containing 4 *****
+Solving FMP (CPU) time: 0.20 secs
+mofn_3_7_10, 195-th inst file out of 200
+2QBF: query on feature 0 out of 10 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1.70 secs
+mofn_3_7_10, 196-th inst file out of 200
+2QBF: query on feature 3 out of 10 features:
+***** AXps containing 3 *****
+Solving FMP (CPU) time: 0.34 secs
+mofn_3_7_10, 197-th inst file out of 200
+2QBF: query on feature 3 out of 10 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 43.03 secs
+mofn_3_7_10, 198-th inst file out of 200
+2QBF: query on feature 1 out of 10 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 60.08 secs
+mofn_3_7_10, 199-th inst file out of 200
+2QBF: query on feature 7 out of 10 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 68.57 secs
+mofn_3_7_10 & 200 & 10 & #C & 4 & 582 & A% & 2672 & 9397 & 79 & 0 & 0 & 215.056 & 13.501 & 0.060 & 2.722 & 4398.092 & 104.804 & 0.526 & 36.348
+
+############ monk3 ############
+c nof features: 6
+c nof classes: 2
+c nof samples: 438
+Loading rf_models/RF2001/monk3/monk3_nbestim_20_maxdepth_4.mod.pkl
+Using solver: depqbf
+
+monk3, 0-th inst file out of 200
+2QBF: query on feature 2 out of 6 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1.79 secs
+monk3, 1-th inst file out of 200
+2QBF: query on feature 3 out of 6 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1.23 secs
+monk3, 2-th inst file out of 200
+2QBF: query on feature 1 out of 6 features:
+***** AXps containing 1 *****
+Solving FMP (CPU) time: 0.17 secs
+monk3, 3-th inst file out of 200
+2QBF: query on feature 3 out of 6 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 0.39 secs
+monk3, 4-th inst file out of 200
+2QBF: query on feature 0 out of 6 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1.20 secs
+monk3, 5-th inst file out of 200
+2QBF: query on feature 4 out of 6 features:
+***** AXps containing 4 *****
+Solving FMP (CPU) time: 0.57 secs
+monk3, 6-th inst file out of 200
+2QBF: query on feature 3 out of 6 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1.19 secs
+monk3, 7-th inst file out of 200
+2QBF: query on feature 4 out of 6 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1.59 secs
+monk3, 8-th inst file out of 200
+2QBF: query on feature 2 out of 6 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1.16 secs
+monk3, 9-th inst file out of 200
+2QBF: query on feature 4 out of 6 features:
+***** AXps containing 4 *****
+Solving FMP (CPU) time: 0.08 secs
+monk3, 10-th inst file out of 200
+2QBF: query on feature 5 out of 6 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 0.45 secs
+monk3, 11-th inst file out of 200
+2QBF: query on feature 2 out of 6 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1.45 secs
+monk3, 12-th inst file out of 200
+2QBF: query on feature 3 out of 6 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1.25 secs
+monk3, 13-th inst file out of 200
+2QBF: query on feature 0 out of 6 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1.21 secs
+monk3, 14-th inst file out of 200
+2QBF: query on feature 3 out of 6 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 0.38 secs
+monk3, 15-th inst file out of 200
+2QBF: query on feature 2 out of 6 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 0.36 secs
+monk3, 16-th inst file out of 200
+2QBF: query on feature 3 out of 6 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 0.40 secs
+monk3, 17-th inst file out of 200
+2QBF: query on feature 4 out of 6 features:
+***** AXps containing 4 *****
+Solving FMP (CPU) time: 0.24 secs
+monk3, 18-th inst file out of 200
+2QBF: query on feature 5 out of 6 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 0.38 secs
+monk3, 19-th inst file out of 200
+2QBF: query on feature 4 out of 6 features:
+***** AXps containing 4 *****
+Solving FMP (CPU) time: 0.24 secs
+monk3, 20-th inst file out of 200
+2QBF: query on feature 0 out of 6 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1.29 secs
+monk3, 21-th inst file out of 200
+2QBF: query on feature 0 out of 6 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1.23 secs
+monk3, 22-th inst file out of 200
+2QBF: query on feature 4 out of 6 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1.69 secs
+monk3, 23-th inst file out of 200
+2QBF: query on feature 5 out of 6 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 0.67 secs
+monk3, 24-th inst file out of 200
+2QBF: query on feature 2 out of 6 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1.16 secs
+monk3, 25-th inst file out of 200
+2QBF: query on feature 0 out of 6 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1.30 secs
+monk3, 26-th inst file out of 200
+2QBF: query on feature 1 out of 6 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1.29 secs
+monk3, 27-th inst file out of 200
+2QBF: query on feature 1 out of 6 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1.19 secs
+monk3, 28-th inst file out of 200
+2QBF: query on feature 2 out of 6 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 2.18 secs
+monk3, 29-th inst file out of 200
+2QBF: query on feature 0 out of 6 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 2.09 secs
+monk3, 30-th inst file out of 200
+2QBF: query on feature 2 out of 6 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1.39 secs
+monk3, 31-th inst file out of 200
+2QBF: query on feature 2 out of 6 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1.28 secs
+monk3, 32-th inst file out of 200
+2QBF: query on feature 4 out of 6 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1.63 secs
+monk3, 33-th inst file out of 200
+2QBF: query on feature 2 out of 6 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1.14 secs
+monk3, 34-th inst file out of 200
+2QBF: query on feature 0 out of 6 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 0.39 secs
+monk3, 35-th inst file out of 200
+2QBF: query on feature 4 out of 6 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1.67 secs
+monk3, 36-th inst file out of 200
+2QBF: query on feature 1 out of 6 features:
+***** AXps containing 1 *****
+Solving FMP (CPU) time: 0.08 secs
+monk3, 37-th inst file out of 200
+2QBF: query on feature 2 out of 6 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1.07 secs
+monk3, 38-th inst file out of 200
+2QBF: query on feature 4 out of 6 features:
+***** AXps containing 4 *****
+Solving FMP (CPU) time: 0.57 secs
+monk3, 39-th inst file out of 200
+2QBF: query on feature 2 out of 6 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1.81 secs
+monk3, 40-th inst file out of 200
+2QBF: query on feature 0 out of 6 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 2.01 secs
+monk3, 41-th inst file out of 200
+2QBF: query on feature 5 out of 6 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 0.40 secs
+monk3, 42-th inst file out of 200
+2QBF: query on feature 0 out of 6 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1.19 secs
+monk3, 43-th inst file out of 200
+2QBF: query on feature 3 out of 6 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1.52 secs
+monk3, 44-th inst file out of 200
+2QBF: query on feature 1 out of 6 features:
+***** AXps containing 1 *****
+Solving FMP (CPU) time: 0.08 secs
+monk3, 45-th inst file out of 200
+2QBF: query on feature 1 out of 6 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 0.94 secs
+monk3, 46-th inst file out of 200
+2QBF: query on feature 0 out of 6 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 0.48 secs
+monk3, 47-th inst file out of 200
+2QBF: query on feature 5 out of 6 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 0.66 secs
+monk3, 48-th inst file out of 200
+2QBF: query on feature 2 out of 6 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 0.75 secs
+monk3, 49-th inst file out of 200
+2QBF: query on feature 1 out of 6 features:
+***** AXps containing 1 *****
+Solving FMP (CPU) time: 0.08 secs
+monk3, 50-th inst file out of 200
+2QBF: query on feature 2 out of 6 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1.17 secs
+monk3, 51-th inst file out of 200
+2QBF: query on feature 3 out of 6 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 0.38 secs
+monk3, 52-th inst file out of 200
+2QBF: query on feature 2 out of 6 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1.17 secs
+monk3, 53-th inst file out of 200
+2QBF: query on feature 3 out of 6 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 0.40 secs
+monk3, 54-th inst file out of 200
+2QBF: query on feature 4 out of 6 features:
+***** AXps containing 4 *****
+Solving FMP (CPU) time: 0.21 secs
+monk3, 55-th inst file out of 200
+2QBF: query on feature 4 out of 6 features:
+***** AXps containing 4 *****
+Solving FMP (CPU) time: 0.24 secs
+monk3, 56-th inst file out of 200
+2QBF: query on feature 1 out of 6 features:
+***** AXps containing 1 *****
+Solving FMP (CPU) time: 0.08 secs
+monk3, 57-th inst file out of 200
+2QBF: query on feature 2 out of 6 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 0.99 secs
+monk3, 58-th inst file out of 200
+2QBF: query on feature 4 out of 6 features:
+***** AXps containing 4 *****
+Solving FMP (CPU) time: 0.27 secs
+monk3, 59-th inst file out of 200
+2QBF: query on feature 2 out of 6 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1.39 secs
+monk3, 60-th inst file out of 200
+2QBF: query on feature 3 out of 6 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 2.09 secs
+monk3, 61-th inst file out of 200
+2QBF: query on feature 1 out of 6 features:
+***** AXps containing 1 *****
+Solving FMP (CPU) time: 0.19 secs
+monk3, 62-th inst file out of 200
+2QBF: query on feature 4 out of 6 features:
+***** AXps containing 4 *****
+Solving FMP (CPU) time: 0.07 secs
+monk3, 63-th inst file out of 200
+2QBF: query on feature 4 out of 6 features:
+***** AXps containing 4 *****
+Solving FMP (CPU) time: 0.26 secs
+monk3, 64-th inst file out of 200
+2QBF: query on feature 2 out of 6 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1.78 secs
+monk3, 65-th inst file out of 200
+2QBF: query on feature 3 out of 6 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1.22 secs
+monk3, 66-th inst file out of 200
+2QBF: query on feature 1 out of 6 features:
+***** AXps containing 1 *****
+Solving FMP (CPU) time: 0.08 secs
+monk3, 67-th inst file out of 200
+2QBF: query on feature 3 out of 6 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 0.69 secs
+monk3, 68-th inst file out of 200
+2QBF: query on feature 0 out of 6 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 0.44 secs
+monk3, 69-th inst file out of 200
+2QBF: query on feature 5 out of 6 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 0.77 secs
+monk3, 70-th inst file out of 200
+2QBF: query on feature 3 out of 6 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1.47 secs
+monk3, 71-th inst file out of 200
+2QBF: query on feature 3 out of 6 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 0.36 secs
+monk3, 72-th inst file out of 200
+2QBF: query on feature 2 out of 6 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 0.52 secs
+monk3, 73-th inst file out of 200
+2QBF: query on feature 0 out of 6 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1.20 secs
+monk3, 74-th inst file out of 200
+2QBF: query on feature 4 out of 6 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1.63 secs
+monk3, 75-th inst file out of 200
+2QBF: query on feature 0 out of 6 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 0.41 secs
+monk3, 76-th inst file out of 200
+2QBF: query on feature 2 out of 6 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1.06 secs
+monk3, 77-th inst file out of 200
+2QBF: query on feature 4 out of 6 features:
+***** AXps containing 4 *****
+Solving FMP (CPU) time: 0.84 secs
+monk3, 78-th inst file out of 200
+2QBF: query on feature 0 out of 6 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 0.37 secs
+monk3, 79-th inst file out of 200
+2QBF: query on feature 5 out of 6 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1.44 secs
+monk3, 80-th inst file out of 200
+2QBF: query on feature 1 out of 6 features:
+***** AXps containing 1 *****
+Solving FMP (CPU) time: 0.26 secs
+monk3, 81-th inst file out of 200
+2QBF: query on feature 3 out of 6 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1.19 secs
+monk3, 82-th inst file out of 200
+2QBF: query on feature 3 out of 6 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1.26 secs
+monk3, 83-th inst file out of 200
+2QBF: query on feature 1 out of 6 features:
+***** AXps containing 1 *****
+Solving FMP (CPU) time: 0.08 secs
+monk3, 84-th inst file out of 200
+2QBF: query on feature 1 out of 6 features:
+***** AXps containing 1 *****
+Solving FMP (CPU) time: 0.08 secs
+monk3, 85-th inst file out of 200
+2QBF: query on feature 5 out of 6 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1.40 secs
+monk3, 86-th inst file out of 200
+2QBF: query on feature 5 out of 6 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1.38 secs
+monk3, 87-th inst file out of 200
+2QBF: query on feature 2 out of 6 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1.13 secs
+monk3, 88-th inst file out of 200
+2QBF: query on feature 4 out of 6 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1.61 secs
+monk3, 89-th inst file out of 200
+2QBF: query on feature 3 out of 6 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1.48 secs
+monk3, 90-th inst file out of 200
+2QBF: query on feature 2 out of 6 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1.13 secs
+monk3, 91-th inst file out of 200
+2QBF: query on feature 3 out of 6 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1.46 secs
+monk3, 92-th inst file out of 200
+2QBF: query on feature 0 out of 6 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1.24 secs
+monk3, 93-th inst file out of 200
+2QBF: query on feature 2 out of 6 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1.08 secs
+monk3, 94-th inst file out of 200
+2QBF: query on feature 4 out of 6 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1.63 secs
+monk3, 95-th inst file out of 200
+2QBF: query on feature 2 out of 6 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 2.17 secs
+monk3, 96-th inst file out of 200
+2QBF: query on feature 3 out of 6 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1.45 secs
+monk3, 97-th inst file out of 200
+2QBF: query on feature 4 out of 6 features:
+***** AXps containing 4 *****
+Solving FMP (CPU) time: 0.27 secs
+monk3, 98-th inst file out of 200
+2QBF: query on feature 0 out of 6 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1.17 secs
+monk3, 99-th inst file out of 200
+2QBF: query on feature 5 out of 6 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 0.44 secs
+monk3, 100-th inst file out of 200
+2QBF: query on feature 2 out of 6 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1.16 secs
+monk3, 101-th inst file out of 200
+2QBF: query on feature 0 out of 6 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1.17 secs
+monk3, 102-th inst file out of 200
+2QBF: query on feature 4 out of 6 features:
+***** AXps containing 4 *****
+Solving FMP (CPU) time: 0.69 secs
+monk3, 103-th inst file out of 200
+2QBF: query on feature 1 out of 6 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1.20 secs
+monk3, 104-th inst file out of 200
+2QBF: query on feature 2 out of 6 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1.47 secs
+monk3, 105-th inst file out of 200
+2QBF: query on feature 3 out of 6 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 0.38 secs
+monk3, 106-th inst file out of 200
+2QBF: query on feature 3 out of 6 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 2.42 secs
+monk3, 107-th inst file out of 200
+2QBF: query on feature 4 out of 6 features:
+***** AXps containing 4 *****
+Solving FMP (CPU) time: 0.25 secs
+monk3, 108-th inst file out of 200
+2QBF: query on feature 0 out of 6 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 2.01 secs
+monk3, 109-th inst file out of 200
+2QBF: query on feature 1 out of 6 features:
+***** AXps containing 1 *****
+Solving FMP (CPU) time: 0.08 secs
+monk3, 110-th inst file out of 200
+2QBF: query on feature 2 out of 6 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1.14 secs
+monk3, 111-th inst file out of 200
+2QBF: query on feature 4 out of 6 features:
+***** AXps containing 4 *****
+Solving FMP (CPU) time: 0.25 secs
+monk3, 112-th inst file out of 200
+2QBF: query on feature 2 out of 6 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1.33 secs
+monk3, 113-th inst file out of 200
+2QBF: query on feature 3 out of 6 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1.23 secs
+monk3, 114-th inst file out of 200
+2QBF: query on feature 2 out of 6 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 0.38 secs
+monk3, 115-th inst file out of 200
+2QBF: query on feature 5 out of 6 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 0.43 secs
+monk3, 116-th inst file out of 200
+2QBF: query on feature 2 out of 6 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1.25 secs
+monk3, 117-th inst file out of 200
+2QBF: query on feature 0 out of 6 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1.24 secs
+monk3, 118-th inst file out of 200
+2QBF: query on feature 5 out of 6 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 0.43 secs
+monk3, 119-th inst file out of 200
+2QBF: query on feature 5 out of 6 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1.09 secs
+monk3, 120-th inst file out of 200
+2QBF: query on feature 1 out of 6 features:
+***** AXps containing 1 *****
+Solving FMP (CPU) time: 0.17 secs
+monk3, 121-th inst file out of 200
+2QBF: query on feature 0 out of 6 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1.21 secs
+monk3, 122-th inst file out of 200
+2QBF: query on feature 3 out of 6 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 2.04 secs
+monk3, 123-th inst file out of 200
+2QBF: query on feature 0 out of 6 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1.24 secs
+monk3, 124-th inst file out of 200
+2QBF: query on feature 3 out of 6 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1.18 secs
+monk3, 125-th inst file out of 200
+2QBF: query on feature 1 out of 6 features:
+***** AXps containing 1 *****
+Solving FMP (CPU) time: 0.15 secs
+monk3, 126-th inst file out of 200
+2QBF: query on feature 0 out of 6 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 0.41 secs
+monk3, 127-th inst file out of 200
+2QBF: query on feature 0 out of 6 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 0.38 secs
+monk3, 128-th inst file out of 200
+2QBF: query on feature 1 out of 6 features:
+***** AXps containing 1 *****
+Solving FMP (CPU) time: 0.17 secs
+monk3, 129-th inst file out of 200
+2QBF: query on feature 0 out of 6 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 0.54 secs
+monk3, 130-th inst file out of 200
+2QBF: query on feature 0 out of 6 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 0.36 secs
+monk3, 131-th inst file out of 200
+2QBF: query on feature 3 out of 6 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 0.36 secs
+monk3, 132-th inst file out of 200
+2QBF: query on feature 1 out of 6 features:
+***** AXps containing 1 *****
+Solving FMP (CPU) time: 0.17 secs
+monk3, 133-th inst file out of 200
+2QBF: query on feature 2 out of 6 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 0.47 secs
+monk3, 134-th inst file out of 200
+2QBF: query on feature 5 out of 6 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1.40 secs
+monk3, 135-th inst file out of 200
+2QBF: query on feature 5 out of 6 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1.82 secs
+monk3, 136-th inst file out of 200
+2QBF: query on feature 5 out of 6 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1.34 secs
+monk3, 137-th inst file out of 200
+2QBF: query on feature 5 out of 6 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1.41 secs
+monk3, 138-th inst file out of 200
+2QBF: query on feature 2 out of 6 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 2.08 secs
+monk3, 139-th inst file out of 200
+2QBF: query on feature 3 out of 6 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1.45 secs
+monk3, 140-th inst file out of 200
+2QBF: query on feature 4 out of 6 features:
+***** AXps containing 4 *****
+Solving FMP (CPU) time: 0.08 secs
+monk3, 141-th inst file out of 200
+2QBF: query on feature 1 out of 6 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1.17 secs
+monk3, 142-th inst file out of 200
+2QBF: query on feature 4 out of 6 features:
+***** AXps containing 4 *****
+Solving FMP (CPU) time: 0.69 secs
+monk3, 143-th inst file out of 200
+2QBF: query on feature 2 out of 6 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1.60 secs
+monk3, 144-th inst file out of 200
+2QBF: query on feature 1 out of 6 features:
+***** AXps containing 1 *****
+Solving FMP (CPU) time: 0.16 secs
+monk3, 145-th inst file out of 200
+2QBF: query on feature 1 out of 6 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1.23 secs
+monk3, 146-th inst file out of 200
+2QBF: query on feature 3 out of 6 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1.20 secs
+monk3, 147-th inst file out of 200
+2QBF: query on feature 4 out of 6 features:
+***** AXps containing 4 *****
+Solving FMP (CPU) time: 0.23 secs
+monk3, 148-th inst file out of 200
+2QBF: query on feature 3 out of 6 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 0.38 secs
+monk3, 149-th inst file out of 200
+2QBF: query on feature 1 out of 6 features:
+***** AXps containing 1 *****
+Solving FMP (CPU) time: 0.17 secs
+monk3, 150-th inst file out of 200
+2QBF: query on feature 5 out of 6 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 0.62 secs
+monk3, 151-th inst file out of 200
+2QBF: query on feature 0 out of 6 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1.31 secs
+monk3, 152-th inst file out of 200
+2QBF: query on feature 5 out of 6 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 0.64 secs
+monk3, 153-th inst file out of 200
+2QBF: query on feature 2 out of 6 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 0.46 secs
+monk3, 154-th inst file out of 200
+2QBF: query on feature 4 out of 6 features:
+***** AXps containing 4 *****
+Solving FMP (CPU) time: 0.55 secs
+monk3, 155-th inst file out of 200
+2QBF: query on feature 0 out of 6 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1.35 secs
+monk3, 156-th inst file out of 200
+2QBF: query on feature 5 out of 6 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1.02 secs
+monk3, 157-th inst file out of 200
+2QBF: query on feature 0 out of 6 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1.17 secs
+monk3, 158-th inst file out of 200
+2QBF: query on feature 4 out of 6 features:
+***** AXps containing 4 *****
+Solving FMP (CPU) time: 0.26 secs
+monk3, 159-th inst file out of 200
+2QBF: query on feature 5 out of 6 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 0.36 secs
+monk3, 160-th inst file out of 200
+2QBF: query on feature 5 out of 6 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1.44 secs
+monk3, 161-th inst file out of 200
+2QBF: query on feature 2 out of 6 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1.47 secs
+monk3, 162-th inst file out of 200
+2QBF: query on feature 5 out of 6 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1.45 secs
+monk3, 163-th inst file out of 200
+2QBF: query on feature 0 out of 6 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1.17 secs
+monk3, 164-th inst file out of 200
+2QBF: query on feature 1 out of 6 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1.24 secs
+monk3, 165-th inst file out of 200
+2QBF: query on feature 4 out of 6 features:
+***** AXps containing 4 *****
+Solving FMP (CPU) time: 0.23 secs
+monk3, 166-th inst file out of 200
+2QBF: query on feature 3 out of 6 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 0.40 secs
+monk3, 167-th inst file out of 200
+2QBF: query on feature 2 out of 6 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 0.38 secs
+monk3, 168-th inst file out of 200
+2QBF: query on feature 3 out of 6 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 0.38 secs
+monk3, 169-th inst file out of 200
+2QBF: query on feature 2 out of 6 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1.18 secs
+monk3, 170-th inst file out of 200
+2QBF: query on feature 5 out of 6 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 0.70 secs
+monk3, 171-th inst file out of 200
+2QBF: query on feature 2 out of 6 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1.14 secs
+monk3, 172-th inst file out of 200
+2QBF: query on feature 2 out of 6 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1.36 secs
+monk3, 173-th inst file out of 200
+2QBF: query on feature 3 out of 6 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1.19 secs
+monk3, 174-th inst file out of 200
+2QBF: query on feature 1 out of 6 features:
+***** AXps containing 1 *****
+Solving FMP (CPU) time: 0.99 secs
+monk3, 175-th inst file out of 200
+2QBF: query on feature 0 out of 6 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1.25 secs
+monk3, 176-th inst file out of 200
+2QBF: query on feature 3 out of 6 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1.51 secs
+monk3, 177-th inst file out of 200
+2QBF: query on feature 3 out of 6 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1.14 secs
+monk3, 178-th inst file out of 200
+2QBF: query on feature 5 out of 6 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 0.94 secs
+monk3, 179-th inst file out of 200
+2QBF: query on feature 4 out of 6 features:
+***** AXps containing 4 *****
+Solving FMP (CPU) time: 0.24 secs
+monk3, 180-th inst file out of 200
+2QBF: query on feature 3 out of 6 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1.21 secs
+monk3, 181-th inst file out of 200
+2QBF: query on feature 5 out of 6 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1.14 secs
+monk3, 182-th inst file out of 200
+2QBF: query on feature 3 out of 6 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1.16 secs
+monk3, 183-th inst file out of 200
+2QBF: query on feature 2 out of 6 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 0.69 secs
+monk3, 184-th inst file out of 200
+2QBF: query on feature 3 out of 6 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 0.39 secs
+monk3, 185-th inst file out of 200
+2QBF: query on feature 1 out of 6 features:
+***** AXps containing 1 *****
+Solving FMP (CPU) time: 0.08 secs
+monk3, 186-th inst file out of 200
+2QBF: query on feature 0 out of 6 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 0.45 secs
+monk3, 187-th inst file out of 200
+2QBF: query on feature 1 out of 6 features:
+***** AXps containing 1 *****
+Solving FMP (CPU) time: 0.99 secs
+monk3, 188-th inst file out of 200
+2QBF: query on feature 5 out of 6 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1.38 secs
+monk3, 189-th inst file out of 200
+2QBF: query on feature 5 out of 6 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1.49 secs
+monk3, 190-th inst file out of 200
+2QBF: query on feature 1 out of 6 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1.14 secs
+monk3, 191-th inst file out of 200
+2QBF: query on feature 0 out of 6 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1.22 secs
+monk3, 192-th inst file out of 200
+2QBF: query on feature 1 out of 6 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 2.10 secs
+monk3, 193-th inst file out of 200
+2QBF: query on feature 2 out of 6 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 0.47 secs
+monk3, 194-th inst file out of 200
+2QBF: query on feature 1 out of 6 features:
+***** AXps containing 1 *****
+Solving FMP (CPU) time: 0.08 secs
+monk3, 195-th inst file out of 200
+2QBF: query on feature 0 out of 6 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1.17 secs
+monk3, 196-th inst file out of 200
+2QBF: query on feature 3 out of 6 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 2.30 secs
+monk3, 197-th inst file out of 200
+2QBF: query on feature 2 out of 6 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1.39 secs
+monk3, 198-th inst file out of 200
+2QBF: query on feature 2 out of 6 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1.42 secs
+monk3, 199-th inst file out of 200
+2QBF: query on feature 5 out of 6 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 2.07 secs
+monk3 & 200 & 6 & #C & 4 & 472 & A% & 2778 & 9148 & 43 & 0 & 0 & 11.689 & 0.990 & 0.074 & 0.272 & 177.051 & 2.417 & 0.357 & 1.128
+
+############ crx ############
+c nof features: 15
+c nof classes: 2
+c nof samples: 690
+Loading rf_models/RF2001/crx/crx_nbestim_20_maxdepth_4.mod.pkl
+Using solver: depqbf
+
+crx, 0-th inst file out of 200
+2QBF: query on feature 0 out of 15 features:
+User-given limit reached, exiting.
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1204.25 secs
+crx, 1-th inst file out of 200
+2QBF: query on feature 11 out of 15 features:
+User-given limit reached, exiting.
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1200.47 secs
+crx, 2-th inst file out of 200
+2QBF: query on feature 5 out of 15 features:
+User-given limit reached, exiting.
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1200.36 secs
+crx, 3-th inst file out of 200
+2QBF: query on feature 14 out of 15 features:
+User-given limit reached, exiting.
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1208.24 secs
+crx, 4-th inst file out of 200
+2QBF: query on feature 3 out of 15 features:
+User-given limit reached, exiting.
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1201.64 secs
+crx, 5-th inst file out of 200
+2QBF: query on feature 14 out of 15 features:
+User-given limit reached, exiting.
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1208.08 secs
+crx, 6-th inst file out of 200
+2QBF: query on feature 13 out of 15 features:
+User-given limit reached, exiting.
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1206.39 secs
+crx, 7-th inst file out of 200
+2QBF: query on feature 7 out of 15 features:
+User-given limit reached, exiting.
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1200.21 secs
+crx, 8-th inst file out of 200
+2QBF: query on feature 7 out of 15 features:
+User-given limit reached, exiting.
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1200.24 secs
+crx, 9-th inst file out of 200
+2QBF: query on feature 10 out of 15 features:
+User-given limit reached, exiting.
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1200.30 secs
+crx, 10-th inst file out of 200
+2QBF: query on feature 4 out of 15 features:
+User-given limit reached, exiting.
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1200.18 secs
+crx, 11-th inst file out of 200
+2QBF: query on feature 9 out of 15 features:
+User-given limit reached, exiting.
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1200.29 secs
+crx, 12-th inst file out of 200
+2QBF: query on feature 11 out of 15 features:
+User-given limit reached, exiting.
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1200.52 secs
+crx, 13-th inst file out of 200
+2QBF: query on feature 8 out of 15 features:
+User-given limit reached, exiting.
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1200.36 secs
+crx, 14-th inst file out of 200
+2QBF: query on feature 11 out of 15 features:
+Timeout after 18000 seconds
+############ ecoli ############
+c nof features: 7
+c nof classes: 5
+c nof samples: 327
+Loading rf_models/RF2001/ecoli/ecoli_nbestim_20_maxdepth_4.mod.pkl
+Using solver: depqbf
+
+ecoli, 0-th inst file out of 200
+2QBF: query on feature 0 out of 7 features:
+User-given limit reached, exiting.
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1200.82 secs
+ecoli, 1-th inst file out of 200
+2QBF: query on feature 6 out of 7 features:
+***** AXps containing 6 *****
+Solving FMP (CPU) time: 14.26 secs
+ecoli, 2-th inst file out of 200
+2QBF: query on feature 1 out of 7 features:
+***** AXps containing 1 *****
+Solving FMP (CPU) time: 25.93 secs
+ecoli, 3-th inst file out of 200
+2QBF: query on feature 0 out of 7 features:
+***** AXps containing 0 *****
+Solving FMP (CPU) time: 23.24 secs
+ecoli, 4-th inst file out of 200
+2QBF: query on feature 6 out of 7 features:
+***** AXps containing 6 *****
+Solving FMP (CPU) time: 26.35 secs
+ecoli, 5-th inst file out of 200
+2QBF: query on feature 6 out of 7 features:
+***** AXps containing 6 *****
+Solving FMP (CPU) time: 20.30 secs
+ecoli, 6-th inst file out of 200
+2QBF: query on feature 4 out of 7 features:
+***** AXps containing 4 *****
+Solving FMP (CPU) time: 36.27 secs
+ecoli, 7-th inst file out of 200
+2QBF: query on feature 5 out of 7 features:
+User-given limit reached, exiting.
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1200.41 secs
+ecoli, 8-th inst file out of 200
+2QBF: query on feature 2 out of 7 features:
+User-given limit reached, exiting.
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1201.08 secs
+ecoli, 9-th inst file out of 200
+2QBF: query on feature 5 out of 7 features:
+***** AXps containing 5 *****
+Solving FMP (CPU) time: 7.38 secs
+ecoli, 10-th inst file out of 200
+2QBF: query on feature 0 out of 7 features:
+***** AXps containing 0 *****
+Solving FMP (CPU) time: 151.06 secs
+ecoli, 11-th inst file out of 200
+2QBF: query on feature 4 out of 7 features:
+***** AXps containing 4 *****
+Solving FMP (CPU) time: 118.13 secs
+ecoli, 12-th inst file out of 200
+2QBF: query on feature 1 out of 7 features:
+***** AXps containing 1 *****
+Solving FMP (CPU) time: 11.17 secs
+ecoli, 13-th inst file out of 200
+2QBF: query on feature 3 out of 7 features:
+interested feature not in RF, so there is no AXp
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 0.00 secs
+ecoli, 14-th inst file out of 200
+2QBF: query on feature 0 out of 7 features:
+***** AXps containing 0 *****
+Solving FMP (CPU) time: 438.96 secs
+ecoli, 15-th inst file out of 200
+2QBF: query on feature 1 out of 7 features:
+User-given limit reached, exiting.
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1200.67 secs
+ecoli, 16-th inst file out of 200
+2QBF: query on feature 5 out of 7 features:
+***** AXps containing 5 *****
+Solving FMP (CPU) time: 20.24 secs
+ecoli, 17-th inst file out of 200
+2QBF: query on feature 2 out of 7 features:
+User-given limit reached, exiting.
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1200.42 secs
+ecoli, 18-th inst file out of 200
+2QBF: query on feature 2 out of 7 features:
+User-given limit reached, exiting.
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1200.51 secs
+ecoli, 19-th inst file out of 200
+2QBF: query on feature 3 out of 7 features:
+interested feature not in RF, so there is no AXp
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 0.00 secs
+ecoli, 20-th inst file out of 200
+2QBF: query on feature 0 out of 7 features:
+User-given limit reached, exiting.
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1200.64 secs
+ecoli, 21-th inst file out of 200
+2QBF: query on feature 2 out of 7 features:
+User-given limit reached, exiting.
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1200.45 secs
+ecoli, 22-th inst file out of 200
+2QBF: query on feature 0 out of 7 features:
+***** AXps containing 0 *****
+Solving FMP (CPU) time: 25.25 secs
+ecoli, 23-th inst file out of 200
+2QBF: query on feature 6 out of 7 features:
+***** AXps containing 6 *****
+Solving FMP (CPU) time: 15.38 secs
+ecoli, 24-th inst file out of 200
+2QBF: query on feature 2 out of 7 features:
+User-given limit reached, exiting.
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1200.43 secs
+ecoli, 25-th inst file out of 200
+2QBF: query on feature 3 out of 7 features:
+interested feature not in RF, so there is no AXp
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 0.00 secs
+ecoli, 26-th inst file out of 200
+2QBF: query on feature 0 out of 7 features:
+***** AXps containing 0 *****
+Solving FMP (CPU) time: 90.96 secs
+ecoli, 27-th inst file out of 200
+2QBF: query on feature 0 out of 7 features:
+***** AXps containing 0 *****
+Solving FMP (CPU) time: 272.91 secs
+ecoli, 28-th inst file out of 200
+2QBF: query on feature 4 out of 7 features:
+***** AXps containing 4 *****
+Solving FMP (CPU) time: 309.06 secs
+ecoli, 29-th inst file out of 200
+2QBF: query on feature 0 out of 7 features:
+User-given limit reached, exiting.
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1200.65 secs
+ecoli, 30-th inst file out of 200
+2QBF: query on feature 3 out of 7 features:
+interested feature not in RF, so there is no AXp
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 0.00 secs
+ecoli, 31-th inst file out of 200
+2QBF: query on feature 4 out of 7 features:
+***** AXps containing 4 *****
+Solving FMP (CPU) time: 26.61 secs
+ecoli, 32-th inst file out of 200
+2QBF: query on feature 6 out of 7 features:
+***** AXps containing 6 *****
+Solving FMP (CPU) time: 36.98 secs
+ecoli, 33-th inst file out of 200
+2QBF: query on feature 5 out of 7 features:
+User-given limit reached, exiting.
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1200.43 secs
+ecoli, 34-th inst file out of 200
+2QBF: query on feature 4 out of 7 features:
+User-given limit reached, exiting.
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1200.44 secs
+ecoli, 35-th inst file out of 200
+2QBF: query on feature 2 out of 7 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 152.20 secs
+ecoli, 36-th inst file out of 200
+2QBF: query on feature 6 out of 7 features:
+***** AXps containing 6 *****
+Solving FMP (CPU) time: 27.50 secs
+ecoli, 37-th inst file out of 200
+2QBF: query on feature 1 out of 7 features:
+***** AXps containing 1 *****
+Solving FMP (CPU) time: 216.05 secs
+ecoli, 38-th inst file out of 200
+2QBF: query on feature 5 out of 7 features:
+***** AXps containing 5 *****
+Solving FMP (CPU) time: 304.09 secs
+ecoli, 39-th inst file out of 200
+2QBF: query on feature 6 out of 7 features:
+***** AXps containing 6 *****
+Solving FMP (CPU) time: 22.64 secs
+ecoli, 40-th inst file out of 200
+2QBF: query on feature 0 out of 7 features:
+***** AXps containing 0 *****
+Solving FMP (CPU) time: 33.09 secs
+ecoli, 41-th inst file out of 200
+2QBF: query on feature 3 out of 7 features:
+interested feature not in RF, so there is no AXp
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 0.00 secs
+ecoli, 42-th inst file out of 200
+2QBF: query on feature 3 out of 7 features:
+interested feature not in RF, so there is no AXp
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 0.00 secs
+ecoli, 43-th inst file out of 200
+2QBF: query on feature 1 out of 7 features:
+***** AXps containing 1 *****
+Solving FMP (CPU) time: 655.41 secs
+ecoli, 44-th inst file out of 200
+2QBF: query on feature 1 out of 7 features:
+Timeout after 18000 seconds
+############ glass2 ############
+c nof features: 9
+c nof classes: 2
+c nof samples: 162
+Loading rf_models/RF2001/glass2/glass2_nbestim_20_maxdepth_4.mod.pkl
+Using solver: depqbf
+
+glass2, 0-th inst file out of 163
+2QBF: query on feature 6 out of 9 features:
+User-given limit reached, exiting.
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1200.27 secs
+glass2, 1-th inst file out of 163
+2QBF: query on feature 8 out of 9 features:
+User-given limit reached, exiting.
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1200.22 secs
+glass2, 2-th inst file out of 163
+2QBF: query on feature 0 out of 9 features:
+***** AXps containing 0 *****
+Solving FMP (CPU) time: 5.03 secs
+glass2, 3-th inst file out of 163
+2QBF: query on feature 6 out of 9 features:
+***** AXps containing 6 *****
+Solving FMP (CPU) time: 2.26 secs
+glass2, 4-th inst file out of 163
+2QBF: query on feature 6 out of 9 features:
+***** AXps containing 6 *****
+Solving FMP (CPU) time: 2.07 secs
+glass2, 5-th inst file out of 163
+2QBF: query on feature 2 out of 9 features:
+***** AXps containing 2 *****
+Solving FMP (CPU) time: 99.25 secs
+glass2, 6-th inst file out of 163
+2QBF: query on feature 5 out of 9 features:
+User-given limit reached, exiting.
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1200.22 secs
+glass2, 7-th inst file out of 163
+2QBF: query on feature 1 out of 9 features:
+***** AXps containing 1 *****
+Solving FMP (CPU) time: 886.41 secs
+glass2, 8-th inst file out of 163
+2QBF: query on feature 0 out of 9 features:
+User-given limit reached, exiting.
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1200.31 secs
+glass2, 9-th inst file out of 163
+2QBF: query on feature 0 out of 9 features:
+***** AXps containing 0 *****
+Solving FMP (CPU) time: 385.70 secs
+glass2, 10-th inst file out of 163
+2QBF: query on feature 8 out of 9 features:
+User-given limit reached, exiting.
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1200.19 secs
+glass2, 11-th inst file out of 163
+2QBF: query on feature 3 out of 9 features:
+***** AXps containing 3 *****
+Solving FMP (CPU) time: 92.93 secs
+glass2, 12-th inst file out of 163
+2QBF: query on feature 8 out of 9 features:
+User-given limit reached, exiting.
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1200.24 secs
+glass2, 13-th inst file out of 163
+2QBF: query on feature 7 out of 9 features:
+User-given limit reached, exiting.
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1200.21 secs
+glass2, 14-th inst file out of 163
+2QBF: query on feature 5 out of 9 features:
+***** AXps containing 5 *****
+Solving FMP (CPU) time: 369.83 secs
+glass2, 15-th inst file out of 163
+2QBF: query on feature 3 out of 9 features:
+***** AXps containing 3 *****
+Solving FMP (CPU) time: 2.57 secs
+glass2, 16-th inst file out of 163
+2QBF: query on feature 5 out of 9 features:
+User-given limit reached, exiting.
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1200.20 secs
+glass2, 17-th inst file out of 163
+2QBF: query on feature 7 out of 9 features:
+***** AXps containing 7 *****
+Solving FMP (CPU) time: 134.10 secs
+glass2, 18-th inst file out of 163
+2QBF: query on feature 6 out of 9 features:
+***** AXps containing 6 *****
+Solving FMP (CPU) time: 1.73 secs
+glass2, 19-th inst file out of 163
+2QBF: query on feature 4 out of 9 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 43.67 secs
+glass2, 20-th inst file out of 163
+2QBF: query on feature 3 out of 9 features:
+***** AXps containing 3 *****
+Solving FMP (CPU) time: 21.10 secs
+glass2, 21-th inst file out of 163
+2QBF: query on feature 7 out of 9 features:
+User-given limit reached, exiting.
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1200.25 secs
+glass2, 22-th inst file out of 163
+2QBF: query on feature 8 out of 9 features:
+User-given limit reached, exiting.
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1200.19 secs
+glass2, 23-th inst file out of 163
+2QBF: query on feature 6 out of 9 features:
+***** AXps containing 6 *****
+Solving FMP (CPU) time: 2.74 secs
+glass2, 24-th inst file out of 163
+2QBF: query on feature 7 out of 9 features:
+User-given limit reached, exiting.
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1200.22 secs
+glass2, 25-th inst file out of 163
+2QBF: query on feature 8 out of 9 features:
+User-given limit reached, exiting.
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1200.22 secs
+glass2, 26-th inst file out of 163
+2QBF: query on feature 7 out of 9 features:
+***** AXps containing 7 *****
+Solving FMP (CPU) time: 190.14 secs
+glass2, 27-th inst file out of 163
+2QBF: query on feature 8 out of 9 features:
+User-given limit reached, exiting.
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1200.41 secs
+glass2, 28-th inst file out of 163
+2QBF: query on feature 5 out of 9 features:
+Timeout after 18000 seconds
+############ house_votes_84 ############
+c nof features: 16
+c nof classes: 2
+c nof samples: 342
+Loading rf_models/RF2001/house_votes_84/house_votes_84_nbestim_20_maxdepth_4.mod.pkl
+Using solver: depqbf
+
+house_votes_84, 0-th inst file out of 200
+2QBF: query on feature 3 out of 16 features:
+***** AXps containing 3 *****
+Solving FMP (CPU) time: 5.20 secs
+house_votes_84, 1-th inst file out of 200
+2QBF: query on feature 7 out of 16 features:
+***** AXps containing 7 *****
+Solving FMP (CPU) time: 0.84 secs
+house_votes_84, 2-th inst file out of 200
+2QBF: query on feature 10 out of 16 features:
+User-given limit reached, exiting.
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1200.18 secs
+house_votes_84, 3-th inst file out of 200
+2QBF: query on feature 14 out of 16 features:
+User-given limit reached, exiting.
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1210.90 secs
+house_votes_84, 4-th inst file out of 200
+2QBF: query on feature 13 out of 16 features:
+User-given limit reached, exiting.
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1207.52 secs
+house_votes_84, 5-th inst file out of 200
+2QBF: query on feature 5 out of 16 features:
+User-given limit reached, exiting.
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1203.73 secs
+house_votes_84, 6-th inst file out of 200
+2QBF: query on feature 11 out of 16 features:
+***** AXps containing 11 *****
+Solving FMP (CPU) time: 0.39 secs
+house_votes_84, 7-th inst file out of 200
+2QBF: query on feature 3 out of 16 features:
+User-given limit reached, exiting.
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1201.26 secs
+house_votes_84, 8-th inst file out of 200
+2QBF: query on feature 11 out of 16 features:
+***** AXps containing 11 *****
+Solving FMP (CPU) time: 8.49 secs
+house_votes_84, 9-th inst file out of 200
+2QBF: query on feature 6 out of 16 features:
+User-given limit reached, exiting.
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1203.58 secs
+house_votes_84, 10-th inst file out of 200
+2QBF: query on feature 4 out of 16 features:
+***** AXps containing 4 *****
+Solving FMP (CPU) time: 375.55 secs
+house_votes_84, 11-th inst file out of 200
+2QBF: query on feature 1 out of 16 features:
+User-given limit reached, exiting.
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1200.44 secs
+house_votes_84, 12-th inst file out of 200
+2QBF: query on feature 2 out of 16 features:
+***** AXps containing 2 *****
+Solving FMP (CPU) time: 2.15 secs
+house_votes_84, 13-th inst file out of 200
+2QBF: query on feature 14 out of 16 features:
+User-given limit reached, exiting.
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1206.26 secs
+house_votes_84, 14-th inst file out of 200
+2QBF: query on feature 4 out of 16 features:
+***** AXps containing 4 *****
+Solving FMP (CPU) time: 71.76 secs
+house_votes_84, 15-th inst file out of 200
+2QBF: query on feature 5 out of 16 features:
+User-given limit reached, exiting.
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1208.16 secs
+house_votes_84, 16-th inst file out of 200
+2QBF: query on feature 4 out of 16 features:
+***** AXps containing 4 *****
+Solving FMP (CPU) time: 282.35 secs
+house_votes_84, 17-th inst file out of 200
+2QBF: query on feature 12 out of 16 features:
+User-given limit reached, exiting.
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1203.27 secs
+house_votes_84, 18-th inst file out of 200
+2QBF: query on feature 3 out of 16 features:
+***** AXps containing 3 *****
+Solving FMP (CPU) time: 9.00 secs
+house_votes_84, 19-th inst file out of 200
+2QBF: query on feature 14 out of 16 features:
+User-given limit reached, exiting.
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1204.57 secs
+house_votes_84, 20-th inst file out of 200
+2QBF: query on feature 10 out of 16 features:
+Timeout after 18000 seconds
+############ new_thyroid ############
+c nof features: 5
+c nof classes: 3
+c nof samples: 215
+Loading rf_models/RF2001/new_thyroid/new_thyroid_nbestim_20_maxdepth_4.mod.pkl
+Using solver: depqbf
+
+new_thyroid, 0-th inst file out of 200
+2QBF: query on feature 2 out of 5 features:
+User-given limit reached, exiting.
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1203.32 secs
+new_thyroid, 1-th inst file out of 200
+2QBF: query on feature 2 out of 5 features:
+User-given limit reached, exiting.
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1205.23 secs
+new_thyroid, 2-th inst file out of 200
+2QBF: query on feature 3 out of 5 features:
+***** AXps containing 3 *****
+Solving FMP (CPU) time: 470.25 secs
+new_thyroid, 3-th inst file out of 200
+2QBF: query on feature 2 out of 5 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1031.65 secs
+new_thyroid, 4-th inst file out of 200
+2QBF: query on feature 3 out of 5 features:
+User-given limit reached, exiting.
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1204.53 secs
+new_thyroid, 5-th inst file out of 200
+2QBF: query on feature 0 out of 5 features:
+User-given limit reached, exiting.
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1201.61 secs
+new_thyroid, 6-th inst file out of 200
+2QBF: query on feature 2 out of 5 features:
+User-given limit reached, exiting.
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1209.49 secs
+new_thyroid, 7-th inst file out of 200
+2QBF: query on feature 3 out of 5 features:
+***** AXps containing 3 *****
+Solving FMP (CPU) time: 3.73 secs
+new_thyroid, 8-th inst file out of 200
+2QBF: query on feature 1 out of 5 features:
+***** AXps containing 1 *****
+Solving FMP (CPU) time: 862.66 secs
+new_thyroid, 9-th inst file out of 200
+2QBF: query on feature 2 out of 5 features:
+***** AXps containing 2 *****
+Solving FMP (CPU) time: 48.85 secs
+new_thyroid, 10-th inst file out of 200
+2QBF: query on feature 1 out of 5 features:
+***** AXps containing 1 *****
+Solving FMP (CPU) time: 959.23 secs
+new_thyroid, 11-th inst file out of 200
+2QBF: query on feature 4 out of 5 features:
+User-given limit reached, exiting.
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1203.25 secs
+new_thyroid, 12-th inst file out of 200
+2QBF: query on feature 1 out of 5 features:
+***** AXps containing 1 *****
+Solving FMP (CPU) time: 1166.72 secs
+new_thyroid, 13-th inst file out of 200
+2QBF: query on feature 0 out of 5 features:
+User-given limit reached, exiting.
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1200.64 secs
+new_thyroid, 14-th inst file out of 200
+2QBF: query on feature 1 out of 5 features:
+User-given limit reached, exiting.
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1200.45 secs
+new_thyroid, 15-th inst file out of 200
+2QBF: query on feature 2 out of 5 features:
+***** AXps containing 2 *****
+Solving FMP (CPU) time: 1187.04 secs
+new_thyroid, 16-th inst file out of 200
+2QBF: query on feature 4 out of 5 features:
+User-given limit reached, exiting.
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1200.45 secs
+new_thyroid, 17-th inst file out of 200
+2QBF: query on feature 3 out of 5 features:
+Timeout after 18000 seconds

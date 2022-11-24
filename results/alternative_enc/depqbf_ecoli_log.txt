@@ -1,0 +1,204 @@
+############ ecoli ############
+c nof features: 7
+c nof classes: 5
+c nof samples: 327
+Loading rf_models/RF2001/ecoli/ecoli_nbestim_20_maxdepth_4.mod.pkl
+Using solver: depqbf
+
+ecoli, 0-th inst file out of 200
+2QBF: query on feature 0 out of 7 features:
+User-given limit reached, exiting.
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1200.82 secs
+ecoli, 1-th inst file out of 200
+2QBF: query on feature 6 out of 7 features:
+***** AXps containing 6 *****
+Solving FMP (CPU) time: 14.26 secs
+ecoli, 2-th inst file out of 200
+2QBF: query on feature 1 out of 7 features:
+***** AXps containing 1 *****
+Solving FMP (CPU) time: 25.93 secs
+ecoli, 3-th inst file out of 200
+2QBF: query on feature 0 out of 7 features:
+***** AXps containing 0 *****
+Solving FMP (CPU) time: 23.24 secs
+ecoli, 4-th inst file out of 200
+2QBF: query on feature 6 out of 7 features:
+***** AXps containing 6 *****
+Solving FMP (CPU) time: 26.35 secs
+ecoli, 5-th inst file out of 200
+2QBF: query on feature 6 out of 7 features:
+***** AXps containing 6 *****
+Solving FMP (CPU) time: 20.30 secs
+ecoli, 6-th inst file out of 200
+2QBF: query on feature 4 out of 7 features:
+***** AXps containing 4 *****
+Solving FMP (CPU) time: 36.27 secs
+ecoli, 7-th inst file out of 200
+2QBF: query on feature 5 out of 7 features:
+User-given limit reached, exiting.
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1200.41 secs
+ecoli, 8-th inst file out of 200
+2QBF: query on feature 2 out of 7 features:
+User-given limit reached, exiting.
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1201.08 secs
+ecoli, 9-th inst file out of 200
+2QBF: query on feature 5 out of 7 features:
+***** AXps containing 5 *****
+Solving FMP (CPU) time: 7.38 secs
+ecoli, 10-th inst file out of 200
+2QBF: query on feature 0 out of 7 features:
+***** AXps containing 0 *****
+Solving FMP (CPU) time: 151.06 secs
+ecoli, 11-th inst file out of 200
+2QBF: query on feature 4 out of 7 features:
+***** AXps containing 4 *****
+Solving FMP (CPU) time: 118.13 secs
+ecoli, 12-th inst file out of 200
+2QBF: query on feature 1 out of 7 features:
+***** AXps containing 1 *****
+Solving FMP (CPU) time: 11.17 secs
+ecoli, 13-th inst file out of 200
+2QBF: query on feature 3 out of 7 features:
+interested feature not in RF, so there is no AXp
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 0.00 secs
+ecoli, 14-th inst file out of 200
+2QBF: query on feature 0 out of 7 features:
+***** AXps containing 0 *****
+Solving FMP (CPU) time: 438.96 secs
+ecoli, 15-th inst file out of 200
+2QBF: query on feature 1 out of 7 features:
+User-given limit reached, exiting.
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1200.67 secs
+ecoli, 16-th inst file out of 200
+2QBF: query on feature 5 out of 7 features:
+***** AXps containing 5 *****
+Solving FMP (CPU) time: 20.24 secs
+ecoli, 17-th inst file out of 200
+2QBF: query on feature 2 out of 7 features:
+User-given limit reached, exiting.
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1200.42 secs
+ecoli, 18-th inst file out of 200
+2QBF: query on feature 2 out of 7 features:
+User-given limit reached, exiting.
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1200.51 secs
+ecoli, 19-th inst file out of 200
+2QBF: query on feature 3 out of 7 features:
+interested feature not in RF, so there is no AXp
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 0.00 secs
+ecoli, 20-th inst file out of 200
+2QBF: query on feature 0 out of 7 features:
+User-given limit reached, exiting.
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1200.64 secs
+ecoli, 21-th inst file out of 200
+2QBF: query on feature 2 out of 7 features:
+User-given limit reached, exiting.
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1200.45 secs
+ecoli, 22-th inst file out of 200
+2QBF: query on feature 0 out of 7 features:
+***** AXps containing 0 *****
+Solving FMP (CPU) time: 25.25 secs
+ecoli, 23-th inst file out of 200
+2QBF: query on feature 6 out of 7 features:
+***** AXps containing 6 *****
+Solving FMP (CPU) time: 15.38 secs
+ecoli, 24-th inst file out of 200
+2QBF: query on feature 2 out of 7 features:
+User-given limit reached, exiting.
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1200.43 secs
+ecoli, 25-th inst file out of 200
+2QBF: query on feature 3 out of 7 features:
+interested feature not in RF, so there is no AXp
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 0.00 secs
+ecoli, 26-th inst file out of 200
+2QBF: query on feature 0 out of 7 features:
+***** AXps containing 0 *****
+Solving FMP (CPU) time: 90.96 secs
+ecoli, 27-th inst file out of 200
+2QBF: query on feature 0 out of 7 features:
+***** AXps containing 0 *****
+Solving FMP (CPU) time: 272.91 secs
+ecoli, 28-th inst file out of 200
+2QBF: query on feature 4 out of 7 features:
+***** AXps containing 4 *****
+Solving FMP (CPU) time: 309.06 secs
+ecoli, 29-th inst file out of 200
+2QBF: query on feature 0 out of 7 features:
+User-given limit reached, exiting.
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1200.65 secs
+ecoli, 30-th inst file out of 200
+2QBF: query on feature 3 out of 7 features:
+interested feature not in RF, so there is no AXp
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 0.00 secs
+ecoli, 31-th inst file out of 200
+2QBF: query on feature 4 out of 7 features:
+***** AXps containing 4 *****
+Solving FMP (CPU) time: 26.61 secs
+ecoli, 32-th inst file out of 200
+2QBF: query on feature 6 out of 7 features:
+***** AXps containing 6 *****
+Solving FMP (CPU) time: 36.98 secs
+ecoli, 33-th inst file out of 200
+2QBF: query on feature 5 out of 7 features:
+User-given limit reached, exiting.
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1200.43 secs
+ecoli, 34-th inst file out of 200
+2QBF: query on feature 4 out of 7 features:
+User-given limit reached, exiting.
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1200.44 secs
+ecoli, 35-th inst file out of 200
+2QBF: query on feature 2 out of 7 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 152.20 secs
+ecoli, 36-th inst file out of 200
+2QBF: query on feature 6 out of 7 features:
+***** AXps containing 6 *****
+Solving FMP (CPU) time: 27.50 secs
+ecoli, 37-th inst file out of 200
+2QBF: query on feature 1 out of 7 features:
+***** AXps containing 1 *****
+Solving FMP (CPU) time: 216.05 secs
+ecoli, 38-th inst file out of 200
+2QBF: query on feature 5 out of 7 features:
+***** AXps containing 5 *****
+Solving FMP (CPU) time: 304.09 secs
+ecoli, 39-th inst file out of 200
+2QBF: query on feature 6 out of 7 features:
+***** AXps containing 6 *****
+Solving FMP (CPU) time: 22.64 secs
+ecoli, 40-th inst file out of 200
+2QBF: query on feature 0 out of 7 features:
+***** AXps containing 0 *****
+Solving FMP (CPU) time: 33.09 secs
+ecoli, 41-th inst file out of 200
+2QBF: query on feature 3 out of 7 features:
+interested feature not in RF, so there is no AXp
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 0.00 secs
+ecoli, 42-th inst file out of 200
+2QBF: query on feature 3 out of 7 features:
+interested feature not in RF, so there is no AXp
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 0.00 secs
+ecoli, 43-th inst file out of 200
+2QBF: query on feature 1 out of 7 features:
+***** AXps containing 1 *****
+Solving FMP (CPU) time: 655.41 secs
+ecoli, 44-th inst file out of 200
+2QBF: query on feature 1 out of 7 features:
+Timeout after 18000 seconds

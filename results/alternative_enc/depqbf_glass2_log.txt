@@ -1,0 +1,135 @@
+############ glass2 ############
+c nof features: 9
+c nof classes: 2
+c nof samples: 162
+Loading rf_models/RF2001/glass2/glass2_nbestim_20_maxdepth_4.mod.pkl
+Using solver: depqbf
+
+glass2, 0-th inst file out of 163
+2QBF: query on feature 6 out of 9 features:
+User-given limit reached, exiting.
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1200.27 secs
+glass2, 1-th inst file out of 163
+2QBF: query on feature 8 out of 9 features:
+User-given limit reached, exiting.
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1200.22 secs
+glass2, 2-th inst file out of 163
+2QBF: query on feature 0 out of 9 features:
+***** AXps containing 0 *****
+Solving FMP (CPU) time: 5.03 secs
+glass2, 3-th inst file out of 163
+2QBF: query on feature 6 out of 9 features:
+***** AXps containing 6 *****
+Solving FMP (CPU) time: 2.26 secs
+glass2, 4-th inst file out of 163
+2QBF: query on feature 6 out of 9 features:
+***** AXps containing 6 *****
+Solving FMP (CPU) time: 2.07 secs
+glass2, 5-th inst file out of 163
+2QBF: query on feature 2 out of 9 features:
+***** AXps containing 2 *****
+Solving FMP (CPU) time: 99.25 secs
+glass2, 6-th inst file out of 163
+2QBF: query on feature 5 out of 9 features:
+User-given limit reached, exiting.
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1200.22 secs
+glass2, 7-th inst file out of 163
+2QBF: query on feature 1 out of 9 features:
+***** AXps containing 1 *****
+Solving FMP (CPU) time: 886.41 secs
+glass2, 8-th inst file out of 163
+2QBF: query on feature 0 out of 9 features:
+User-given limit reached, exiting.
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1200.31 secs
+glass2, 9-th inst file out of 163
+2QBF: query on feature 0 out of 9 features:
+***** AXps containing 0 *****
+Solving FMP (CPU) time: 385.70 secs
+glass2, 10-th inst file out of 163
+2QBF: query on feature 8 out of 9 features:
+User-given limit reached, exiting.
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1200.19 secs
+glass2, 11-th inst file out of 163
+2QBF: query on feature 3 out of 9 features:
+***** AXps containing 3 *****
+Solving FMP (CPU) time: 92.93 secs
+glass2, 12-th inst file out of 163
+2QBF: query on feature 8 out of 9 features:
+User-given limit reached, exiting.
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1200.24 secs
+glass2, 13-th inst file out of 163
+2QBF: query on feature 7 out of 9 features:
+User-given limit reached, exiting.
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1200.21 secs
+glass2, 14-th inst file out of 163
+2QBF: query on feature 5 out of 9 features:
+***** AXps containing 5 *****
+Solving FMP (CPU) time: 369.83 secs
+glass2, 15-th inst file out of 163
+2QBF: query on feature 3 out of 9 features:
+***** AXps containing 3 *****
+Solving FMP (CPU) time: 2.57 secs
+glass2, 16-th inst file out of 163
+2QBF: query on feature 5 out of 9 features:
+User-given limit reached, exiting.
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1200.20 secs
+glass2, 17-th inst file out of 163
+2QBF: query on feature 7 out of 9 features:
+***** AXps containing 7 *****
+Solving FMP (CPU) time: 134.10 secs
+glass2, 18-th inst file out of 163
+2QBF: query on feature 6 out of 9 features:
+***** AXps containing 6 *****
+Solving FMP (CPU) time: 1.73 secs
+glass2, 19-th inst file out of 163
+2QBF: query on feature 4 out of 9 features:
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 43.67 secs
+glass2, 20-th inst file out of 163
+2QBF: query on feature 3 out of 9 features:
+***** AXps containing 3 *****
+Solving FMP (CPU) time: 21.10 secs
+glass2, 21-th inst file out of 163
+2QBF: query on feature 7 out of 9 features:
+User-given limit reached, exiting.
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1200.25 secs
+glass2, 22-th inst file out of 163
+2QBF: query on feature 8 out of 9 features:
+User-given limit reached, exiting.
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1200.19 secs
+glass2, 23-th inst file out of 163
+2QBF: query on feature 6 out of 9 features:
+***** AXps containing 6 *****
+Solving FMP (CPU) time: 2.74 secs
+glass2, 24-th inst file out of 163
+2QBF: query on feature 7 out of 9 features:
+User-given limit reached, exiting.
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1200.22 secs
+glass2, 25-th inst file out of 163
+2QBF: query on feature 8 out of 9 features:
+User-given limit reached, exiting.
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1200.22 secs
+glass2, 26-th inst file out of 163
+2QBF: query on feature 7 out of 9 features:
+***** AXps containing 7 *****
+Solving FMP (CPU) time: 190.14 secs
+glass2, 27-th inst file out of 163
+2QBF: query on feature 8 out of 9 features:
+User-given limit reached, exiting.
+=============== no AXp exists ===============
+Solving FMP (CPU) time: 1200.41 secs
+glass2, 28-th inst file out of 163
+2QBF: query on feature 5 out of 9 features:
+Timeout after 18000 seconds
