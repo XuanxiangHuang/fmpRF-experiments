@@ -225,11 +225,11 @@ if __name__ == '__main__':
             name = item.strip()
             print(f"############ {name} ############")
             data = Dataset(filename=f"datasets/{name}.csv", separator=',', use_categorical=False)
-            md_file = f"rf_models/RF2001/{name}/{name}_nbestim_{n_trees}_maxdepth_4.mod.pkl"
+            md_file = f"rf_models/RFmv/{name}/{name}_nbestim_{n_trees}_maxdepth_4.mod.pkl"
             if name == "vowel":
-                md_file = f"rf_models/RF2001/{name}/{name}_nbestim_{n_trees}_maxdepth_6.mod.pkl"
+                md_file = f"rf_models/RFmv/{name}/{name}_nbestim_{n_trees}_maxdepth_6.mod.pkl"
             elif name == "hayes_roth":
-                md_file = f"rf_models/RF2001/{name}/{name}_nbestim_30_maxdepth_4.mod.pkl"
+                md_file = f"rf_models/RFmv/{name}/{name}_nbestim_30_maxdepth_4.mod.pkl"
             print(f"Loading {md_file}")
             print(f"Using solver: {qbf_slv_name}\n")
             pk_rf = pickle_load_file(md_file)

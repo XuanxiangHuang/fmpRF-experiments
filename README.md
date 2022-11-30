@@ -42,7 +42,7 @@ python3 pick_test_insts.py -bench pmlb_cegar.txt 200
 
 ## Pre-trained Models
 
-All pretrained models are contained in the `rf_models/RF2001` folder.
+All pretrained models are contained in the `rf_models/RFmv` folder.
 Files `train_20_trees_log.txt`, `train_30_trees_log.txt` and `train_100_trees_log.txt`
 store summaries of RF model.
 

@@ -99,7 +99,7 @@ if __name__ == '__main__':
             bench_name = os.path.basename(options.files[0])
             assert (bench_name.endswith('.csv'))
             bench_name = os.path.splitext(bench_name)[0]
-            bench_dir_name = options.output + "/RF2001/" + bench_name
+            bench_dir_name = options.output + "/RFmv/" + bench_name
             try:
                 os.stat(bench_dir_name)
             except:
