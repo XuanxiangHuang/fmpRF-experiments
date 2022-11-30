@@ -90,3 +90,15 @@ or using CAQE
 
 ## Results
 All the reported results in `results` folder:
+
+## Citation
+
+If you make use of this code in your own work, please cite our paper:
+```
+@article{huang2022frprf,
+  title={Solving Explainability Queries with Quantification: The Case of Feature Relevancy},
+  author={Huang, Xuanxiang and Izza, Yacine and Marques-Silva, Joao},
+  journal={},
+  year={}
+}
+```
