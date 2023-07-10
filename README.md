@@ -95,10 +95,13 @@ All the reported results in `results` folder:
 
 If you make use of this code in your own work, please cite our paper:
 ```
-@article{huang2022frprf,
-  title={Solving Explainability Queries with Quantification: The Case of Feature Relevancy},
+@inproceedings{huang2023frprf,
+  title={Solving explainability queries with quantification: The case of feature relevancy},
   author={Huang, Xuanxiang and Izza, Yacine and Marques-Silva, Joao},
-  journal={},
-  year={}
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={37},
+  number={4},
+  pages={3996--4006},
+  year={2023}
 }
 ```
